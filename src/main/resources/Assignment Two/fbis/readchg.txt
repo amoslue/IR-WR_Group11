@@ -1,0 +1,17 @@
+Changes to the Foreign Broadcast Information Service (FBIS) files.
+
+1. Since the significance of the document numbers in the original files were
+   not clear to us (see document number between <HT> tags), we created
+   our own <DOCNO> tags and document numbers.  The new document numbers
+   are easier to understand and are consistent with other TREC/NIST
+   collections.  An example DOCNO is FBIS3-1 where FBIS abbreviates
+   Foreign Broadcast Information Service, 3 is the original FBIS CD number,
+   and 1 a sequential number assigned to documents from the beginning
+   of the current file.
+   
+2. To maintain consistency throughout NIST/TREC collections, all tags were
+   converted to upper case.  
+ 
+3. SGML-tagging of special characters was corrected and made more consistent.
+
+ 

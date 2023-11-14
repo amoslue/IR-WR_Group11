@@ -1,0 +1,89 @@
+A Note to the User
+
+The material on this disk is copyrighted and is subject to the terms and 
+conditions of the TREC-96 Information-Retrieval Text Research Collection User 
+Agreement, which must be signed in order to obtain a copy of the CD-ROM on 
+which this data is to be found.
+
+This data is the FR routing data used in TREC-4.  The document boundaries and 
+<DOCNO>s have been kept the same, however many more tags and SGML comments 
+have been added.  These were added to preserve all formatting information for 
+a larger OCR collections being built.
+
+The changes between the original material as it came from the publisher and the
+version on this disk is detailed in the following file: readchg.
+
+The format uses a labelled bracketing, expressed in the style of SGML (Standard 
+Generalized Markup Language).  The SGML DTD's used for verification at NIST are 
+included on the CDs.  All of the different datasets have their major structures 
+identical for easier reading, but have different minor structures.  The 
+philosophy in the formatting at NIST has been to preserve as much of the 
+original structure as possible, but to provide enough consistency to allow 
+simple decoding of the data.
+
+The major data structures are illustrated below in a sample of the 
+Federal Register data.
+
+<DOC>
+<DOCNO> FR940104-1-00001 </DOCNO>
+<PARENT> FR940104-1-00001 </PARENT>
+<TEXT>
+ 
+<!-- PJG FTAG 4702 -->
+
+<!-- PJG STAG 4702 -->
+
+<!-- PJG ITAG l=90 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=90 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=90 g=1 f=1 -->
+&blank;/&blank;Vol. 59, No. 2&blank;/&blank;Tuesday, January 4, 1994&blank;/&blank;Proposed Rules
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+Vol. 59, No. 2
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=02 g=1 f=1 -->
+Tuesday, January 4, 1994
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+
+<!-- PJG /FTAG -->
+</TEXT>
+</DOC>
+
+Every document is bracketed by <DOC> </DOC> tags and has a unique document 
+number, bracketed by <DOCNO> </DOCNO> tags.  Each beginning tag starts as the 
+first character of a new line, but the ending tags could be on the same line 
+or on later lines.
+
+The datasets have all been compressed using the UNIX compress utility and are 
+stored in chunks of about 1 megabyte each (uncompressed size).
+
+Both as part of the philosophy of leaving the data as close to the original as 
+possible, and because it is impossible to check all the data manually, there 
+are many "errors" in the data.  These range from errors in the original data, 
+such as typographical errors, improper tagging errors, to errors in the 
+reformatting done at NIST.  The error-checking has concentrated on allowing 
+readability of the data rather than on correcting content.  This means that 
+there have been automated checks for control characters, special symbols,
+foreign language characters, for correct matching of the begin and end tags, 
+and for complete DOC and DOCNO fields.  The types of "errors" remaining include 
+fragment sentences, strange formatting around tables or other "non-textual" 
+items, misspellings, missing fields (that are generally missing from the data), 
+etc.

@@ -1,0 +1,77 @@
+Changes to the Federal Register files.
+
+1. The <DOCNO> numbers are the same as used in the TREC-4 routing data.
+   Because this data will be used as part of a larger OCR collection, a new
+   field called <PARENT> has been added.  This contains a "corrected" DOCNO to
+   resolve problems where the document was incorrectly broken apart for TREC-4.
+
+2. All punctuation was changed to be SGML compliant.  This was most obvious in 
+   the case of '&'.  In addition, control characters, special symbols, and 
+   foreign language characters were removed from the documents, replaced with 
+   the appropriate SGML entity, or a SGML entity was created to handle the 
+   character in question.  For a detailed list of the entities handled by 
+   sgml, see the file fr94.dtd.  
+
+3. In the previous FR94 collection, the following tags existed.  These tags
+   have been converted to SGML compliant comments.
+
+   <FTAG>
+   <GTAG>
+   <ITAG>
+   <QTAG>
+   <STAG>
+   <TTAG>
+
+   The GTAG and TTAG values have been amalgamated into ITAG comments.
+   The ZTAG was removed.
+
+4. The following tags have been added. They delimit regions of specific 
+   semantic content within the Federal Register.  The tags occur zero or more 
+   times in any given document.
+
+   USDEPT          The name of the department within the federal government 
+                   that released the document.
+   AGENCY          The name of the government agency within the department.
+   USBUREAU        The name of the government service or bureau contributing 
+                   the document.
+   DOCTITLE        The title text of the contribution.
+   ADDRESS         The address(es) of the contributing agency.
+   FURTHER         The text detailing availability of further information.
+   SUMMARY         A precis of the text of the full document. This text is
+                   contributed by the agency and appears before the main
+                   body of the text.
+   ACTION          The function of the article; the reason it is in the
+                   federal register. Usually just a few words.
+   SIGNER          The signatory of the document.
+   SIGNJOB         The title of the signatory.
+   SUPPLEM         The supplementary information; the bulk of the document
+                   text.
+   BILLING         The Federal Register billing code for that section.
+   FRFILING        The document's filing details.
+   DATE            The effective date and/or time applicable to the text.
+   CFRNO           The relevant section of the United States Code.
+   RINDOCK         The docket or RIN number of the entry.
+
+5. The following tags contain text that is optionally useful for retrieval.  
+   There may be multiple occurrences of these tags within a document.
+
+   TABLE           The text appearing in a table, often numeric.
+   FOOTNOTE        The text appearing as a footnote.
+   FOOTCITE        The text appearing that labels a footnote, usually just a 
+                   superscripted integer.
+   FOOTNAME        The text labelling the footnote, corresponding to the 
+                   citation.
+
+6. The text contained in the following tag's scope is probably not useful for 
+   retrieval.
+
+   IMPORT          This tag denotes the importation of a special figure (a map,i
+                   graph, table, image) whose contents do not appear in the 
+                   files supplied, but that do appear in the Federal Register 
+                   itself.
+
+7. comments:
+   The many SGML compliant comments all contain the string "-- PJG ".  They may
+   safely be removed with the following UNIX command:
+   % egrep -v '\-\- PJG ' FR940101-0 > FR940101-0.nocomments
+

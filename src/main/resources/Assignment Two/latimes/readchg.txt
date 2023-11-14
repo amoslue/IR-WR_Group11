@@ -1,0 +1,22 @@
+NIST processing of the data as supplied by Lexis-Nexis included the following:
+
+1. The data was split into multiple files, with each file representing
+   the articles from one day.  Newlines were added after most tags,
+   and document text was formatted such that lines broke at word boundaries
+   at approximately 80 characters in length.
+
+2. TREC DOCNO's were added, and the document number included in the Lexis-Nexis
+   file was preserved as a "DOCID".  DOCNO's are of the form
+        <filename>-<sequence number> (e.g., LA042990-0002)
+   where filename is the name of the file in which the article is included
+   and sequence number is a count of the number of articles from the beginning
+   of that file.
+   
+3. To maintain consistency with other NIST/TREC collections, all tags were
+   forced to upper case only and the "TEXT" tag replaced the "BODY" tag of
+   the original file.  
+ 
+4. Bracketing errors with the <TEXT> and </TEXT> tags  (i.e., unbalanced
+   tags within a single document) were corrected.  The <TEXT> tag was added
+   to follow the <HEADLINE> tag and the </TEXT> tag was added to precede the
+   <GRAPHIC> </GRAPHIC> or <TYPE></TYPE> or </DOC> tags where appropriate.

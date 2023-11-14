@@ -1,0 +1,100 @@
+<!DOCTYPE FR [
+
+<!--   SGML DESCRIPTIONS         -->
+<!--   +     Required and repeatable element -->
+<!--   ?     Optional element                -->
+<!--   *     Optional and repeatable element -->
+<!--   ,     elements must follow in this order  -->
+<!--   |     "or" connector (pick one element)   -->
+<!--   &     "and" connector (all must occur in any order)   -->
+
+<!--       ELEMENT     MIN  CONTENT -->
+
+<!ELEMENT PARENT       - - (#PCDATA)+ >
+<!ELEMENT TABLE        - - (FRFILING* | SIGNER* | #PCDATA)+ >
+<!ELEMENT FOOTCITE     - - (#PCDATA)+ >
+<!ELEMENT CFRNO        - - (#PCDATA)+ >
+<!ELEMENT RINDOCK      - - (FOOTCITE* | #PCDATA)+ >
+<!ELEMENT USDEPT       - - (#PCDATA)+ >
+<!ELEMENT USBUREAU     - - (#PCDATA)+ >
+<!ELEMENT IMPORT       - - (FOOTCITE* | FOOTNOTE* | FOOTNAME* | SIGNJOB* | SIGNER* | BILLING* | TABLE* | FRFILING* | #PCDATA)+ >
+<!ELEMENT DOCTITLE     - - (FOOTCITE* | #PCDATA)+ >
+<!ELEMENT AGENCY       - - (FOOTCITE* | FOOTNOTE* | FOOTNAME* | #PCDATA)+ >
+<!ELEMENT ACTION       - - (TABLE* | SIGNER* | FOOTCITE* | FOOTNAME* | FOOTNOTE* | #PCDATA)+ >
+<!ELEMENT SUMMARY      - - (TABLE* | SIGNER* | FOOTCITE* | FOOTNAME* | FOOTNOTE* | #PCDATA)+ >
+<!ELEMENT DATE         - - (TABLE* | SIGNER* | FOOTNAME* | FOOTCITE* | FOOTNOTE* | IMPORT* | #PCDATA)+ >
+<!ELEMENT ADDRESS      - - (FOOTNOTE* | FOOTCITE* | TABLE* | SIGNER* | #PCDATA)+ >
+<!ELEMENT FURTHER      - - (TABLE* | SIGNER* | FOOTNOTE* | FOOTCITE* | FOOTNAME* | IMPORT* | SIGNJOB* | BILLING* | FRFILING* | #PCDATA)+ >
+<!ELEMENT SUPPLEM      - - (FOOTNAME* | SIGNJOB* | SIGNER* | BILLING* | FRFILING* | RINDOCK* | USDEPT* | CFRNO* | FOOTNOTE* | FOOTCITE* | TABLE* | IMPORT* | #PCDATA)+ >
+<!ELEMENT SIGNER       - - (FOOTNAME* | FOOTNOTE* | TABLE* | FOOTCITE* | #PCDATA)+ >
+<!ELEMENT SIGNJOB      - - (USDEPT* | CFRNO* | IMPORT* | USBUREAU* | RINDOCK* | TABLE* | SIGNER* | FOOTNAME* | FOOTNOTE* | FOOTCITE* | #PCDATA)+ >
+<!ELEMENT FRFILING     - - (FOOTNOTE* | FOOTNAME* | FOOTCITE* | USDEPT* | DOCTITLE* | RINDOCK* | TABLE* | SIGNER* | #PCDATA)+ >
+<!ELEMENT BILLING      - - (#PCDATA)+ >
+<!ELEMENT FOOTNOTE     - - (FOOTNAME* | #PCDATA)+ >
+<!ELEMENT FOOTNAME     - - (#PCDATA)+ >
+
+<!--       ELEMENT     NAME     CONTENT  DEFAULT -->
+
+
+<!ELEMENT  DOCNO     - -  (#PCDATA)+ >
+<!ELEMENT  TEXT      - -  (AGENCY* | ACTION* | SUMMARY* | DATE* | FOOTNAME* | FURTHER* | SIGNER* | SIGNJOB* | FRFILING* | BILLING* | FOOTNOTE* | FOOTCITE* | TABLE* | ADDRESS* | IMPORT* | SUPPLEM | USDEPT* | USBUREAU* | CFRNO* | RINDOCK* | DOCTITLE* | #PCDATA)+ >
+<!ELEMENT  DOC       - -  (DOCNO+ & (PARENT* | TEXT+)* )>
+<!ELEMENT  FR        O O  (DOC+)>
+
+<!ENTITY   hyph     "-        hyphen"                                  > 
+<!ENTITY   blank    "         significant blank symbol"                >
+<!ENTITY   sect     "         section symbol"                          >
+<!ENTITY   para     "         paragraph symbol"                        >
+<!ENTITY   cir      "         small hollow circle"                     >
+<!ENTITY   rsquo    "         single quotation mark, right"            >
+<!ENTITY   mu       "         Greek letter u"                          >
+<!ENTITY   times    "x"                                                >
+<!ENTITY   bull     "         solid bullet symbol"                     >
+<!ENTITY   ge       ">=       greater than equal to"                   >
+<!ENTITY   reg      "         register trade mark"                     >
+<!ENTITY   cent     "US currency symbol, with diagonal bar through it" > 
+<!ENTITY   amp      "&        ampersand"                               >
+<!ENTITY   gt       ">        greater than"                            >
+<!ENTITY   lt       "<        less than"                               >
+<!ENTITY   acirc    "acirc    small a, circumflex"                     >
+<!ENTITY   ncirc    "ncirc    small n, circumflex"                     >
+<!ENTITY   atilde   "atilde   small a, tilde"                          >
+<!ENTITY   ntilde   "ntilde   small n, tilde"                          >
+<!ENTITY   otilde   "otilde   small o, tilde"                          >
+<!ENTITY   utilde   "utilde   small u, tilde"                          >
+<!ENTITY   aacute   "aacute   small a, acute accent"                   >
+<!ENTITY   cacute   "cacute   small c, acute accent"                   >
+<!ENTITY   eacute   "eacute   small e, acute accent"                   >
+<!ENTITY   Eacute   "Eacute   capital E, acute accent"                 >
+<!ENTITY   Gacute   "Gacute   capital G, acute accent"                 >
+<!ENTITY   iacute   "iacute   small i, acute accent"                   >
+<!ENTITY   lacute   "lacute   small l, acute accent"                   >
+<!ENTITY   nacute   "nacute   small n, acute accent"                   >
+<!ENTITY   oacute   "oacute   small o, acute accent"                   >
+<!ENTITY   pacute   "pacute   small p, acute accent"                   >
+<!ENTITY   racute   "racute   small r, acute accent"                   >
+<!ENTITY   sacute   "sacute   small s, acute accent"                   >
+<!ENTITY   uacute   "uacute   small u, acute accent"                   >
+<!ENTITY   ocirc    "ocirc    small o, circumflex accent"              >
+<!ENTITY   auml     "auml     small a, dieresis or umlaut mark"        >
+<!ENTITY   euml     "euml     small e, dieresis or umlaut mark"        >
+<!ENTITY   Euml     "Euml     capital E, dieresis or umlaut mark"      >
+<!ENTITY   iuml     "iuml     small i, dieresis or umlaut mark"        >
+<!ENTITY   Iuml     "Iuml     capital I, dieresis or umlaut mark"      >
+<!ENTITY   Kuml     "Kuml     capital K, dieresis or umlaut mark"      >
+<!ENTITY   Ouml     "Ouml     capital O, dieresis or umlaut mark"      >
+<!ENTITY   ouml     "ouml     small o, dieresis or umlaut mark"        >
+<!ENTITY   uuml     "uuml     small u, dieresis or umlaut mark"        >
+<!ENTITY   Ccedil   "Ccedil   capital C, cedilla"                      >
+<!ENTITY   ccedil   "ccedil   small c, cedilla"                        >
+<!ENTITY   agrave   "agrave   small a, grave accent"                   >
+<!ENTITY   Agrave   "Agrave   capital A, grave accent"                 >
+<!ENTITY   egrave   "egrave   small e, grave accent"                   >
+<!ENTITY   Egrave   "Egrave   capital E, grave accent"                 >
+<!ENTITY   igrave   "igrave   small i, grave accent"                   >
+<!ENTITY   Ograve   "Ograve   capital O, grave accent"                 >
+<!ENTITY   ograve   "ograve   small o, grave accent"                   >
+<!ENTITY   ugrave   "ugrave   small u, grave accent"                   >
+<!ENTITY #DEFAULT SYSTEM >
+
+]>

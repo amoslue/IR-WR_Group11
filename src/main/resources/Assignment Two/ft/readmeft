@@ -1,0 +1,85 @@
+A Note to the User
+
+The material on this disk is copyrighted and is subject to the terms and 
+conditions of the TREC-96 Information-Retrieval Text Research Collection User 
+Agreement, which must be signed in order to obtain a copy of the CD-ROM on 
+which this data is to be found.
+
+The changes between the original material as it came from the publisher and the 
+version on this disk is detailed in the following file: readfrcg.
+
+The only tag changes were as follows:
+
+PUBLICATION tag was replaced by <PUB>.  The END tag was deleted. 
+
+The format uses a labelled bracketing, expressed in the style of SGML 
+(Standard Generalized Markup Language).  The SGML DTD's used for verification 
+at NIST are included on the CDs.  All of the different datasets have their 
+major structures identical for easier reading, but have different minor 
+structures.  The philosophy in the formatting at NIST has been to preserve as 
+much of the original structure as possible, but to provide enough consistency 
+to allow simple decoding of the data.
+
+The major data structures are illustrated below in a sample of the Financial 
+Times data.
+
+<DOC>
+<DOCNO>FT911-1</DOCNO>
+<PROFILE>_AN-BENBQAD8FT</PROFILE>
+<DATE>910514
+</DATE>
+<HEADLINE>
+FT  14 MAY 91 / (CORRECTED) Jubilee of a jet that did what it was designed
+to do
+</HEADLINE>
+<TEXT>
+Correction (published 16th May 1991) appended to this article.
+'FRANK, it flies]' shouted someone at Sir Frank Whittle during the maiden
+flight of a British jet. 'Of course it does,' replied Sir Frank, who
+patented the first aircraft gas turbine. 'That's what it was bloody well
+designed to do, wasn't it?'
+Exactly 50 years ago yesterday, the first British jet made a brief 17-minute
+flight from RAF Cranwell in Lincolnshire. To celebrate the event, Mr Eric
+'Winkle' Brown, a 72-year-old test pilot of the prototype Gloster Whittle
+jet, Mr Geoffrey Bone, a 73-year-old engineer, and Mr Charles McClure, a
+75-year-old pilot, returned to RAF Cranwell. They are seen in front of a
+restored Meteor NF 11. Sir Frank was unable to attend because of ill-health.
+The Gloster Whittle was not the first jet to fly: a Heinkel 178 had its
+maiden flight in August 1939, 21 months before the British aircraft.
+Correction (published 16th May 1991).
+THE PICTURE of a Gloster Whittle jet on Page 7 of the issue of Tuesday May
+14, was taken at Bournemouth Airport and not at RAF Cranwell as stated in
+the caption.
+</TEXT>
+<PUB>The Financial Times
+</PUB>
+<PAGE>
+London Page 7 Photograph (Omitted).
+</PAGE>
+</DOC>
+
+Every document is bracketed by <DOC> </DOC> tags and has a unique document 
+number, bracketed by <DOCNO> </DOCNO> tags.  Each beginning tag starts as the 
+first character of a new line, but the ending tags could be on the same line or
+on later lines.
+
+The datasets have all been compressed using the UNIX compress utility and are 
+stored in chunks of about 1 megabyte each (uncompressed size).
+
+Both as part of the philosophy of leaving the data as close to the original as 
+possible, and because it is impossible to check all the data manually, there 
+are many "errors" in the data.  These range from errors in the original data, 
+such as typographical errors, improper tagging errors, to errors in the 
+reformatting done at NIST.  The error-checking has concentrated on allowing 
+readability of the data rather than on correcting content.  This means that 
+there have been automated checks for control characters, special symbols,
+foreign language characters, correct matching of the begin and end tags, and 
+complete DOC and DOCNO fields.  The types of "errors" remaining include 
+fragment sentences, strange formatting around tables or other "non-textual" 
+items, misspellings, missing fields (that are generally missing from the 
+data), etc.
+
+Special thanks should go to Mike Gardner and Nigel Foulks at the Financial
+Times for providing this data.  Also special thanks to Professor Keith van
+Rijsbergen and Mark Sanderson at the University of Glasgow for arranging for 
+TREC to use this data.

@@ -1,0 +1,91 @@
+<!DOCTYPE FBIS [
+
+<!--   SGML DESCRIPTIONS         -->
+<!--   +     Required and repeatable element -->
+<!--   ?     Optional element                -->
+<!--   *     Optional and repeatable element -->
+<!--   ,     elements must follow in this order  -->
+<!--   |     "or" connector (pick one element)   -->
+<!--   &     "and" connector (all must occur in any order)   -->
+
+<!--       ELEMENT  MIN  CONTENT -->
+<!-- These are doc, docno, text, etc -->
+<!--       ELEMENT     NAME     CONTENT  DEFAULT -->
+
+<!ELEMENT  DOCID    - -  (#PCDATA)+        >   
+<!ELEMENT  HT       - -  (#PCDATA | PHRASE | F)+        >   
+<!ELEMENT  HEADER   - -  (#PCDATA | HT | PHRASE | DATE1 | ABS | FIG | F | TI | AU | H1 | H2 | H3 | H4 | H5 | H6 | H7 | H8 | TR | TXT5)+                    > 
+<!ELEMENT  H1       - -  (TI* | #PCDATA)+        >   
+<!ELEMENT  H2       - -  (TI* | #PCDATA)+        >   
+<!ELEMENT  H3       - -  (TI* | #PCDATA)+        >   
+<!ELEMENT  H4       - -  (TI* | #PCDATA)+        >   
+<!ELEMENT  H5       - -  (TI* | #PCDATA)+        >   
+<!ELEMENT  H6       - -  (TI* | #PCDATA)+        >   
+<!ELEMENT  H7       - -  (TI* | #PCDATA)+        >   
+<!ELEMENT  H8       - -  (TI* | #PCDATA)+        >   
+<!ELEMENT  TR       - -  (H1* | H2* | H3* | H4* | H5* | #PCDATA)+        >   
+<!ELEMENT  TXT5       - -  (TXT5* | #PCDATA)+        >   
+<!ELEMENT  PHRASE   - -  (#PCDATA)+        >   
+<!ELEMENT  FIG      - -  (#PCDATA)+        >   
+<!ELEMENT  F        - -  (#PCDATA | PHRASE)+        >   
+<!ELEMENT  AU       - -  (#PCDATA)+        >   
+<!ELEMENT  ABS      - -  (#PCDATA)+        >   
+<!ELEMENT  TI       - -  (#PCDATA)+        >   
+<!ELEMENT  DATE1    - -  (#PCDATA)+       >   
+<!ELEMENT  TEXT   - -  (#PCDATA | HT | PHRASE | DATE1 | ABS | FIG | F | TI | AU | H1 | H2 | H3 | H4 | H5 | H6 | H7 | H8 | TR | TXT5)+                    > 
+<!ELEMENT  DOCNO    - -  (#PCDATA)+       >
+<!ELEMENT  DOC      - -  ((DOCNO) & (HT | HEADER | PHRASE | DATE1 | ABS | FIG | F | TI | AU | H1 | H2 | H3 | H4 | H5 | H6 | H7 | H8 | TR | TXT5)* & (TEXT))              > 
+
+<!ELEMENT  FBIS        O O  (DOC+)>
+
+<!ATTLIST     FIG  ID CDATA      #IMPLIED >
+<!ATTLIST     F  P CDATA      #IMPLIED >
+
+<!-- This changes the symbols back to what they should be -->
+<!-- Only need ampersand, less than, and more than -->
+<!-- Leave the default system in there -->
+
+<!--ENTITY % ISOnum PUBLIC "ISO 8879-1986//ENTITIES Numeric and Special Graphic//EN"-->
+<!ENTITY   amp      	SDATA   "[amp   ]"      >
+<!ENTITY   gt       	SDATA   "[gt    ]"      >
+<!ENTITY   lt       	SDATA   "[lt    ]"      >
+<!ENTITY   AElig     	SDATA 	"[AElig ]"   	>
+<!ENTITY   ap     	SDATA 	"[ap    ]"   	>
+<!ENTITY   deg      	SDATA   "[deg   ]"   	>
+<!ENTITY   egrave      	SDATA   "[egrave]" 	>
+<!ENTITY   eacute      	SDATA   "[eacute]" 	>
+<!ENTITY   oacute      	SDATA   "[oacute]" 	>
+<!ENTITY   ubreve      	SDATA   "[ubreve]" 	>
+<!ENTITY   Ubreve      	SDATA   "[Ubreve]" 	>
+<!ENTITY   egs      	SDATA   "[egs   ]"	>
+<!ENTITY   els      	SDATA   "[els   ]"	>
+<!ENTITY   percnt      	SDATA   "[percnt]"	>
+<!ENTITY   pound      	SDATA   "[pound ]"	>
+<!ENTITY   yen		SDATA   "[yen   ]"	>
+<!ENTITY   agr		SDATA   "[agr   ]"	>
+<!ENTITY   bgr		SDATA   "[bgr   ]"	>
+<!ENTITY   dgr		SDATA   "[dgr   ]"	>
+<!ENTITY   egr		SDATA   "[egr   ]"	>
+<!ENTITY   ggr		SDATA   "[ggr	]"	>
+<!ENTITY   Ggr		SDATA   "[Ggr	]"	>
+<!ENTITY   kgr		SDATA   "[kgr	]"	>
+<!ENTITY   lgr		SDATA   "[lgr   ]"	>
+<!ENTITY   mgr		SDATA   "[mgr   ]"	>
+<!ENTITY   pgr		SDATA   "[pgr   ]"	>
+<!ENTITY   rgr		SDATA   "[rgr   ]"	>
+<!ENTITY   sgr		SDATA   "[sgr   ]"	>
+<!ENTITY   tgr		SDATA   "[tgr   ]"	>
+<!ENTITY   xgr		SDATA   "[xgr   ]"	>
+<!ENTITY   zgr		SDATA   "[zgr   ]"	>
+<!ENTITY   eegr		SDATA   "[eegr  ]"	>
+<!ENTITY   khgr		SDATA   "[khgr  ]"	>
+<!ENTITY   phgr		SDATA   "[phgr  ]"	>
+<!ENTITY   thgr		SDATA   "[thgr  ]"	>
+<!ENTITY   ohm		SDATA   "[ohm   ]"	>
+<!ENTITY   Bgr		SDATA   "[Bgr   ]"      >
+<!ENTITY   Ngr      	SDATA   "[Ngr   ]" 	>
+<!ENTITY   EEgr      	SDATA   "[EEgr  ]" 	>
+<!ENTITY   OHgr      	SDATA   "[OHgr  ]" 	>
+<!ENTITY   PSgr      	SDATA   "[PSgr  ]" 	>
+<!ENTITY   Omacr      	SDATA   "[Omacr ]" 	>
+]>

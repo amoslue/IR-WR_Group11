@@ -1,0 +1,21 @@
+Changes to the Financial Times files.
+
+
+1. Since the files did not contain any document numbers, document numbers were 
+   added in the format of: FT911-1, where FT stands for Financial Times; 91 
+   represents the year, the first 1 comes from numbering on the original 
+   disks, and the final 1 is a sequential number added at NIST.  
+
+2. All punctuation was changed to be SGML compliant.  This was most obvious in 
+   the case of '&'.  In addition, control characters were removed from the 
+   documents or replaced with the appropriate SGML entity.  For a detailed 
+   list of the entities handled by sgml, see the file ftdtd.  
+
+3. One tag was shortened from PUBLICATION to <PUB>.  The END tag was deleted. 
+
+4. In the original data for ft921, there were several files that began with 
+   "!"; these files were not used.
+
+5. In the original data for ft922, a table contained numerous ^? (which is 
+   really a *).  These characters were deleted since they did not parse 
+   through the sgml filter.

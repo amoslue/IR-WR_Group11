@@ -1,0 +1,44 @@
+<!DOCTYPE FT931 [
+
+<!--   SGML DESCRIPTIONS         -->
+<!--   +     Required and repeatable element -->
+<!--   ?     Optional element                -->
+<!--   *     Optional and repeatable element -->
+<!--   ,     elements must follow in this order  -->
+<!--   |     "or" connector (pick one element)   -->
+<!--   &     "and" connector (all must occur in any order)   -->
+
+<!-- QUANTITY FT931REF -->
+<!--    NAMELEN 32 -->
+
+<!--       ELEMENT  MIN  CONTENT -->
+<!-- These are doc, docno, text, etc -->
+<!--       ELEMENT     NAME     CONTENT  DEFAULT -->
+<!ELEMENT  XX           - -  (#PCDATA)+       >   
+<!ELEMENT  CO           - -  (#PCDATA)+       >   
+<!ELEMENT  CN           - -  (#PCDATA)+       >   
+<!ELEMENT  IN           - -  (#PCDATA)+       >   
+<!ELEMENT  TP           - -  (#PCDATA)+       >   
+<!ELEMENT  PE           - -  (#PCDATA)+       >   
+<!ELEMENT  DATE         - -  (#PCDATA)+       >   
+<!ELEMENT  PUB          - -  (#PCDATA)+       >   
+<!ELEMENT  DOCNO        - -  (#PCDATA)+       >
+<!ELEMENT  PAGE         - -  (#PCDATA)+       >
+<!ELEMENT  TEXT         - -  (#PCDATA)+       >
+<!ELEMENT  BYLINE       - -  (#PCDATA)+       >
+<!ELEMENT  DATELINE     - -  (#PCDATA)+       >
+<!ELEMENT  HEADLINE     - -  (#PCDATA)+       >
+<!ELEMENT  PROFILE      - -  (#PCDATA)+       >
+<!ELEMENT  DOC          - -  (DOCNO & (DATE* | PROFILE* | HEADLINE* | BYLINE* | TEXT+ | DATELINE* | XX* | CO* | CN* | IN* | TP* | PE* | PUB* | PAGE* )* )> 
+<!ELEMENT  FT931        O O  (DOC+)>
+
+<!-- This changes the symbols back to what they should be -->
+<!-- Only need ampersand, less than, and more than -->
+<!-- Leave the default system in there -->
+
+<!ENTITY   amp      "&" >
+<!ENTITY   gt       ">" >
+<!ENTITY   lt       "<" >
+<!ENTITY #DEFAULT SYSTEM >
+
+]>

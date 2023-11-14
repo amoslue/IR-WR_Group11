@@ -1,0 +1,6453 @@
+<DOC>
+<DOCNO> FR941104-0-00001 </DOCNO>
+<PARENT> FR941104-0-00001 </PARENT>
+<TEXT>
+ 
+<!-- PJG FTAG 4700 -->
+
+<!-- PJG STAG 4700 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=90 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=90 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=90 g=1 f=1 -->
+&blank;/&blank;Vol. 59, No. 213&blank;/&blank;Friday, November 4, 1994&blank;/&blank;Rules and Regulations
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+Vol. 59, No. 213 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=02 g=1 f=1 -->
+Friday, November 4, 1994
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+
+<!-- PJG /FTAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00002 </DOCNO>
+<PARENT> FR941104-0-00001 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=50 g=1 f=1 -->
+DEPARTMENT OF TRANSPORTATION 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=18 g=1 f=1 -->
+Federal Aviation Administration
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+
+<CFRNO>14 CFR Part 39 </CFRNO>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=41 g=1 f=1 -->
+
+<RINDOCK>[Docket No. 94&hyph;ANE&hyph;26; Amendment 39&hyph;9062; AD 94&hyph;22&hyph;12] </RINDOCK>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=55 g=1 f=1 -->
+Airworthiness Directives; Hamilton Standard 14RF, 247F, 14SF, and 
+<!-- PJG 0320 forcenewline -->
+6/5500/F Series Propellers 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<AGENCY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+AGENCY:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Federal Aviation Administration, DOT.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</AGENCY>
+<ACTION>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ACTION:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Final rule.
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=59 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</ACTION>
+<SUMMARY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUMMARY:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ This amendment supersedes an existing airworthiness directive (AD), applicable to Hamilton Standard 14RF, 247F,
+14SF, and 6/5500/F (formerly Hamilton Standard/British Aerospace 6/5500/F) series propellers, that currently
+requires initial and repetitive inspections of the propeller control unit (PCU) servo ballscrew internal spline
+(BIS) teeth for wear, and replacement, if necessary, of PCU servo BIS assemblies. This amendment increases the repetitive
+inspection interval from 500 to 1,500 hours time in service (TIS) since last inspection for propellers that have a
+ballscrew quill damper installed. This amendment is prompted by the availability of improved hardware that restricts
+quill motion and enhances the lubrication of the BIS and significantly reduces BIS wear. The actions specified by
+this AD are intended to prevent inability to control the propeller blade angle due to tooth wear in the PCU servo BIS
+assembly.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</SUMMARY>
+<DATE>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+DATES:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Effective December 5, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+The incorporation by reference of certain publications listed in the regulations is approved by the Director of the
+Federal Register as of December 5, 1994.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</DATE>
+<ADDRESS>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ADDRESSES:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ The service information referenced in this AD may be obtained from Hamilton Standard, One Hamilton Road, Windsor
+Locks, CT 06096&hyph;1010. This information may be examined at the Federal Aviation Administration (FAA), New England
+Region, Office of the Assistant Chief Counsel, 12 New England Executive Park, Burlington, MA 01803&hyph;5299; or
+at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</ADDRESS>
+<FURTHER>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+FOR FURTHER INFORMATION CONTACT:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Frank Walsh, Aerospace Engineer, Boston Aircraft Certification Office, FAA, Engine and Propeller Directorate,
+12 New England Executive Park, Burlington, MA 01803&hyph;5299; telephone (617) 238&hyph;7158, fax (617) 238&hyph;7199.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</FURTHER>
+<SUPPLEM>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUPPLEMENTARY INFORMATION:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ A proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) by superseding AD 93&hyph;16&hyph;02,
+Amendment 39&hyph;8659 (58 FR 44441, August 23, 1993), which is applicable to Hamilton Standard 14RF, 247F, 14SF,
+and 6/5500/F (formerly Hamilton Standard/British Aerospace 6/5500/F) series propellers, was published in the
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ on May 27, 1994 (59 FR 27510). That action proposed to increase the repetitive inspection interval from 500 to 1,500
+hours time in service (TIS) since last inspection for propellers that have a ballscrew quill damper installed. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Interested persons have been afforded an opportunity to participate in the making of this amendment. Due consideration
+has been given to the comments received. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Seven commenters concur with the rule as proposed. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+One commenter concurs with the proposal to extend the repetitive inspection interval from 500 to 1,500 hours TIS,
+but also states that paragraph (a)(5) of the NPRM requires inspection at 1,500 hours TIS if a damper is installed, but
+previously ``new'' PCU's were not required to be inspected until 1,800 hours TIS since new. The commenter further
+states that this interval is not consistent since it is a decrease of 300 hours with the improved hardware, and recommends
+the interval to be extended to 1,800 hours TIS for new PCU's. The FAA concurs and has revised this final rule accordingly.
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The commenter also recommends the following changes to Appendix 1 of the NPRM: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The commenter states that the date of the damper installation should not be required since those receiving a ``new''
+PCU or one from a repair station where the damper was installed may not have access to the actual installation date.
+What should be required is an answer to the question, ``Damper installed?'' (answer either ``Yes'' or ``No''), and
+if ``Yes'', and the indication of whether it was installed ``at this inspection'' or ``previously.'' The FAA concurs
+and has revised this final rule accordingly. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The commenter states that the requirement to list the aircraft model is not required provided the PCU part number is
+complete with the dash or ``A'' number. The FAA concurs and has revised this final rule accordingly. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The commenter states that blanks are not needed for the items ``Estimated Time on PCU'' and ``Actual Time on PCU.''
+What is needed is an indication as to which one of those statements applies to the following: ``Time Since New (hours)''
+and ``Time Since Last Ballscrew Inspection/Repair (hours).'' The FAA concurs and has revised this final rule accordingly.
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The commenter states that there is no requirement to indicate (a reminder to complete) completion of the ``pull check''
+of the PCU quill after it is reinstalled. The FAA concurs and has added this item to Appendix 1 of this final rule. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SUPPLEM>
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00003 </DOCNO>
+<PARENT> FR941104-0-00001 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Two commenters indicate that the installation of the damper had merit and should reduce the PCU's vulnerability to
+wear. However, the commenters believe that the inspection interval should not be extended to 1,500 hours TIS for the
+following reasons: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The first commenter states that the root cause or single reason for the ballscrew internal spline wear has not been
+identified. The Original Equipment Manufacturer (OEM) bench test of the modified ballscrew internal spline quill
+installation does not demonstrate a test that duplicates actual operation; e.g., there is retaining wire wear due
+to axial preload from the damper. Also, currently there is inadequate scientific basis for reliance on the test data
+as there is insufficient field experience data. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The second commenter also states that the specific cause of wear has not been positively identified. The proposed
+modification does not correct the negative failure modes in the PCU should a wear induced failure occur. Finally,
+this commenter expresses concern that the field data used to justify the increased inspection interval is being collected
+only from a small percentage of units in operation. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The FAA does not concur with these comments. The FAA has researched these issues and reviewed the data from numerous
+tests and investigations that have been conducted to determine the cause of extreme wear when it occurs on a very small
+number of splines in service. The FAA has determined that by these tests and investigations a number of factors contribute
+to how or if the spline joint will wear. These factors include: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Magnitude and direction of vibratory environment. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+How well the spline joint is lubricated. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Motion of elements within the joint due to stack up of clearances. 
+<!-- PJG 0012 frnewline -->
+Thickness of chrome plating on spline teeth. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The FAA has therefore determined that there is no single factor for wear of this complex joint. However, the major contributors
+of the listed factors have been found to be lubrication and axial motion. Laboratory tests and controlled field service
+data has proven the damper reduces the wear factor by well over 20 times the rate before its installation. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The retaining wire wear is not a phenomenon associated with the damper introduction. The retaining wires generally
+show some degree of marking (mainly dents in the wire) from the flat end of the ballscrew spline teeth bearing on the
+round wire. This marking occurs on retaining wires on PCU's with and without dampers installed. After an initial ``Seating''
+of the parts, the retaining wire continues to operate without distress. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Currently, the FAA has reported data from high time controlled field service units in multiple model installations
+to have accumulated over 2,138 hours TIS with the same damper installed. In addition, the damper modification has
+been available to operators since January 1, 1994. The manufacturer has shipped over 2,800 modification kits and
+has conservatively estimated that over 300,000 hours of field time has been logged by operators with the modification
+installed. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Based on the investigative reports, satisfactory field inspection data, and improved wear factors resulting from
+the installed damper modification, the FAA has determined that a negative failure mode should not occur within the
+new inspection interval of 1,500 hours TIS. The FAA has therefore adopted the inspection interval stated in the NPRM.
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+After careful review of the available data, including the comments noted above, the FAA has determined that air safety
+and the public interest require the adoption of the rule with the changes described previously. The FAA has determined
+that these changes will neither increase the economic burden on any operator nor increase the scope of the AD. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00004 </DOCNO>
+<PARENT> FR941104-0-00001 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+There are approximately 2,506 propellers of the affected design in the worldwide fleet. The FAA estimates that 1,150
+propellers installed on aircraft of U.S. registry will be affected by this AD, that it will take approximately 1.5
+work hours per propeller to accomplish the required actions, and that the average labor rate is $55 per work hour. Based
+on these figures, and on the average utilization rate of 2,000 hours TIS per year equating to 4 inspections, the total
+cost impact of the current AD per year on U.S. operators is estimated to be $379,500. However, based on an average utilization
+rate of 2,000 hours TIS per year, this superseding AD will eliminate 2.7 inspections per year per propeller, resulting
+in an approximate yearly cost savings to U.S. operators of $256,163. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The regulations adopted herein will not have substantial direct effects on the States, on the relationship between
+the national government and the States, or on the distribution of power and responsibilities among the various levels
+of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not
+have sufficient federalism implications to warrant the preparation of a Federalism Assessment. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+For the reasons discussed above, I certify that this action (1) is not a ``significant regulatory action'' under Executive
+Order 12866; (2) is not a ``significant rule'' under DOT Regulatory Policies and Procedures (44 FR 11034, February
+26, 1979); and (3) will not have a significant economic impact, positive or negative, on a substantial number of small
+entities under the criteria of the Regulatory Flexibility Act. A final evaluation has been prepared for this action
+and it is contained in the Rules Docket. A copy of it may be obtained from the Rules Docket at the location provided under
+the caption 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+ADDRESSES. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+List of Subjects in 14 CFR Part 39 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+Air Transportation, Aircraft, Aviation safety, Incorporation by reference, Safety. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+Adoption of the Amendment 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration
+amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=2 -->
+PART 39_AIRWORTHINESS DIRECTIVES 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+1. The authority citation for part 39 continues to read as follows: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=2 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=4 -->
+Authority:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+ 49 U.S.C. App. 1354(a), 1421 and 1423; 49 U.S.C. 106(g); and 14 CFR 11.89. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00005 </DOCNO>
+<PARENT> FR941104-0-00001 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=80 g=1 f=1 -->
+39.13
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=89 g=1 f=1 -->
+[Amended] 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+2. Section 39.13 is amended by removing Amendment 
+<!-- PJG 0012 frnewline -->
+39&hyph;8659 (58 FR 44441, August 23, 1993) and by adding a new airworthiness directive, Amendment 39&hyph;9062,
+to read as follows: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=26 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=26 g=1 f=4 -->
+94&hyph;22&hyph;12 Hamilton Standard: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=26 g=1 f=1 -->
+Amendment 39&hyph;9062. Docket 94&hyph;ANE&hyph;26. Supersedes AD 93&hyph;16&hyph;02, Amendment 39&hyph;8659.
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=3 -->
+Applicability: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+Hamilton Standard Models 14RF&hyph;9, 
+<!-- PJG 0012 frnewline -->
+14RF&hyph;19, 14RF&hyph;21, and 14RF&hyph;23; 247F&hyph;1; 14SF&hyph;5, 14SF&hyph;7, 
+<!-- PJG 0012 frnewline -->
+14SF&hyph;11, 14SFL11, 14SF&hyph;15, 14SF&hyph;17, 14SF&hyph;19, 14SF&hyph;23; and 6/5500/F propellers installed
+on but not limited to Embraer EMB&hyph;120 and EMB&hyph;120RT; SAAB-SCANIA SF340B; Aerospatiale ATR42&hyph;100,
+ATR42&hyph;300, ATR42&hyph;320, ATR72, ATR72&hyph;210; DeHavilland DHC&hyph;8&hyph;100 series, DHC&hyph;8&hyph;300;
+Construcciones Aeronauticas SA (CASA) CN&hyph;235 and CN&hyph;235&hyph;100; Canadair CL215T and CL415; and British
+Aerospace ATP airplanes. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=3 -->
+Compliance: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+Required as indicated, unless accomplished previously. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+To prevent the inability to control the propeller blade angle due to tooth wear in the propeller control unit (PCU)
+servo ballscrew internal spline (BIS) assembly, accomplish the following: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(a) Inspect the PCU servo BIS assembly for tooth wear in accordance with the Accomplishment Instructions of the following
+Hamilton Standard Alert Service Bulletins (ASB), all dated April 7, 1994, as applicable: No. 14RF&hyph;9&hyph;61&hyph;A53,
+Revision 5; No. 14RF&hyph;19&hyph;61&hyph;A25, Revision 4; No. 14RF&hyph;21&hyph;61&hyph;A38, Revision 4;
+No. 247F&hyph;61&hyph;A3, Revision 3; No. 14SF&hyph;61&hyph;A59, Revision 4; and No. 6/5500/F&hyph;61&hyph;A11,
+Revision 4; as follows: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(1) For a PCU with unknown time in service (TIS), and unknown TIS since the last inspection, on the effective date of
+this airworthiness directive (AD), and that does not have a ballscrew quill damper installed, inspect within 200
+hours TIS after the effective date of this AD. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(2) For a PCU with 1,800 or more hours TIS or unknown TIS on the effective date of this AD, and either has not been inspected,
+or has been inspected more than 500 hours prior to the effective date of this AD, in accordance with the applicable Hamilton
+Standard ASB listed in paragraph (a) of this AD; and that does not have a ballscrew quill damper installed; inspect
+within 200 hours TIS after the effective date of this AD. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(3) For a PCU with 1,800 or more hours TIS or unknown TIS on the effective date of this AD, and that has been inspected within
+the previous 500 hours TIS in accordance with the applicable Hamilton Standard ASB listed in paragraph (a) of this
+AD, and that does not have a ballscrew quill damper installed, inspect within 500 hours TIS since the last inspection
+in accordance with the applicable Hamilton Standard ASB listed in paragraph (a) of this AD. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(4) For a PCU with less than 1,800 hours TIS on the effective date of this AD, and that does not have a ballscrew quill damper
+installed, inspect prior to accumulating 1,800 hours TIS, or within 300 hours TIS after the effective date of this
+AD, whichever occurs later. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(5) For a PCU that has a ballscrew quill damper installed in accordance with the following applicable Hamilton Standard
+Service Bulletins (SB), or previous revisions: No. 14SF&hyph;61&hyph;67, Revision 2, dated September 27, 1994;
+No. 14RF&hyph;9&hyph;61&hyph;61, Revision 1, dated September 27, 1994; No. 14RF&hyph;19&hyph;61&hyph;29, Revision
+2, dated September 27, 1994; No. 14RF&hyph;21&hyph;61&hyph;48, Revision 2, dated September 27, 1994; No. 247F&hyph;61&hyph;6,
+Revision 2, dated September 27, 1994; and No. 6/5500/F&hyph;61&hyph;19, Revision 2, dated September 27, 1994; inspect
+within 1,500 hours TIS since installation of the ballscrew quill damper. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(6) Thereafter, inspect at intervals described as follows: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(i) For propellers that have a ballscrew quill damper installed in accordance with the applicable Hamilton Standard
+SB listed in paragraph (a)(5) of this AD, or previous revisions, inspect at intervals not to exceed 1,500 hours TIS
+since the last inspection required by this AD. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00006 </DOCNO>
+<PARENT> FR941104-0-00001 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+(ii) For propellers that do not have a ballscrew quill damper installed in accordance with the applicable Hamilton
+Standard SB listed in paragraph (a)(5) of this AD, inspect at intervals not to exceed 500 hours TIS since the last inspection
+required by this AD. 
+<!-- PJG 0012 frnewline -->
+(7) If PCU servo BIS teeth are worn beyond the limits specified in the Accomplishment Instructions of the applicable
+ASB's listed in paragraph (a) of this AD, prior to further flight, replace the PCU with a serviceable assembly in accordance
+with the Accomplishment Instructions of the applicable ASB's listed in paragraph (a) of this AD, and thereafter reinspect
+in accordance with paragraphs (a)(6) and (a)(7) of this AD. 
+<!-- PJG 0012 frnewline -->
+(b) Report the results of the initial and repetitive inspections required by paragraph (a) of this AD by utilizing
+Appendix 1, ``Ballscrew Inspection Data,'' within 7 days of the inspection to the Manager, Boston Aircraft Certification
+Office, Engine and Propeller Directorate, Aircraft Certification Service, FAA, 12 New England Executive Park,
+Burlington, MA 01803&hyph;5299; fax (617) 238&hyph;7199. The reporting requirements of this AD terminate on December
+31, 1995. Information collection requirements contained in this regulation have been approved by the Office of Management
+and Budget (OMB) under the provision of the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=3 -->
+et seq.
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+) and have been assigned OMB Control Number 2120&hyph;0056.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=74 g=1 f=1 -->
+Appendix 1_Ballscrew Inspection Data 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+The following information must be reported and sent as soon as possible but no later than 7 days after inspection to:
+Manager, Boston Aircraft Certification Office, Engine and Propeller Directorate, Aircraft Certification Service,
+Federal Aviation Administration, 12 New England Executive Park, Burlington, MA 01803&hyph;5299, Fax: (617) 238&hyph;7199.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+ 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=77 g=1 f=1 -->
+Operator/Repair Station
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=77 g=1 f=1 -->
+Date of Inspection
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=77 g=1 f=1 -->
+PCU Part Number
+<!-- PJG 0012 frnewline -->
+PCU Serial Number
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=77 g=1 f=1 -->
+Date Damper Installed
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+Damper Installed (please circle one): YES&blank;&blank;NO
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+ 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+If ``YES,'' please circle one: This inspection&blank;&blank;Previously
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+ 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=77 g=1 f=1 -->
+Aircraft Serial Number
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+Position (please check one): Left Engine
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=20 g=7 f=2 -->
+XXX
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+ Right Engine
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=20 g=7 f=2 -->
+XXX
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+ 
+<!-- PJG ITAG l=20 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+PCU Times (please circle one): Estimated&blank;&blank;Actual
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+ 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=77 g=1 f=1 -->
+Time Since New (Hours)
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+Time Since Last Ballscrew Inspection/Repair (Hours)
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=20 g=7 f=2 -->
+XXX
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+Inspection (please check one): Accepted
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=20 g=7 f=2 -->
+XXX
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+ *Rejected
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=20 g=7 f=2 -->
+XXX
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+*Please indicate in comments if unit was rejected as part of the functional check.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+ 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+No. of left side teeth with steps
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=20 g=7 f=2 -->
+XXX
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+No. of right side teeth with steps
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=20 g=7 f=2 -->
+XXX
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=77 g=1 f=1 -->
+Comments:
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+Ballscrew Quill Pull Check Completed (please circle one): YES&blank;&blank;NO
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00007 </DOCNO>
+<PARENT> FR941104-0-00001 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+(c) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of
+safety may be used if approved by the Manager, Boston Aircraft Certification Office. The request should be forwarded
+through an appropriate FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager,
+Boston Aircraft Certification Office.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+ 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=4 -->
+Note: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+Information concerning the existence of approved alternative method of compliance with this AD, if any, may be obtained
+from the Boston Aircraft Certification Office.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+ 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+(d) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of the Federal Aviation Regulations
+(14 CFR 21.197 and 21.199) to operate the aircraft to a location where the requirements of this AD can be accomplished.
+
+<!-- PJG 0012 frnewline -->
+(e) The requirements of this AD shall be done in accordance with the following Hamilton Standard service documents:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<TABLE>
+
+<!-- PJG tableformat 4,L2,tp0,i1,s100,10,xs40,xs86 -->
+
+<!-- PJG ITAG l=95 g=1 f=1 -->
+&blank;
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0150 intable -->
+1Document No. 
+<!-- PJG 007 0150 intable -->
+1Pages 
+<!-- PJG 007 0150 intable -->
+1Revision 
+<!-- PJG 007 0150 intable -->
+1Date
+<!-- PJG 007 0152 intable -->
+ 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+ASB No. 14RF&hyph;9&hyph;61&hyph;A53 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+5 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=22 g=1 f=1 -->
+&blank;
+<!-- PJG 007 0104 intable -->
+2&hyph;7 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+8 
+<!-- PJG 007 0104 intable -->
+3 
+<!-- PJG 007 0104 intable -->
+July 28, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+9 
+<!-- PJG 007 0104 intable -->
+5 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+10&hyph;12 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+13 
+<!-- PJG 007 0104 intable -->
+5 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+14&hyph;20 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+21 
+<!-- PJG 007 0104 intable -->
+5 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=13 g=1 f=1 -->
+Total pages: 21 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 007 0162 intable -->
+s
+<!-- PJG QTAG 03 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+SB No. 14RF&hyph;9&hyph;61&hyph;61 
+<!-- PJG 007 0104 intable -->
+1&hyph;2 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+September 27, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=22 g=1 f=1 -->
+&blank;
+<!-- PJG 007 0104 intable -->
+3&hyph;10 
+<!-- PJG 007 0104 intable -->
+Original 
+<!-- PJG 007 0104 intable -->
+December 9, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+11 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+September 27, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+12&hyph;14 
+<!-- PJG 007 0104 intable -->
+Original 
+<!-- PJG 007 0104 intable -->
+December 9, 1993. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=13 g=1 f=1 -->
+Total pages: 14 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 007 0162 intable -->
+s
+<!-- PJG QTAG 03 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+ASB No. 14RF&hyph;19&hyph;61&hyph;A25 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=22 g=1 f=1 -->
+&blank;
+<!-- PJG 007 0104 intable -->
+2&hyph;7 
+<!-- PJG 007 0104 intable -->
+3 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+8 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+July 28, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+9 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+10 
+<!-- PJG 007 0104 intable -->
+3 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+11 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+12&hyph;20 
+<!-- PJG 007 0104 intable -->
+3 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+21 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=13 g=1 f=1 -->
+Total pages: 21 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 007 0162 intable -->
+s
+<!-- PJG QTAG 03 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+SB No. 14RF&hyph;19&hyph;61&hyph;29 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+September 27, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=22 g=1 f=1 -->
+&blank;
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+May 6, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+3&hyph;10 
+<!-- PJG 007 0104 intable -->
+Original 
+<!-- PJG 007 0104 intable -->
+December 9, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+11 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+September 27, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+12&hyph;13 
+<!-- PJG 007 0104 intable -->
+Original 
+<!-- PJG 007 0104 intable -->
+December 9, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+14 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+May 6, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=13 g=1 f=1 -->
+Total pages: 14 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 007 0162 intable -->
+s
+<!-- PJG QTAG 03 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+ASB No. 14RF&hyph;21&hyph;61&hyph;A38 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=22 g=1 f=1 -->
+&blank;
+<!-- PJG 007 0104 intable -->
+2&hyph;7 
+<!-- PJG 007 0104 intable -->
+3 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+8 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+July 28, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+9&hyph;10 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+April 4, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+11&hyph;20 
+<!-- PJG 007 0104 intable -->
+3 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+21 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=13 g=1 f=1 -->
+Total pages: 21 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 007 0162 intable -->
+s
+<!-- PJG QTAG 03 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+SB No. 14RF&hyph;21&hyph;61&hyph;48 
+<!-- PJG 007 0104 intable -->
+1&hyph;4 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+September 27, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=22 g=1 f=1 -->
+&blank;
+<!-- PJG 007 0104 intable -->
+5&hyph;10 
+<!-- PJG 007 0104 intable -->
+Original 
+<!-- PJG 007 0104 intable -->
+December 9, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+11 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+September 27, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+12&hyph;13 
+<!-- PJG 007 0104 intable -->
+Original 
+<!-- PJG 007 0104 intable -->
+December 9, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+14 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+May 6, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=13 g=1 f=1 -->
+Total pages: 14 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 007 0162 intable -->
+s
+<!-- PJG QTAG 03 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+ASB No. 247F&hyph;61&hyph;A3 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+3 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=22 g=1 f=1 -->
+&blank;
+<!-- PJG 007 0104 intable -->
+2&hyph;7 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+8 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+July 28, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+9&hyph;10 
+<!-- PJG 007 0104 intable -->
+3 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+11&hyph;19 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+20 
+<!-- PJG 007 0104 intable -->
+3 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=13 g=1 f=1 -->
+Total pages: 20 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 007 0162 intable -->
+s
+<!-- PJG QTAG 03 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+SB No. 247F&hyph;61&hyph;6 
+<!-- PJG 007 0104 intable -->
+1&hyph;4 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+September 27, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=22 g=1 f=1 -->
+&blank;
+<!-- PJG 007 0104 intable -->
+5&hyph;10 
+<!-- PJG 007 0104 intable -->
+Original 
+<!-- PJG 007 0104 intable -->
+December 9, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+11 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+September 27, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+12&hyph;13 
+<!-- PJG 007 0104 intable -->
+Original 
+<!-- PJG 007 0104 intable -->
+December 9, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+14 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+May 6, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=13 g=1 f=1 -->
+Total pages: 14 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 007 0162 intable -->
+s
+<!-- PJG QTAG 03 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+ASB No. 14SF&hyph;61&hyph;A59 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=22 g=1 f=1 -->
+&blank;
+<!-- PJG 007 0104 intable -->
+2&hyph;7 
+<!-- PJG 007 0104 intable -->
+3 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+8 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+July 28, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+9&hyph;10 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+11&hyph;20 
+<!-- PJG 007 0104 intable -->
+3 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+21 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=13 g=1 f=1 -->
+Total pages: 21 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 007 0162 intable -->
+s
+<!-- PJG QTAG 03 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+SB No. 14SF&hyph;61&hyph;67 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+September 27, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=22 g=1 f=1 -->
+&blank;
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+May 6, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+3&hyph;9 
+<!-- PJG 007 0104 intable -->
+Original 
+<!-- PJG 007 0104 intable -->
+December 9, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+10 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+May 6, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+11 
+<!-- PJG 007 0104 intable -->
+Original 
+<!-- PJG 007 0104 intable -->
+December 9, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+12 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+September 27, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+13&hyph;15 
+<!-- PJG 007 0104 intable -->
+Original 
+<!-- PJG 007 0104 intable -->
+December 9, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+16 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+May 6, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=13 g=1 f=1 -->
+Total pages: 16 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 007 0162 intable -->
+s
+<!-- PJG QTAG 03 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+ASB No. 6/5500/F&hyph;61&hyph;A11 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=22 g=1 f=1 -->
+&blank;
+<!-- PJG 007 0104 intable -->
+2&hyph;9 
+<!-- PJG 007 0104 intable -->
+3 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+10&hyph;11 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+12 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+July 28, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+13 
+<!-- PJG 007 0104 intable -->
+3 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+14 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+July 28, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+15&hyph;20 
+<!-- PJG 007 0104 intable -->
+3 
+<!-- PJG 007 0104 intable -->
+March 1, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+21 
+<!-- PJG 007 0104 intable -->
+4 
+<!-- PJG 007 0104 intable -->
+April 7, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=13 g=1 f=1 -->
+Total pages: 21 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 007 0162 intable -->
+s
+<!-- PJG QTAG 03 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+SB No. 6/5500/F&hyph;61&hyph;19 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+September 27, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=22 g=1 f=1 -->
+&blank;
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+May 6, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+3&hyph;10 
+<!-- PJG 007 0104 intable -->
+Original 
+<!-- PJG 007 0104 intable -->
+December 6, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+11 
+<!-- PJG 007 0104 intable -->
+2 
+<!-- PJG 007 0104 intable -->
+September 27, 1994. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+12 
+<!-- PJG 007 0104 intable -->
+Original 
+<!-- PJG 007 0104 intable -->
+December 6, 1993. 
+<!-- PJG 0012 frnewline -->
+&blank;
+<!-- PJG 007 0104 intable -->
+13&hyph;14 
+<!-- PJG 007 0104 intable -->
+1 
+<!-- PJG 007 0104 intable -->
+May 6, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=13 g=1 f=1 -->
+Total pages: 14
+<!-- PJG /ITAG -->
+
+</TABLE>
+ 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+This incorporation by reference was approved by the Director of the 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=20 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+ in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from Hamilton Standard, One Hamilton Road,
+Windsor Locks, CT 06096&hyph;1010. Copies may be inspected at the FAA, New England Region, Office of the Assistant
+Chief Counsel, 12 New England Executive Park, Burlington, MA; or at the Office of the 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=20 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=20 g=1 f=1 -->
+, 800 North Capitol Street, NW., suite 700, Washington, DC. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+(f) This amendment becomes effective on December 5, 1994.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+Issued in Burlington, Massachusetts, on October 26, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<SIGNER>
+<!-- PJG ITAG l=06 g=1 f=1 -->
+James C. Jones, 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNER>
+<SIGNJOB>
+<!-- PJG ITAG l=04 g=1 f=1 -->
+Acting Manager, Engine and Propeller Directorate, Aircraft Certification Service. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNJOB>
+<FRFILING>
+<!-- PJG ITAG l=40 g=1 f=1 -->
+[FR Doc. 94&hyph;26983 Filed 11&hyph;3&hyph;94; 8:45 am]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</FRFILING>
+<BILLING>
+<!-- PJG ITAG l=68 g=1 f=1 -->
+BILLING CODE 4910&hyph;13&hyph;P
+<!-- PJG /ITAG -->
+</BILLING>
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00008 </DOCNO>
+<PARENT> FR941104-0-00002 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=69 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+
+<CFRNO>14 CFR Part 39</CFRNO>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=41 g=1 f=1 -->
+
+<RINDOCK>[Docket No. 94&hyph;SW&hyph;10&hyph;AD; Amendment 39&hyph;9059; AD 94&hyph;17&hyph;07] </RINDOCK>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=55 g=1 f=1 -->
+Airworthiness Directives; Robinson Helicopter Company Model R22 Series Helicopters 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<AGENCY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+AGENCY:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Federal Aviation Administration, DOT.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</AGENCY>
+<ACTION>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ACTION:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Final rule; request for comments.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=59 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</ACTION>
+<SUMMARY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUMMARY:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ This document publishes in the 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ an amendment adopting Airworthiness Directive (AD) 94&hyph;17&hyph;07 which was sent previously to all known U.S.
+owners and operators of Robinson Helicopter Company Model R22 series helicopters by individual letters. This AD
+requires an inspection and repetitive visual checks for slippage of the tail rotor (T/R) drive and replacement of
+the T/R gearbox, if necessary. This amendment is prompted by two incidents in which the T/R output key (key) was not
+installed between the output shaft and the output pinion during assembly of the T/R gearbox. The actions specified
+by this AD are intended to prevent slippage of the T/R drive, loss of directional control, and subsequent loss of control
+of the helicopter.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</SUMMARY>
+<DATE>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+DATES:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Effective on November 21, 1994, to all persons except those persons to whom it was made immediately effective by Priority
+Letter AD 94&hyph;17&hyph;07, issued on August 25, 1994, which contained the requirements of this amendment. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+The incorporation by reference of certain publications listed in the regulations is approved by the Director of the
+Federal Register as of November 21,1994. 
+<!-- PJG 0012 frnewline -->
+Comments for inclusion in the Rules Docket must be received on or before January 3, 1995.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</DATE>
+<ADDRESS>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ADDRESSES:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Submit comments in triplicate to the Federal Aviation Administration (FAA), Office of the Assistant Chief Counsel,
+Attention: Rules Docket No. 94&hyph;SW&hyph;10&hyph;AD, 2601 Meacham Blvd., Room 663, Fort Worth, Texas 76137.
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+The applicable service information may be obtained from Robinson Helicopter Company, 24747 Crenshaw Blvd., Torrance,
+CA 90505. This information may be examined at the FAA, Office of the Assistant Chief Counsel, 2601 Meacham Blvd., Room
+663, Fort Worth, Texas; or at the Office of the Federal Register, 800 North Capitol Street NW., suite 700, Washington,
+DC.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</ADDRESS>
+<FURTHER>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+FOR FURTHER INFORMATION CONTACT:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Ms. Elizabeth Bumann, Aerospace Engineer, Los Angeles Aircraft Certification Office, Propulsion Branch, FAA,
+3229 E. Spring Street, Long Beach, California 90806&hyph;2425, telephone (310) 988&hyph;5265, fax (310) 988&hyph;5210.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</FURTHER>
+<SUPPLEM>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUPPLEMENTARY INFORMATION:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ On August 25, 1994, the FAA issued Priority Letter AD 94&hyph;17&hyph;07, applicable to Robinson Helicopter Company
+R22 series helicopters, which requires an inspection and repetitive visual checks for slippage of the tail rotor
+(T/R) drive, and replacement of the T/R gearbox, if necessary. That action was prompted by two incidents in which the
+T/R output key (key) was not installed between the output shaft and the output pinion during assembly of the T/R gearbox.
+The key is required to prevent the output gear from rotating on the output shaft. Both incidents resulted in slippage
+of the T/R drive. On June 2, 1994, Registro Aeronautico Italiano (RAI), the Airworthiness Authority of Italy, issued
+RAI AD No. 94&hyph;131 to require a daily inspection to determine if there had been any slippage of the T/R drive between
+the output shaft and the output pinion. This condition, if not corrected, could result in slippage of the T/R drive,
+loss of directional control, and subsequent loss of control of the helicopter. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+The FAA has reviewed Robinson Helicopter Company R22 Service Bulletin (SB) 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=6 f=1 -->
+#
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+74, dated July 18, 1994, that describes procedures for determining slippage of the T/R drive using a 35-lb. load on
+the T/R blade and checking for correct alignment of dots that have been marked in accordance with SB 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=6 f=1 -->
+#
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+74, dated July 18, 1994. The FAA is issuing this AD to require the initial marking of dots and an inspection prior to further
+flight, rather than within the next 20 hours time-in-service (TIS) as specified by SB 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=6 f=1 -->
+#
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+74, dated July 18, 1994. 
+<!-- PJG 0012 frnewline -->
+Since the unsafe condition described is likely to exist or develop on other Robinson Helicopter Company Model R22
+series helicopters of the same type design, the FAA issued Priority Letter AD 94&hyph;17&hyph;07 to prevent slippage
+of the T/R drive, loss of directional control, and subsequent loss of control of the helicopter. The AD requires the
+installation of alignment marks, an initial inspection prior to further flight, daily pre-flight visual checks
+for slippage of the T/R drive, and replacement of the T/R gearbox, if necessary. The actions are required to be accomplished
+in accordance with the service bulletin described previously. This AD is considered to be an interim action. The FAA
+is considering further rulemaking to require opening the T/R gearbox and verifying installation of the key as the
+terminating action to this AD. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SUPPLEM>
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00009 </DOCNO>
+<PARENT> FR941104-0-00002 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Since it was found that immediate corrective action was required, notice and opportunity for prior public comment
+thereon were impracticable and contrary to the public interest, and good cause existed to make the AD effective immediately
+by individual letters issued on August 25, 1994, to all known U.S. owners and operators of Robinson Helicopter Company
+Model R22 series helicopters. These conditions still exist, and the AD is hereby published in the 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+ as an amendment to section 39.13 of the Federal Aviation Regulations (14 CFR 39.13) to make it effective to all persons.
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=83 g=1 f=1 -->
+Comments Invited 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Although this action is in the form of a final rule that involves requirements affecting flight safety and, thus, was
+not preceded by notice and an opportunity for public comment, comments are invited on this rule. Interested persons
+are invited to comment on this rule by submitting such written data, views, or arguments as they may desire. Communications
+should identify the Rules Docket number and be submitted in triplicate to the address specified under the caption
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+ADDRESSES
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+. All communications received on or before the closing date for comments will be considered, and this rule may be amended
+in light of the comments received. Factual information that supports the commenter's ideas and suggestions is extremely
+helpful in evaluating the effectiveness of the AD action and determining whether additional rulemaking action would
+be needed. 
+<!-- PJG 0012 frnewline -->
+Comments are specifically invited on the overall regulatory, economic, environmental, and energy aspects of the
+rule that might suggest a need to modify the rule. All comments submitted will be available, both before and after the
+closing date for comments, in the Rules Docket for examination by interested persons. A report that summarizes each
+FAA-public contact concerned with the substance of this AD will be filed in the Rules Docket. 
+<!-- PJG 0012 frnewline -->
+Commenters wishing the FAA to acknowledge receipt of their comments submitted in response to this rule must submit
+a self-addressed, stamped postcard on which the following statement is made: ``Comments to Docket No. 94&hyph;SW&hyph;10&hyph;AD.''
+The postcard will be date stamped and returned to the commenter. 
+<!-- PJG 0012 frnewline -->
+The regulations adopted herein will not have substantial direct effects on the States, on the relationship between
+the national government and the States, or on the distribution of power and responsibilities among the various levels
+of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not
+have sufficient federalism implications to warrant the preparation of a Federalism Assessment. 
+<!-- PJG 0012 frnewline -->
+The FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct
+an unsafe condition in aircraft, and that it is not a ``significant regulatory action'' under Executive Order 12866.
+It has been determined further that this action involves an emergency regulation under DOT Regulatory Policies and
+Procedures (44 FR 11034, February 26, 1979). If it is determined that this emergency regulation otherwise would be
+significant under DOT Regulatory Policies and Procedures, a final regulatory evaluation will be prepared and placed
+in the Rules Docket. A copy of it, if filed, may be obtained from the Rules Docket at the location provided under the caption
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+ADDRESSES
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+List of Subjects in 14 CFR Part 39 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+Adoption of the Amendment 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration
+amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+PART 39_AIRWORTHINESS DIRECTIVES 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+1. The authority citation for part 39 continues to read as follows:
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=4 -->
+Authority:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+ 49 U.S.C. App. 1354(a), 1421 and 1423; 49 U.S.C. 106(g); and 14 CFR 11.89. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=80 g=1 f=1 -->
+&sect;39.13
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=89 g=1 f=1 -->
+[Amended] 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+2. Section 39.13 is amended by adding a new airworthiness directive to read as follows:
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=26 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=26 g=1 f=4 -->
+AD 94&hyph;17&hyph;07&blank;Robinson Helicopter Company:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=26 g=1 f=1 -->
+ Amendment 39&hyph;9059. Docket No. 94&hyph;SW&hyph;10&hyph;AD.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=3 -->
+Applicability:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+ Model R22 series helicopters, certificated in any category with tail rotor (T/R) gearboxes that were manufactured
+or overhauled by Robinson Helicopter Company prior to June 8, 1992. The following gearbox S/N's have been determined
+to have the T/R output key (key) installed and are therefore exempt from this AD: 0012, 0013, 0014, 0020, 0021, 0040,
+0054, 0062, 0091, 0095, 0098, 0108, 0121, 0134, 0137, 0153, 0169, 0179, 0185, 0191, 0201, 0205, 0227, 0228, 0235, 0248,
+0258, 0262, 0272, 0277, 0280, 0321, 0333, 0342, 0365, 0432, 0439, 0444, 0503, 0504, 0525, 0548, 0558, 0559, 0565, 0574,
+0576, 0592, 0594, 0597, 0603, 0604, 0605, 0615, 0632, 0641, 0644, 0650, 0656, 0662, 0663, 0674, 0686, 0689, 0696, 0697,
+0700, 0702, 0707, 0722, 0734, 0735, 0736, 0742, 0759, 0767, 0777, 0778, 0805, 0832, 0836, 0839, 0842, 0850, 0862, 0866,
+0868, 0887, 0892, 0937, 0939, 0983, 0986, 0996, 0998, 1018, 1021, 1029, 1030, 1035, 1072, 1081, 1087, 1104, 1116, 1121,
+1126, 1129, 1132, 1141, 1151, 1176, 1186, 1187, 1199, 1205, 1208, 1217, 1222, 1228, 1233, 1245, 1249, 1269, 1274, 1290,
+1293, 1299, 1301, 1307, 1311, 1323, 1330, 1333, 1339, 1341, 1350, 1361, 1379, 1385, 1388, 1392, 1404, 1412, 1428, 1438,
+1442, 1450, 1460, 1468, 1494, 1499, 1505, 1509, 1512, 1514, 1526, 1541, 1544, 1578, 1586, 1593, 1595, 1597, 1605, 1610,
+1627, 1628, 1636, 1643, 1647, 1648, 1652, 1654, 1686, 1687, 1698, 1701, 1702, 1706, 1710, 1724, 1731, 1732, 1738, 1741,
+1750, 1752, 1757, 1759, 1769, 1783, 1800, 1803, 1808, 1814, 1816, 1830, 1844, 1846, 1851, 1852, 1861, 1868, 1871, 1886,
+1889, 1901, 1911, 1912, 1927, 1928, 1948, 1959, 1961, 1963, 1965, 1992, 2025, 2034, 2037, 2051, 2071, 2100, 2101, 2103,
+2126, 2129, 2136, 2160, 2166, 2170, 2180, 2193, 2203, 2242, 2254, 2265, 2269, 2272, 2279, 2280, 2283, 2294, 2298, 2299,
+2304, 2314, 2357, 2377, 2380, 2381, 2395, 2406, 2420, 2421, 2422, 2423, 2425, 2431, 2435, 2436, 2459, 2479, 2492, 2498,
+2531, 2539, 2574, 2579, 2582, 2587, 2627, 2634, 2672, 2683, 2697, 2716, 2719, 2721, 2731, 2797, 2863, 2937, 2945. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=3 -->
+Compliance:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+ Required as indicated, unless accomplished previously. 
+<!-- PJG 0012 frnewline -->
+To prevent slippage of the T/R drive, loss of directional control, and subsequent loss of control of the helicopter,
+accomplish the following: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00010 </DOCNO>
+<PARENT> FR941104-0-00002 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+(a) Before further flight, install the alignment dots and perform an inspection in accordance with Part A of Robinson
+Helicopter Company R22 Service Bulletin (SB) 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=6 f=1 -->
+#
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+74, dated July 18, 1994. Apply the 35-lb. weight very gently to avoid overstressing the T/R blade or T/R drive. Any slippage
+detected must be reported within 10 days after the inspection to the Manager, Los Angeles Manufacturing Inspection
+District Office, FAA, Northwest Mountain Region, 3229 E. Spring St., Long Beach, California 90806&hyph;2425, telephone
+(310) 988&hyph;5290, fax (310) 988&hyph;5293. Reporting requirements have been approved by the Office of Management
+and Budget and assigned OMB control number 2120&hyph;0056.
+<!-- PJG 0012 frnewline -->
+(b) Before the first flight of each day, check for misalignment of the alignment dots installed on the tail cone skin
+and the drive shaft flange by rotating the T/R blade so that the alignment dot is visible in the inspection window and
+the tip of the T/R blade leading edge aligns with the dot on the tail cone skin. Next, ensure that the drive shaft flange
+dot is aligned with the dot on the centerline of the tail cone skin at the edge of the inspection window. If any misalignment
+is detected, before further flight, conduct the inspection required by paragraph (a) of this AD. The checks required
+by this AD may be performed by an owner/operator holding at least a private pilot certificate, and must be entered into
+the aircraft records showing compliance with this AD, in accordance with section 43.11 and 91.417(a)(2)(v) of the
+Federal Aviation Regulations.
+<!-- PJG 0012 frnewline -->
+(c) Verification of the presence of the key through disassembly and reassembly of the T/R gearbox in accordance with
+FAA-approved procedures constitutes terminating action for the requirements of this AD.
+<!-- PJG 0012 frnewline -->
+(d) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of
+safety may be used when approved by the Manager, Los Angeles Aircraft Certification Office, FAA. Operators shall
+submit their requests through an FAA Principal Maintenance Inspector, who may concur or comment and then send it to
+the Manager, Los Angeles Aircraft Certification Office.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=4 -->
+Note:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+ Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained
+from the Manager, Los Angeles Aircraft Certification Office.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+(e) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of the Federal Aviation Regulations
+(14 CFR 21.197 and 21.199) to operate the helicopter to a location where the requirements of this AD can be accomplished.
+<!-- PJG 0012 frnewline -->
+(f) The installation, inspection, and checks shall be done in accordance with Robinson Helicopter Company R22 Service
+Bulletin 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=6 f=1 -->
+#
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+74, dated July 18, 1994. This incorporation by reference was approved by the Director of the Federal Register in accordance
+with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from Robinson Helicopter Company, 24747 Crenshaw Blvd.
+Torrance, CA 90505. Copies may be inspected at the FAA, Office of the Assistant Chief Counsel, 2601 Meacham Blvd.,
+Room 663, Fort Worth, Texas; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington,
+DC.
+<!-- PJG 0012 frnewline -->
+(g) This amendment becomes effective on November 21, 1994, to all persons except those persons to whom it was made immediately
+effective by Priority Letter AD 94&hyph;17&hyph;07, issued August 25, 1994, which contained the requirements of
+this amendment.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+Issued in Fort Worth, Texas, on October 24, 1994.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<SIGNER>
+<!-- PJG ITAG l=06 g=1 f=1 -->
+Eric Bries,
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNER>
+<SIGNJOB>
+<!-- PJG ITAG l=04 g=1 f=1 -->
+Acting Manager, Rotorcraft Directorate, Aircraft Certification Service.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNJOB>
+<FRFILING>
+<!-- PJG ITAG l=40 g=1 f=1 -->
+[FR Doc. 94&hyph;26879 Filed 11&hyph;3&hyph;94; 8:45 am]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</FRFILING>
+<BILLING>
+<!-- PJG ITAG l=68 g=1 f=1 -->
+BILLING CODE 4910&hyph;13&hyph;P
+<!-- PJG /ITAG -->
+</BILLING>
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00011 </DOCNO>
+<PARENT> FR941104-0-00003 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=69 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+
+<CFRNO></CFRNO>
+<!-- PJG 0012 frnewline -->
+14 CFR Part 97
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=41 g=1 f=1 -->
+
+<RINDOCK>[Docket No. </RINDOCK>
+<!-- PJG 0012 frnewline -->
+27942; Amdt. No. 1630]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=55 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+Standard Instrument Approach Procedures; Miscellaneous Amendments 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<AGENCY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+AGENCY: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+Federal Aviation Administration (FAA), DOT.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</AGENCY>
+<ACTION>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ACTION: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+Final rule.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=59 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</ACTION>
+<SUMMARY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUMMARY: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+This amendment establishes, amends, suspends, or revokes Standard Instrument Approach Procedures (SIAPs) for
+operations at certain airports. These regulatory actions are needed because of the adoption of new or revised criteria,
+or because of changes occurring in the National Airspace System, such as the commissioning of new navigational facilities,
+addition of new obstacles, or changes in air traffic requirements. These changes are designed to provide safe and
+efficient use of the navigable airspace and to promote safe flight operations under instrument flight rules at the
+affected airports.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</SUMMARY>
+<DATE>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+DATES: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+An effective date for each SIAP is specified in the amendatory provisions.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+Incorporation by reference_approved by the Director of the Federal Register on December 31, 1980, and reapproved
+as of January 1, 1982.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</DATE>
+<ADDRESS>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ADDRESSES: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+Availability of matters incorporated by reference in the amendment is as follows:
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=83 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+For Examination_
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+1. FAA Rules Docket, FAA Headquarters Building, 800 Independence Avenue, SW., Washington, DC 20591; 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+2. The FAA Regional office of the region in which the affected airport is located; or 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+3. The Flight Inspection Area Office which originated the SIAP.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+For Purchase_
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Individual SIAP copies may be obtained from: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+1. FAA Public Inquiry Center (APA&hyph;200), FAA Headquarters Building, 800 Independence Avenue, SW., Washington,
+DC 20591; or 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+2. The FAA Regional Office of the region in which the affected airport is located.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+By Subscription_
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Copies of all SIAPs, mailed once every 2 weeks, are for sale by the Superintendent of Documents, U.S. Government Printing
+Office, Washington, DC 20402.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</ADDRESS>
+<FURTHER>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+FOR FURTHER INFORMATION CONTACT:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+Paul J. Best, Flight Procedures Standards Branch (AFS&hyph;420), Technical Programs Division, Flight Standards
+Service, Federal Aviation Administration, 800 Independence Avenue, SW., Washington, DC 20591; telephone (202)
+267&hyph;8277.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</FURTHER>
+<SUPPLEM>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUPPLEMENTARY INFORMATION: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+This amendment to part 97 of the Federal Aviation Regulations (14 CFR part 97) establishes, amends, suspends, or revokes
+Standard Instrument Approach Procedures (SIAPs). The complete regulatory description of each SIAP is contained
+in official FAA form documents which are incorporated by reference in this amendment under 5 U.S.C. 552(a) 1 CFR part
+51, and &sect;97.20 of the Federal Aviation Regulations (FAR). The applicable FAA Forms are identified as FAA Forms
+8260&hyph;3, 8260&hyph;4, and 8260&hyph;5. Materials incorporated by reference are available for examination
+or purchase as stated above.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+The large number of SIAPs, their complex nature, and the need for a special format make their verbatim publication
+in the 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+ expensive and impractical. Further, airmen do not use the regulatory text of the SIAPs, but refer to their graphic
+depiction on charts printed by publishers of aeronautical materials. Thus, the advantages of incorporation by reference
+are realized and publication of the complete description of each SIAP contained in FAA form documents is unnecessary.
+The provisions of this amendment state the affected CFR (and FAR) sections, with the types and effective dates of the
+SIAPs. This amendment also identifies the airport, its location, the procedure identification and the amendment
+number. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+The Rule
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+This amendment to part 97 is effective upon publication of each separate SIAP as contained in the transmittal. Some
+SIAP amendments may have been previously issued by the FAA in a National Flight Data Center (FDC) Notice to Airmen (NOTAM)
+as an emergency action of immediate flight safety relating directly to published aeronautical charts. The circumstances
+which created the need for some SIAP amendments may require making them effective in less than 30 days. For the remaining
+SIAPs, an effective date at least 30 days after publication is provided. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Further, the SIAPs contained in this amendment are based on the criteria contained in the U.S. Standard for Terminal
+Instrument Approach Procedures (TERPS). In developing these SIAPs, the TERPS criteria were applied to the conditions
+existing or anticipated at the affected airports. Because of the close and immediate relationship between these
+SIAPs and safety in air commerce, I find that notice and public procedure before adopting these SIAPs are unnecessary,
+impracticable, and contrary to the public interest and, where applicable, that good cause exists for making some
+SIAPs effective in less than 30 days. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The FAA has determined that this regulation only involves an established body of technical regulations for which
+frequent and routine amendments are necessary to keep them operationally current. It, therefore (1) is not a ``significant
+regulatory action'' under Executive Order 12866; (2) is not a ``significant rule'' under DOT Regulatory Policies
+and Procedures (44 FR 11034; February 26, 1979); and (3) does not warrant preparation of a regulatory evaluation as
+the anticipated impact is so minimal. For the same reason, the FAA certifies that this amendment will not have a significant
+economic impact on a substantial number of small entities under the criteria of the Regulatory Flexibility Act. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SUPPLEM>
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00012 </DOCNO>
+<PARENT> FR941104-0-00003 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+List of Subjects in 14 CFR Part 97
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Air traffic control, Airports, Navigation (air).
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+Issued in Washington, DC, on October 21, 1994.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<SIGNER>
+<!-- PJG ITAG l=06 g=1 f=1 -->
+Thomas C. Accardi,
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNER>
+<SIGNJOB>
+<!-- PJG ITAG l=04 g=1 f=1 -->
+Director, Flight Standards Service.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+Adoption of the Amendment
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Accordingly, pursuant to the authority delegated to me, part 97 of the Federal Aviation Regulations (14 CFR part 97)
+is amended by establishing, amending, suspending, or revoking Standard Instrument Approach Procedures, effective
+at 0901 UTC on the dates specified, as follows:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+PART 97_STANDARD INSTRUMENT APPROACH PROCEDURES
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+1. The authority citation for part 97 continues to read as follows:
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=4 -->
+Authority: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+49 U.S.C. app. 1348, 1354(a), 1421 and 1510; 49 U.S.C. 106(g); and 14 CFR 11.49(b)(2).
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+2. Part 97 is amended to read as follows:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=80 g=1 f=1 -->
+&sect;&sect;97.23, 97.25, 97.27, 97.29, 97.31, 97.33, 97.35
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=89 g=1 f=1 -->
+[Amended]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+By amending: &sect;97.23 VOR, VOR/DME, VOR or TACAN, and VOR/DME or TACAN; &sect;97.25 LOC, LOC/DME, LDA, LDA/DME,
+SDF, SDF/DME; &sect;97.27 NDB, NDB/DME; &sect;97.29 ILS, ILS/DME, ISMLS, MLS, MLS/DME, MLS/RNAV; &sect;97.31
+RADAR SIAPs; &sect;97.33 RNAV SIAPs; and &sect;97.35 COPTER SIAPs, identified as follows:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=73 g=1 f=1 -->
+***Effective February 2, 1995
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=25 g=1 f=1 -->
+Little Rock, AR, North Little Rock Muni, VOR RWY 35, Amdt 4
+<!-- PJG 0012 frnewline -->
+Bermuda Dunes, CA, Bermuda Dunes, VOR RWY 28, Orig CANCELLED
+<!-- PJG 0012 frnewline -->
+Palm Springs, CA, Bermuda Dunes, VOR RWY 28, Orig
+<!-- PJG 0012 frnewline -->
+Millville, NJ, Millville Muni, VOR/DME RNAV RWY 28, Amdt 1
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=73 g=1 f=1 -->
+***Effective January 5, 1995
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=25 g=1 f=1 -->
+Monterey, CA, Monterey Peninsula, NDB OR GPS RWY 10R, Amdt 12
+<!-- PJG 0012 frnewline -->
+Kountze/Silsbee, TX, Hawthorne Field, NDB RWY 13, Amdt 2
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=73 g=1 f=1 -->
+***Effective December 8, 1994
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=25 g=1 f=1 -->
+Crescent City, CA, Jack McNamara Field, VOR RWY 11, Amdt 9
+<!-- PJG 0012 frnewline -->
+Crescent City, CA, Jack McNamara Field, VOR/DME OR GPS RWY 11, Amdt 11
+<!-- PJG 0012 frnewline -->
+Crescent City, CA, Jack McNamara Field, VOR/DME OR GPS RWY 35, Amdt 10
+<!-- PJG 0012 frnewline -->
+Crescent City, CA, Jack McNamara Field, ILS/DME RWY 11, Amdt 5
+<!-- PJG 0012 frnewline -->
+Santa Barbara, CA, Santa Barbara Muni, ILS RWY 7, Amdt 3
+<!-- PJG 0012 frnewline -->
+Thomaston, GA, Thomaston-Upson County, LOC RWY 30, Orig
+<!-- PJG 0012 frnewline -->
+Thomaston, GA, Thomaston-Upson County, NDB RWY 30, Orig
+<!-- PJG 0012 frnewline -->
+Thomaston, GA, Reginald Grant Memorial, NDB RWY 3, Amdt 1, CANCELLED
+<!-- PJG 0012 frnewline -->
+Washington, IA, Washington Muni, VOR/DME&hyph;A, Amdt 3A, CANCELLED
+<!-- PJG 0012 frnewline -->
+Washington, IA, Washington Muni, VOR/DME RWY 36, Orig
+<!-- PJG 0012 frnewline -->
+Washington, IA, Washington Muni, NDB RWY 31, Amdt 1
+<!-- PJG 0012 frnewline -->
+Washington, IA, Washington Muni, VOR/DME RNAV RWY 31, Amdt 4
+<!-- PJG 0012 frnewline -->
+Wichita, KS, Wichita Mid-Continent, VOR RWY 14, Amdt 1
+<!-- PJG 0012 frnewline -->
+Wichita, KS, Wichita Mid-Continent, LOC BC RWY 19L, Amdt 15
+<!-- PJG 0012 frnewline -->
+Wichita, KS, Wichita Mid-Continent, NDB RWY 1R, Amdt 15
+<!-- PJG 0012 frnewline -->
+Wichita, KS, Wichita Mid-Continent, ILS RWY 1R, Amdt 16
+<!-- PJG 0012 frnewline -->
+Wichita, KS, Wichita Mid-Continent, MLS RWY 19L, Amdt 1
+<!-- PJG 0012 frnewline -->
+Wichita, KS, Wichita Mid-Continent, VOR/DME RNAV RWY 1L, Amdt 1
+<!-- PJG 0012 frnewline -->
+Wichita, KS, Wichita Mid-Continent, VOR/DME RNAV RWY 19R, Amdt 1
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Old Town, ME, Dewitt Fld, Old Town Muni, VOR&hyph;A, Amdt 10, CANCELLED
+<!-- PJG 0012 frnewline -->
+St Cloud, MN, St Cloud Muni, VOR RWY 31, Amdt 10
+<!-- PJG 0012 frnewline -->
+St Cloud, MN, St Cloud Muni, VOR/DME RWY 13, Amdt 7
+<!-- PJG 0012 frnewline -->
+St Cloud, NM, St Cloud Muni, NDB RWY 31, Amdt 1
+<!-- PJG 0012 frnewline -->
+St Cloud, MN, St Cloud Muni, ILS RWY 31, Amdt 1
+<!-- PJG 0012 frnewline -->
+Miller, SD, Miller Muni, NDB RWY 13, Amdt 2
+<!-- PJG 0012 frnewline -->
+Carthage, TX, Panola County-Sharpe Field, NDB OR GPS RWY 35, Amdt 1
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Bluefield, WV, Mercer County, VOR RWY 23, Amdt 8
+<!-- PJG 0012 frnewline -->
+Bluefield, WV, Mercer County, VOR/DME OR GPS RWY 23, Amdt 3
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=73 g=1 f=1 -->
+***Effective November 10, 1994
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=25 g=1 f=1 -->
+St Louis, MO, Spirit of St Louis, VOR RWY 8R, Amdt 7
+<!-- PJG 0012 frnewline -->
+St Louis, MO, Spirit of St Louis, VOR RWY 26L, Amdt 5
+<!-- PJG 0012 frnewline -->
+St Louis, MO, Spirit of St Louis, LOC RWY 26L, Amdt 4
+<!-- PJG 0012 frnewline -->
+St Louis, MO, Spirit of St Louis, NDB RWY 8R, Amdt 11
+<!-- PJG 0012 frnewline -->
+St Louis, MO, Spirit of St Louis, NDB RWY 26L, Amdt 1
+<!-- PJG 0012 frnewline -->
+St Louis, MO, Spirit of St Louis, ILS RWY 8R, Amdt 13
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Johnstown, PA, Johnstown-Cambria County, ILS RWY 33, Amdt 3
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Chesapeake, VA, Chesapeake Muni, LOC RWY 5, Orig
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=73 g=1 f=1 -->
+***Effective Upon Publication
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=25 g=1 f=1 -->
+Concord, NC, Concord Regional, VOR/DME&hyph;A, Amdt 1
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 03 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</SIGNJOB>
+<FRFILING>
+<!-- PJG ITAG l=40 g=1 f=1 -->
+[FR Doc. 94&hyph;27393 Filed 11&hyph;3&hyph;94; 8:45 am]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</FRFILING>
+<BILLING>
+<!-- PJG ITAG l=68 g=1 f=1 -->
+BILLING CODE 4910&hyph;13&hyph;M
+<!-- PJG /ITAG -->
+</BILLING>
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00013 </DOCNO>
+<PARENT> FR941104-0-00004 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=69 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+
+<CFRNO>14 CFR Part 97</CFRNO>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=41 g=1 f=1 -->
+
+<RINDOCK>[Docket No. 27943; Amdt. No. 1631]</RINDOCK>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=55 g=1 f=1 -->
+Standard Instrument Approach Procedures; Miscellaneous Amendments
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<AGENCY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+AGENCY: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+Federal Aviation Administration (FAA), DOT.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</AGENCY>
+<ACTION>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ACTION: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+Final rule.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=59 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</ACTION>
+<SUMMARY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUMMARY: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+This amendment establishes, amends, suspends, or revokes Standard Instrument Approach Procedures (SIAPs) for
+operations at certain airports. These regulatory actions are needed because of changes occurring in the National
+Airspace System, such as the commissioning of new navigational facilities, addition of new obstacles, or changes
+in air traffic requirements. These changes are designed to provide safe and efficient use of the navigable airspace
+and to promote safe flight operations under instrument flight rules at the affected airports.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</SUMMARY>
+<DATE>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+DATES: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+An effective date for each SIAP is specified in the amendatory provisions.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Incorporation by reference-approved by the Director of the Federal Register on December 31, 1980, and reapproved
+as of January 1, 1982.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</DATE>
+<ADDRESS>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ADDRESSES: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+Availability of matter incorporated by reference in the amendment is as follows:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+For Examination
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+._1. FAA Rules Docket, FAA Headquarters Building, 800 Independence Avenue, SW., Washington, DC 20591;
+<!-- PJG 0012 frnewline -->
+2. The FAA Regional Office of the region in which affected airport is located; or
+<!-- PJG 0012 frnewline -->
+3. The Flight Inspection Area Office which originated the SIAP.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+For Purchase
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+._Individual SIAP copies may be obtained from:
+<!-- PJG 0012 frnewline -->
+1. FAA Public Inquiry Center (APA&hyph;200), FAA Headquarters Building, 800 Independence Avenue, SW., Washington,
+DC 20591; or
+<!-- PJG 0012 frnewline -->
+2. The FAA Regional Office of the region in which the affected airport is located.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+By Subscription
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+._Copies of all SIAPs, mailed once every 2 weeks, are for sale by the Superintendent of Documents, US Government Printing
+Office, Washington, DC 20402.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</ADDRESS>
+<FURTHER>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+FOR FURTHER INFORMATION CONTACT:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Paul J. Best, Flight Procedures Standards Branch (AFS&hyph;420), Technical Programs Division, Flight Standards
+Service, Federal Aviation Administration, 800 Independence Avenue, SW., Washington, DC 20591; telephone (202)
+267&hyph;8277.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</FURTHER>
+<SUPPLEM>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUPPLEMENTARY INFORMATION:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ This amendment to part 97 of the Federal Aviation Regulations (14 CFR part 97) establishes, amends, suspends, or revokes
+Standard Instrument Approach Procedures (SIAPs). The complete regulatory description on each SIAP is contained
+in the appropriate FAA Form 8260 and the National Flight Data Center (FDC)/Permanent (P) Notices to Airmen (NOTAM)
+which are incorporated by reference in the amendment under 5 U.S.C. 552(a), 1 CFR part 51, and &sect;97.20 of the Federal
+Aviations Regulations (FAR). Materials incorporated by reference are available for examination or purchase as
+stated above.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+The large number of SIAPs, their complex nature, and the need for a special format make their verbatim publication
+in the 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+ expensive and impractical. Further, airmen do not use the regulatory text of the SIAPs, but refer to their graphic
+depiction of charts printed by publishers of aeronautical materials. Thus, the advantages of incorporation by reference
+are realized and publication of the complete description of each SIAP contained in FAA form documents is unnecessary.
+The provisions of this amendment state the affected CFR (and FAR) sections, with the types and effective dates of the
+SIAPs. This amendment also identifies the airport, its location, the procedure identification and the amendment
+number.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+The Rule
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+This amendment to part 97 of the Federal Aviation Regulations (14 CFR part 97) establishes, amends, suspends, or revokes
+SIAPs. For safety and timeliness of change considerations, this amendment incorporates only specific changes contained
+in the content of the following FDC/P NOTAM for each SIAP. The SIAP information in some previously designated FDC/Temporary
+(FDC/T) NOTAMs is of such duration as to be permanent. With conversion to FDC/P NOTAMs, the respective FDC/T NOTAMs
+have been cancelled.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SUPPLEM>
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00014 </DOCNO>
+<PARENT> FR941104-0-00004 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+The FDC/P NOTAMs for the SIAPs contained in this amendment are based on the criteria contained in the U.S. Standard
+for Terminal Instrument Approach Procedures (TERPS). In developing these chart changes to SIAPs by FDC/P NOTAMs,
+the TERPS criteria were applied to only these specific conditions existing at the affected airports. All SIAP amendments
+in this rule have been previously issued by the FAA in a National Flight Data Center (FDC) Notice to Airmen (NOTAM) as
+an emergency action of immediate flight safety relating directly to published aeronautical charts. The circumstances
+which created the need for all these SIAP amendments requires making them effective in less than 30 days.
+<!-- PJG 0012 frnewline -->
+Further, the SIAPs contained in this amendment are based on the criteria contained in the TERPS. Because of the close
+and immediate relationship between these SIAPs and safety in air commerce, I find that notice and public procedure
+before adopting these SIAPs are unnecessary, impracticable, and contrary to the public interest and, where applicable,
+that good cause exists for making these SIAPs effective in less than 30 days.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+Conclusion
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+The FAA has determined that this regulation only involves an established body of technical regulations for which
+frequent and routine amendments are necessary to keep them operationally current. It, therefore, 1. is not a ``significant
+regulatory action'' under Executive Order 12866; 2. is not a ``significant rule'' under DOT Regulatory Policies
+and Procedures (44 FR 11034; February 26, 1979); and 3. does not warrant preparation of a regulatory evaluation as
+the anticipated impact is so minimal. For the same reason, the FAA certifies that this amendment will not have a significant
+economic impact on a substantial number of small entities under the criteria of the Regulatory Flexibility Act.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+List of Subjects in 14 CFR Part 97
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Air traffic control, Airports, Navigation (air).
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+Issued in Washington, DC, on October 21, 1994.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<SIGNER>
+<!-- PJG ITAG l=06 g=1 f=1 -->
+Thomas C. Accardi,
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNER>
+<SIGNJOB>
+<!-- PJG ITAG l=04 g=1 f=1 -->
+Director, Flight Standards Service.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+Adoption of the Amendment
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Accordingly, pursuant to the authority delegated to me, part 97 of the Federal Aviation Regulations (14 CFR part 97)
+is amended by establishing, amending, suspending, or revoking Standard Instrument Approach Procedures, effective
+at 0901 UTC on the dates specified, as follows:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+PART 97_STANDARD INSTRUMENT APPROACH PROCEDURES
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+1. The authority citation for part 97 continues to read as follows:
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=4 -->
+Authority:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+ 49 U.S.C. app. 1348, 1354(a), 1421 and 1510; 49 U.S.C. 106(g); and 14 CFR 11.49(b)(2).
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+2. Part 97 is amended to read as follows:
+<!-- PJG /ITAG -->
+</SIGNJOB>
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00015 </DOCNO>
+<PARENT> FR941104-0-00004 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=80 g=1 f=1 -->
+&sect;&sect;97.23, 97.25, 97.27, 97.29, 97.31, 97.33, 97.35 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=89 g=1 f=1 -->
+[Amended]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+ 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+By amending: &sect;97.23 VOR, VOR/DME, VOR or TACAN, and VOR/DME or TACAN; &sect;97.25 LOC, LOC/DME, LDA, LDA/DME,
+SDF, SDF/DME; &sect;97.27 NDB, NDB/DME; &sect;97.29 ILS, ILS/DME, ISMLS, MLS, MLS/DME, MLS/RNAV; &sect;97.31
+RADAR SIAPs; &sect;97.33 RNAV SIAPs; and &sect;97.35 COPTER SIAPs, identified as follows: Effective upon publication.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<TABLE>
+
+<!-- PJG tableformat 6,L2,tp0,i1,10,xls28, r50, r75, 10, xs120 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0150 intable -->
+1FDC Date 
+<!-- PJG 007 0150 intable -->
+1State 
+<!-- PJG 007 0150 intable -->
+1City 
+<!-- PJG 007 0150 intable -->
+1Airport 
+<!-- PJG 007 0150 intable -->
+1FDC No. 
+<!-- PJG 007 0150 intable -->
+1SIAP
+<!-- PJG 007 0152 intable -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=01 g=1 f=1 -->
+9/28/94 
+<!-- PJG 007 0104 intable -->
+NY 
+<!-- PJG 007 0104 intable -->
+PLATTSBURGH 
+<!-- PJG 007 0104 intable -->
+CLINTON COUNTY 
+<!-- PJG 007 0104 intable -->
+4/5836 
+<!-- PJG 007 0104 intable -->
+ILS RWY 1, AMDT 2...
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+10/12/94 
+<!-- PJG 007 0104 intable -->
+WA 
+<!-- PJG 007 0104 intable -->
+SEATTLE 
+<!-- PJG 007 0104 intable -->
+SEATTLE-TACOMA INTERNATIONAL 
+<!-- PJG 007 0104 intable -->
+4/5853 
+<!-- PJG 007 0104 intable -->
+EFF OCT 13, 1994. ILS RWY 16R /CAT I/, /CAT II/, /CAT III/, AMDT 11A... 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+10/12/94 
+<!-- PJG 007 0104 intable -->
+WA 
+<!-- PJG 007 0104 intable -->
+SEATTLE 
+<!-- PJG 007 0104 intable -->
+SEATTLE-TACOMA INTERNATIONAL 
+<!-- PJG 007 0104 intable -->
+4/5854 
+<!-- PJG 007 0104 intable -->
+EFF OCT 13, 1994. VOR OR GPS RWY 16L/R, AMDT 12...
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+10/12/94 
+<!-- PJG 007 0104 intable -->
+WA 
+<!-- PJG 007 0104 intable -->
+SEATTLE 
+<!-- PJG 007 0104 intable -->
+SEATTLE-TACOMA INTERNATIONAL 
+<!-- PJG 007 0104 intable -->
+4/5855 
+<!-- PJG 007 0104 intable -->
+EFF OCT 13, 1994. NDB RWY 16R, AMDT ORIG-A...
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+10/12/94 
+<!-- PJG 007 0104 intable -->
+WA 
+<!-- PJG 007 0104 intable -->
+SEATTLE 
+<!-- PJG 007 0104 intable -->
+SEATTLE-TACOMA INTERNATIONAL 
+<!-- PJG 007 0104 intable -->
+4/5856 
+<!-- PJG 007 0104 intable -->
+EFF OCT 13, 1994. VOR OR GPS RWY 34L/R, AMDT 8...
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+10/12/94 
+<!-- PJG 007 0104 intable -->
+WA 
+<!-- PJG 007 0104 intable -->
+SEATTLE 
+<!-- PJG 007 0104 intable -->
+SEATTLE-TACOMA INTERNATIONAL 
+<!-- PJG 007 0104 intable -->
+4/5857 
+<!-- PJG 007 0104 intable -->
+EFF OCT 13, 1994. NDB RWY 34R, AMDT 7...
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+10/13/94 
+<!-- PJG 007 0104 intable -->
+AZ 
+<!-- PJG 007 0104 intable -->
+PHOENIX 
+<!-- PJG 007 0104 intable -->
+WILLIAMS GATEWAY 
+<!-- PJG 007 0104 intable -->
+4/5880 
+<!-- PJG 007 0104 intable -->
+ILS RWY 30C ORIG...
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+10/13/94 
+<!-- PJG 007 0104 intable -->
+CA 
+<!-- PJG 007 0104 intable -->
+FRESNO 
+<!-- PJG 007 0104 intable -->
+FRESNO-CHANDLER DOWNTOWN 
+<!-- PJG 007 0104 intable -->
+4/5904 
+<!-- PJG 007 0104 intable -->
+NDB-B AMDT 7...
+<!-- PJG /ITAG -->
+
+</TABLE>
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<FRFILING>
+<!-- PJG ITAG l=40 g=1 f=1 -->
+[FR Doc. 94&hyph;27392 Filed 11&hyph;3&hyph;94; 8:45 am]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</FRFILING>
+<BILLING>
+<!-- PJG ITAG l=68 g=1 f=1 -->
+BILLING CODE 4910&hyph;13&hyph;M
+<!-- PJG /ITAG -->
+</BILLING>
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00016 </DOCNO>
+<PARENT> FR941104-0-00005 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=69 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+
+<CFRNO>14 CFR Parts 121, 125, and 135</CFRNO>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=41 g=1 f=1 -->
+
+<RINDOCK>[Docket No. 27926; Amendment Nos. 121&hyph;242, 125&hyph;22, 135&hyph;53]</RINDOCK>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=91 g=1 f=1 -->
+
+<RINDOCK>RIN 2120&hyph;AF37</RINDOCK>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=55 g=1 f=1 -->
+Protective Glove Requirement 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<AGENCY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+AGENCY: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+Federal Aviation Administration, DOT.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</AGENCY>
+<ACTION>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ACTION: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+Final rule; correction.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=59 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</ACTION>
+<SUMMARY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUMMARY: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+This document contains corrections to the final rule [FR Doc. 94&hyph;24498] published on October 18, 1994 (59 FR
+52640). The published list of items to be included in the kit inadvertently listed an item that previously had been
+deleted. This document corrects that error and one editorial omission.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</SUMMARY>
+<DATE>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+EFFECTIVE DATE: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+December 2, 1994.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</DATE>
+<FURTHER>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+FOR FURTHER INFORMATION CONTACT:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+Daniel V. Meier, Jr., Regulatory Branch (AFS&hyph;240), Air Transportation Division, Flight Standards Service,
+Federal Aviation Administration, 800 Independence Avenue SW., Washington, DC 20591; telephone (202) 267&hyph;3749.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</FURTHER>
+<SUPPLEM>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUPPLEMENTARY INFORMATION: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+On October 18, 1994, the FAA published a final rule amending the regulations that list the items required in the first
+aid kits carried on board aircraft operated in air carrier, air taxi, and commercial operations (59 FR 52640). In the
+list published in the final rule, the item ``Burn compound, 1/8 oz or an equivalent of other burn remedy'' appeared
+in the listing under &sect;&sect;125.207 and 135.177. The inclusion of burn compound was in error. Burn compound
+was removed by an earlier amendment (59 FR 1780, January 12, 1994).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Further, in the amendment to &sect;121.309, a period was omitted at the end of paragraph (d)(1). 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+Correction of Publication 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Accordingly, the publication on October 18, 1994 of the final rule that was the subject of FR Doc. 94&hyph;24498 is
+corrected as follows: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=80 g=1 f=1 -->
+&sect;121.309 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=89 g=1 f=1 -->
+[Corrected]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+1. On page 52642, in the third column, in &sect;121.309, in paragraph (d)(1), in the last line, add a period after the
+words ``of this part''. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=80 g=1 f=1 -->
+&sect;125.207 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=89 g=1 f=1 -->
+[Corrected]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+2. On page 52643, in the first column, in &sect;125.207, in the table in paragraph (a)(1)(iii), in the column titled
+``Contents'' remove the entry that reads ``Burn compound, 1/8 oz or an equivalent of other burn remedy''; in the column
+titled ``Quantity'' remove the entry ``6'' that corresponds to the burn compound entry. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=80 g=1 f=1 -->
+&sect;135.177 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=89 g=1 f=1 -->
+[Corrected]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+3. On page 52643, in the third column, in &sect;135.177, in the table in paragraph (a)(1)(iii), in the column titled
+``Contents'' remove the entry that reads ``Burn compound, 1/8 oz or an equivalent of other burn remedy''; in the column
+titled ``Quantity'' remove the entry ``6'' that corresponds to the burn compound entry. 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+Issued in Washington, DC on October 31, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SUPPLEM>
+<SIGNER>
+<!-- PJG ITAG l=06 g=1 f=1 -->
+Donald P. Byrne, 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNER>
+<SIGNJOB>
+<!-- PJG ITAG l=04 g=1 f=1 -->
+Assistant Chief Counsel for Regulations. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNJOB>
+<FRFILING>
+<!-- PJG ITAG l=40 g=1 f=1 -->
+[FR Doc. 94&hyph;27390 Filed 11&hyph;3&hyph;94; 8:45 am]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</FRFILING>
+<BILLING>
+<!-- PJG ITAG l=68 g=1 f=1 -->
+BILLING CODE 4910&hyph;13&hyph;M
+<!-- PJG /ITAG -->
+</BILLING>
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00017 </DOCNO>
+<PARENT> FR941104-0-00006 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=94 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=69 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=50 g=1 f=1 -->
+
+
+<USDEPT>DEPARTMENT OF LABOR</USDEPT>
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=18 g=1 f=1 -->
+
+<USBUREAU>Occupational Safety and Health Administration</USBUREAU>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+
+<CFRNO>29 CFR Part 1910</CFRNO>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=91 g=1 f=1 -->
+
+<RINDOCK>RIN 1218&hyph;AA51</RINDOCK>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=55 g=1 f=1 -->
+Permit-Required Confined Spaces
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<AGENCY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+AGENCY:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Occupational Safety and Health Administration (OSHA), U.S. Department of Labor.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</AGENCY>
+<ACTION>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ACTION:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Final rule: technical amendment to preamble.
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=59 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</ACTION>
+<SUMMARY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUMMARY:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ On January 14, 1993 at 58 FR 4462, the Occupational Safety and Health Administration (OSHA) published a final rule
+on Permit-Required Confined Spaces, 29 CFR 1910.146 in the 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+. On June 29, 1993 at 58 FR 34844, OSHA published a corrections document for that final rule which contained corrections
+to the regulatory text and to several appendices of the final rule. Another document was published on May 19, 1994 at
+59 FR 26114 which added a metric equivalent in paragraph (k)(3)(ii) and further revised the ``Atmospheric monitoring''
+section of Appendix E, ``Sewer System Entry'', of the final rule. This document revises one paragraph of the preamble
+discussion of the definition of confined space in the January 14, 1993 document.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</SUMMARY>
+<DATE>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+EFFECTIVE DATE:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ November 4, 1994.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</DATE>
+<FURTHER>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+FOR FURTHER INFORMATION CONTACT:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Office of Information, Division of Consumer Affairs, Room N&hyph;3647, U.S. Department of Labor, 200 Constitution
+Avenue NW., Washington, DC 20210, Telephone: (202) 219&hyph;8151.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</FURTHER>
+<SUPPLEM>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUPPLEMENTARY INFORMATION:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ OSHA published its final rule on Permit-Required Confined Spaces (PRCS), 29 CFR 1910.146, on January 14, 1993 at 58
+FR 4462. Corrections to the regulatory text and to several appendices were published on June 29, 1993 at 58 FR 34844.
+A technical amendment was published on May 19, 1994 at 59 FR 26114.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+Amendment to Preamble of 29 CFR 1910.146
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+In the Permit-Required Confined Spaces standard, on pages 4477 and 4478 of the January 14, 1993 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+ document preamble, OSHA made the following statement:
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+As indicated in the preamble to the proposal [54 FR 24089], OSHA notes that doorways and other portals through which
+a person can walk are not to be considered limited means for entry or exit.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+This sentence was intended to limit the application of the definition of confined spaces to those areas where an employee
+would be forced to enter or exit in a posture that might slow self-rescue, or make rescue more difficult. These spaces
+warrant additional consideration as to whether they pose a hazard to entrants and would, therefore, be regulated
+as permit-required confined spaces (permit spaces). For example, even if the door or portal of a space is of sufficient
+size, obstructions could make entry into or exit from the space difficult. The Agency intended that spaces which otherwise
+meet the definition of confined spaces, and which have obstructed entry or exits even though the portal is a standard
+size doorway, be classified as confined spaces. OSHA acknowledges that the preamble to the final rule did not clearly
+express that intent.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Accordingly, OSHA is adding preamble language to follow the above-mentioned statement. This text will make OSHA's
+original intent clear, without changing the PRCS standard.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+Exemption From Notice and Comment Procedures
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+With regard to this action, OSHA has determined that it is not required to follow procedures for public notice and comment
+rulemaking under either section 4 of the Administrative Procedure Act (5 U.S.C. 553) or under section 6(b) of the Occupational
+Safety and Health Act (29 U.S.C. 655(b)). This action does not affect the substantive requirements or coverage of
+the standards themselves. This technical amendment does not modify or revoke existing rights or obligations, nor
+does it establish new ones. This action simply provides additional information on the existing regulatory burden.
+OSHA, therefore, finds that notice and public procedure are impracticable and unnecessary within the meaning of
+5 U.S.C. 553(b)(3)(B). For the same reasons, OSHA also finds that, in accordance with 29 CFR 1911.5, good cause exists
+for dispensing with the public notice and comment procedures prescribed in section 6(b) of the Occupational Safety
+and Health Act.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+Exemption From Delayed Effective Date Requirement
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Under 5 U.S.C. 553, OSHA finds that is good cause for making this technical amendment effective upon publication in
+the 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+. This technical amendment simply provides additional information on the existing regulatory burden without increasing
+that burden.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=4 -->
+Authority:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+ This document was prepared under the direction of Joseph A. Dear, Assistant Secretary of Labor for Occupational Safety
+and Health, U.S. Department of Labor, 200 Constitution Avenue NW., Washington, DC 20210.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+Signed at Washington, DC, this 1st day of November 1994.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SUPPLEM>
+<SIGNER>
+<!-- PJG ITAG l=06 g=1 f=1 -->
+Joseph A. Dear,
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNER>
+<SIGNJOB>
+<!-- PJG ITAG l=04 g=1 f=1 -->
+Assistant Secretary of Labor.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Accordingly, in the January 14, 1993, Final Rule for Permit-Required Confined Spaces for General Industry (58 FR
+4462), the preamble section on page 4477, column 3 and page 4478, column 1, is revised to read as follows:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+As indicated in the preamble to the proposal [54 FR 24089], OSHA notes that doorways and other portals through which
+a person can walk are not to be considered limited means for entry or exit. However, a space containing such a door or
+portal may still be deemed a confined space if an entrant's ability to escape in an emergency would be hindered.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 03 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</SIGNJOB>
+<FRFILING>
+<!-- PJG ITAG l=40 g=1 f=1 -->
+[FR Doc. 94&hyph;27413 Filed 11&hyph;3&hyph;94; 8:45 am]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</FRFILING>
+<BILLING>
+<!-- PJG ITAG l=68 g=1 f=1 -->
+BILLING CODE 4510&hyph;26&hyph;M
+<!-- PJG /ITAG -->
+</BILLING>
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00018 </DOCNO>
+<PARENT> FR941104-0-00007 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=94 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=69 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=50 g=1 f=1 -->
+
+
+<USDEPT>DEPARTMENT OF THE TREASURY</USDEPT>
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=18 g=1 f=1 -->
+
+<USBUREAU>Office of Foreign Assets Control</USBUREAU>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+
+<CFRNO>31 CFR Part 565</CFRNO>
+<!-- PJG 0012 frnewline -->
+Panamanian Transactions Regulations; Termination of Residual Blocking of Government of Panama Assets
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<AGENCY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+AGENCY:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Office of Foreign Assets Control, Treasury.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</AGENCY>
+<ACTION>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ACTION:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Final rule; amendment.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=59 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</ACTION>
+<SUMMARY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUMMARY:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ The Office of Foreign Assets Control is amending the Panamanian Transactions Regulations to terminate the residual
+blocking of Government of Panama assets, effective November 4, 1994. This action terminates the Panamanian program
+of the Office of Foreign Assets Control. Authority to take enforcement action for sanctions violations is not affected
+by this action.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</SUMMARY>
+<DATE>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+EFFECTIVE DATE: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+November 4, 1994.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</DATE>
+<FURTHER>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+FOR FURTHER INFORMATION CONTACT:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Steven I. Pinter, Chief of Licensing (tel.: 202/622&hyph;2480), or William B. Hoffman, Chief Counsel (tel.: 202/622&hyph;2410),
+Office of Foreign Assets Control, Department of the Treasury, Washington, DC 20220.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</FURTHER>
+<SUPPLEM>
+<!-- PJG ITAG l=84 g=1 f=2 -->
+SUPPLEMENTARY INFORMATION:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Electronic Availability
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+This document is available as an electronic file on 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+The Federal Bulletin Board
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+ the day of publication in the 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+. By modem dial 202/512&hyph;1387 or call 202/512&hyph;1530 for disks or paper copies. This file is available in Postscript,
+WordPerfect 5.1 and ASCII.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+Background
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Executive Order 12710 of April 5, 1990, 3 CFR, 1990 Comp., p. 282, terminated the national emergency declared on April
+8, 1988, with respect to Panama, and lifted sanctions imposed against the Noriega regime. Pursuant to section 207(a)(2)
+of the International Emergency Economic Powers Act, 50 U.S.C. 1706(a)(2), however, the order continued the blocking
+of certain Government of Panama assets in the United States, with the understanding of the Government of Panama, to
+facilitate resolution of claims of U.S. persons. Because all such claims known to the Office of Foreign Assets Control
+(``FAC'') and arising prior to the lifting of sanctions have either been settled or provided for by the Government
+of Panama, including its agencies, instrumentalities, and controlled entities such as Air Panama, the residual
+blocking has fulfilled its purpose. Therefore, FAC is revising &sect;565.510 of the Panamanian Transactions Regulations,
+31 CFR part 565 (the ``Regulations''), to authorize, November 4, 1994, all transactions otherwise prohibited by
+the Regulations with respect to property and property interests in which the Government of Panama has an interest.
+
+<!-- PJG 0012 frnewline -->
+Because the Regulations involve a foreign affairs function, Executive Order 12866 and the provisions of the Administrative
+Procedure Act, 5 U.S.C. 553, requiring notice of proposed rulemaking, opportunity for public participation, and
+delay in effective date, are inapplicable. Because no notice of proposed rulemaking is required for this rule, the
+Regulatory Flexibility Act, 5 U.S.C. 601&hyph;612, does not apply.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+List of Subjects in 31 CFR Part 565
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Blocking of assets, Foreign claims, Panama, Penalties, Reporting and recordkeeping requirements, Transfer of
+assets.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+For the reasons set forth in the preamble, 31 CFR part 565 is amended as follows:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+PART 565_PANAMANIAN TRANSACTIONS REGULATIONS
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+1. The authority citation for part 565 continues to read as follows: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=4 -->
+Authority:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+ 50 U.S.C. 1701&hyph;1706, E.O. 12635, 53 FR 12134 (April 12, 1988), 3 CFR, 1988 Comp., p. 563; E.O. 12710, 55 FR 13099
+(April 6, 1990), 3 CFR, 1990 Comp., p. 282.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+Subpart E_Licenses, Authorizations, and Statements of Licensing Policy
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+2. The heading and text of &sect;565.510 are revised to read as follows:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=80 g=1 f=1 -->
+&sect;565.510 Government of Panama assets unblocked.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+(a) Effective November 4, 1994, all transactions involving property in which the Government of Panama has an interest
+that would otherwise be prohibited by this part are authorized. 
+<!-- PJG 0012 frnewline -->
+(b) Nothing in this section shall authorize transactions prior to November 4, 1994, that were prohibited by this part
+when transacted. Enforcement actions with respect to violations of this part are not affected by this section.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+Dated: October 11, 1994.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SUPPLEM>
+<SIGNER>
+<!-- PJG ITAG l=06 g=1 f=1 -->
+Steven I. Pinter,
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNER>
+<SIGNJOB>
+<!-- PJG ITAG l=04 g=1 f=1 -->
+Acting Director, Office of Foreign Assets Control.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+Approved: October 11, 1994.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNJOB>
+<SIGNER>
+<!-- PJG ITAG l=06 g=1 f=1 -->
+R. Richard Newcomb,
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNER>
+<SIGNJOB>
+<!-- PJG ITAG l=04 g=1 f=1 -->
+Acting Deputy Assistant Secretary (Law Enforcement).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</SIGNJOB>
+<FRFILING>
+<!-- PJG ITAG l=40 g=1 f=1 -->
+[FR Doc. 94&hyph;27345; Filed 11&hyph;3&hyph;94; 8:45 am]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</FRFILING>
+<BILLING>
+<!-- PJG ITAG l=68 g=1 f=1 -->
+BILLING CODE 4810&hyph;25&hyph;F
+<!-- PJG /ITAG -->
+</BILLING>
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00019 </DOCNO>
+<PARENT> FR941104-0-00008 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=94 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=69 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=50 g=1 f=1 -->
+
+
+<USDEPT>FEDERAL COMMUNICATIONS COMMISSION</USDEPT>
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+
+<CFRNO>47 CFR Part 24</CFRNO>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=41 g=1 f=1 -->
+
+<RINDOCK>[GEN Docket No. 90&hyph;314; DA 94&hyph;1197]</RINDOCK>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=55 g=1 f=1 -->
+Narrowband Personal Communications Services
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<AGENCY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+AGENCY: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+Federal Communications Commission.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</AGENCY>
+<ACTION>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ACTION: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+Final rule; correction.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=59 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</ACTION>
+<SUMMARY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUMMARY: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+This document contains a correction to the final regulations, which were published on August 11, 1993 (58 FR 42681).
+The regulations related to the frequency allocation and service rules for Narrowband Personal Communications Services.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</SUMMARY>
+<DATE>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+EFFECTIVE DATE: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+November 4, 1994.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</DATE>
+<FURTHER>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+FOR FURTHER INFORMATION CONTACT: 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+John Reed, Office of Engineering and Technology, (202) 653&hyph;7313.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</FURTHER>
+<SUPPLEM>
+<!-- PJG ITAG l=84 g=1 f=2 -->
+SUPPLEMENTARY INFORMATION:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+Need for Correction
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+As published, the final regulation contains an error that needs to be corrected to ensure that the Commission's decision
+is properly implemented.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+Correction of Publication
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+Accordingly, the publication on August 11, 1993 of the final regulations, is corrected as follows:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=80 g=1 f=2 -->
+&sect;99.411 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=89 g=1 f=2 -->
+[Corrected]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+On page 42688, in column 1, paragraph (d) is corrected to read as follows:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+(d) A minimum spectrum analyzer resolution bandwidth of 300 Hz shall be used when showing compliance with paragraphs
+(a)(1) (i) and (ii) and (a)(2) (i) and (ii).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+This rule was subsequently renumbered as &sect;24.411.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+List of Subjects in 47 CFR Part 24
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+Communications equipment.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=2 -->
+Federal Communications Commission.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SUPPLEM>
+<SIGNER>
+<!-- PJG ITAG l=06 g=1 f=2 -->
+William F. Caton,
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNER>
+<SIGNJOB>
+<!-- PJG ITAG l=04 g=1 f=2 -->
+Acting Secretary.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNJOB>
+<FRFILING>
+<!-- PJG ITAG l=40 g=1 f=2 -->
+[FR Doc. 94&hyph;27259 Filed 11&hyph;3&hyph;94; 8:45 am]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</FRFILING>
+<BILLING>
+<!-- PJG ITAG l=68 g=1 f=2 -->
+BILLING CODE 6712&hyph;01&hyph;M
+<!-- PJG /ITAG -->
+</BILLING>
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00020 </DOCNO>
+<PARENT> FR941104-0-00009 </PARENT>
+<TEXT>
+ 
+<!-- PJG FTAG 4717 -->
+
+<!-- PJG STAG 4717 -->
+
+<!-- PJG ITAG l=01 g=1 f=2 -->
+Friday
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=02 g=1 f=2 -->
+November 4, 1994
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=09 g=1 f=2 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=03 g=1 f=2 -->
+Part IV
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=04 g=1 f=2 -->
+Environmental Protection Agency
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=09 g=1 f=2 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=05 g=1 f=2 -->
+40 CFR Part 271
+<!-- PJG 0012 frnewline -->
+Washington: Final Authorization of State Hazardous Waste 
+<!-- PJG 0012 frnewline -->
+Management Program Revisions; Final Rule
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+
+<!-- PJG /FTAG -->
+
+<!-- PJG FTAG 4701 -->
+
+<!-- PJG STAG 4701 -->
+
+<!-- PJG ITAG l=90 g=1 f=2 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=90 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=90 g=1 f=1 -->
+&blank;/&blank;Vol. 59, No. 213&blank;/&blank;Friday, November 4, 
+<!-- PJG 0012 frnewline -->
+1994&blank;/&blank;Rules and Regulations 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=52 g=1 f=1 -->
+
+<USDEPT>ENVIRONMENTAL PROTECTION AGENCY </USDEPT>
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<USDEPT>40 CFR Part 271 </USDEPT>
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=41 g=1 f=1 -->
+
+<RINDOCK>[FRL&hyph;5099&hyph;5] </RINDOCK>
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=55 g=1 f=1 -->
+Washington: Final Authorization of State Hazardous Waste Management Program Revisions 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<AGENCY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+AGENCY:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Environmental Protection Agency. 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+</AGENCY>
+<ACTION>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+ACTION:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Immediate final rule. 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=59 g=1 f=1 -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</ACTION>
+<SUMMARY>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+SUMMARY:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ The State of Washington has applied for final authorization of revisions to its hazardous waste program under the
+Resource Conservation and Recovery Act (RCRA). The Environmental Protection Agency (EPA) has reviewed the State
+of Washington's application and has reached a decision that the State of Washington's hazardous waste program revision
+satisfies all of the requirements necessary to qualify for final authorization. Thus, EPA is granting final authorization
+to the State of Washington to operate its expanded program, subject to the authority retained by EPA in accordance
+with the Hazardous and Solid Waste Amendments of 1984.
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+ 
+<!-- PJG 0012 frnewline -->
+</SUMMARY>
+<DATE>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+EFFECTIVE DATE:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Final authorization for the State of Washington shall be effective November 4, 1994. 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+</DATE>
+<FURTHER>
+<!-- PJG ITAG l=10 g=1 f=2 -->
+FOR FURTHER INFORMATION CONTACT:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=10 g=1 f=1 -->
+ Patricia Springer, U.S. EPA, M/S: HW&hyph;107, 1200 Sixth Avenue, Seattle, Washington 98101, Phone (206) 553&hyph;2858.
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</FURTHER>
+<SUPPLEM>
+<!-- PJG ITAG l=84 g=1 f=2 -->
+SUPPLEMENTARY INFORMATION:
+<!-- PJG 0012 frnewline -->
+A. Background 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+States with final authorization under section 3006(b) of the Resource Conservation and Recovery Act, as amended
+(``RCRA''), 42 U.S.C. 6929(b), have a continuing obligation to maintain a hazardous waste program that is equivalent
+to, consistent with, and no less stringent than the Federal hazardous waste program. In addition, as an interim measure,
+the Hazardous and Solid Waste Amendments of 1984 to RCRA (Public Law 98&hyph;616, November 8, 1984, hereinafter ``HSWA'')
+allows States to revise their programs to become substantially equivalent instead of equivalent to RCRA requirements
+promulgated under HSWA authority. States exercising the latter option receive ``interim authorization'' for the
+HSWA requirements under section 3006(g) of RCRA, 42 U.S.C. 6926(g), and later apply for final authorization for the
+HSWA requirements. 
+<!-- PJG 0012 frnewline -->
+Revisions to State hazardous waste programs are necessary when Federal or State statutory or regulatory authority
+is modified or when certain other changes occur. Most commonly, State program revisions are necessitated by changes
+to EPA's regulations in 40 CFR parts 124, 260&hyph;266, 268 and 270. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+B. State of Washington 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+The State of Washington initially received final authorization on January 31, 1986. The State of Washington received
+authorization for revisions to its program on November 23, 1987 (52 FR 35556, 9/22/87) and on October 16, 1990 (55 FR
+33695, 8/17/90). On January 12, 1994, the State of Washington submitted a program revision application for additional
+program approvals. On March 30, 1994, EPA published a proposal to approve the State of Washington's application for
+program revision in accordance with 40 CFR 271.21(b)(4). 
+<!-- PJG 0012 frnewline -->
+EPA has reviewed the State of Washington's application, and has made a final decision that Washington's hazardous
+waste program revision satisfies all of the requirements necessary to qualify for final authorization. Consequently,
+EPA is granting final authorization for the additional program modifications to Washington's hazardous waste program.
+Attachments 1, 2, 5, 6, 8&hyph;17 and Appendices 1&hyph;4 of the State's application are provided for information
+only. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SUPPLEM>
+<!-- PJG /STAG -->
+
+<!-- PJG /FTAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00021 </DOCNO>
+<PARENT> FR941104-0-00009 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+C. Washington's Corrective Action Program 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+The State of Washington's authorized RCRA program is set forth in Chapter 173&hyph;303 of the Washington Administrative
+Code (WAC), entitled ``Dangerous Waste Regulations''. The Dangerous Waste Regulations include both authorized
+and non-authorized requirements. Washington has amended the Dangerous Waste Regulations to include corrective
+action requirements; however, Washington may also rely on its existing state ``superfund-like'' cleanup authority,
+Model Toxics Control Act (MTCA), and its implementing regulations in Chapter 173&hyph;340 entitled ``Model Toxics
+Control Act Cleanup Regulation'', to implement corrective action requirements and to compel corrective actions.
+
+<!-- PJG 0012 frnewline -->
+The statutory authority for the Dangerous Waste Regulations is found in the Revised Code of Washington (RCW), Chapters
+70.105 and 70.105D. RCW 70.105D.030(1)(d) is the statutory provision which allows the State of Washington Department
+of Ecology (Ecology) to carry out all state programs authorized under the federal RCRA statute. RCW 70.105.130 designates
+Ecology as the agency tasked with implementing the authorized RCRA program and provides Ecology with the authority
+to establish a permit system for owners or operators of facilities which treat, store, or dispose of dangerous waste.
+RCW 70.105.020 authorizes Ecology to revise and modify the Dangerous Waste Regulations. Statutory authority for
+MTCA is also found in RCW Chapter 70.105D. RCW 70.105D.030(2) authorizes Ecology to adopt rules to set cleanup standards
+for remedial actions taken under MTCA authority. RCW 70.105D.050(1) explicitly grants Ecology the authority to
+issue orders under MTCA to direct potentially liable parties to conduct remedial action. 
+<!-- PJG 0012 frnewline -->
+Washington may compel corrective action by issuing orders pursuant to MTCA to owners and operators of facilities
+seeking or required to have a permit to manage dangerous waste. Such orders are referred to as ``state corrective action
+orders''. State corrective action orders will be somewhat hybrid, presenting RCRA corrective action requirements
+in the context of a state ``superfund-like'' cleanup. EPA emphasizes that corrective action requirements are not
+being deferred to a state superfund-like authority; rather, the state authority will be used to compel RCRA corrective
+action requirements. In order to fulfill the RCRA Section 3004 (u) and(v) requirement that all RCRA permits must include
+corrective action permit conditions, state corrective action orders will be incorporated into RCRA permits issued
+pursuant to the authorized State program permitting regulations. 
+<!-- PJG 0012 frnewline -->
+Washington's corrective action program would allow corrective action to be specified through the terms of a State-issued
+order which is incorporated by reference into operating or post-closure permits issued to facilities. The State
+could: 1) issue the order in advance of the permit; 2) modify the permit to incorporate the order; or 3) simultaneously
+issue the order and the permit with the order incorporated into the permit. Under the Washington program, a State order
+would be considered to be part of the authorized RCRA program only when the order is incorporated into an existing RCRA
+permit, or when the order is issued simultaneously with and incorporated by reference into a new RCRA permit. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+D. Comparison of Washington's Corrective Action Program to the Federal Program 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+Ordinarily, States await promulgation of Federal regulations prior to submitting their applications. However,
+there is no impediment under the RCRA statutory provisions which would bar a State from seeking authorization of a
+program in advance of Federally promulgated regulations provided the State bases its program on existing Federal
+statutory language. An existing Federal counterpart is the critical nexus in the authorization program. 
+<!-- PJG 0012 frnewline -->
+Washington's corrective action program goes slightly beyond the EPA-promulgated regulations (see 40 CFR 264.100
+and 264.101) which implement the statutory provisions of sections 3004(u) and (v) of RCRA, 42 U.S.C. 6924(u) and (v),
+in which facilities seeking a permit are required to undertake corrective action for all releases of hazardous waste
+or constituents from any solid waste management unit (SWMU) and to undertake such corrective actions beyond the property
+boundary where necessary. Washington's program will instead utilize its existing Superfund-like cleanup order
+authority (the Model Toxics Control Act) through the State's authorized RCRA program by linking the cleanup order
+authority with the State's authorized RCRA program permitting requirements to fulfill the mandates of sections
+3004(u) and (v) of RCRA, 42 U.S.C. 6924(u) and (v). 
+<!-- PJG 0012 frnewline -->
+The statutory language of Section 3004(u) of RCRA applies to corrective action at solid waste management units. Although
+no statutory or regulatory definition of ``solid waste management unit'' has been promulgated, EPA's proposed Subpart
+S corrective action rule, published in the 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=4 -->
+Federal Register
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+ on July 27, 1990 (55 FR 30798), contains EPA's most current interpretation of key terms in section 3004(u) of RCRA.
+This is and will be the controlling interpretation against which Washington's regulatory definition of solid waste
+management unit shall be measured until EPA codifies a statutory or regulatory definition. 
+<!-- PJG 0012 frnewline -->
+The statutory language of section 3004(u) of RCRA also applies to ``facilities seeking a permit.'' Such facilities
+include those hazardous waste management facilities which are required to obtain permits to operate and to those
+subject to post-closure permits. EPA has interpreted this language to mean that corrective action must be specified
+in operating or post-closure permits issued to such facilities. 
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00022 </DOCNO>
+<PARENT> FR941104-0-00009 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+State corrective action orders will be issued to facilities subject to the Washington State Dangerous Waste Regulations,
+codified in the Washington Administrative Code (WAC) in Chapter 173-303, but these orders will rely in part on the
+State of Washington's Model Toxics Control Act (MTCA) statutory and regulatory provisions and will require current
+owners and operators of SWMUs to conduct corrective action at those units in accordance with the Dangerous Waste Regulations.
+
+<!-- PJG 0012 frnewline -->
+EPA is not delegating RCRA section 3008(h) authority [42 U.S.C. 6928(h)] as part of this authorization. No Federal
+enforcement authorities are delegated when EPA authorizes state programs under section 3006 of RCRA. 
+<!-- PJG 0012 frnewline -->
+Any orders issued to a facility under MTCA will not be considered to be part of the EPA-authorized corrective action
+program unless and until they are incorporated into a RCRA permit. Terms of the orders which go beyond the scope of the
+authorized Dangerous Waste regulations will be considered broader in scope, and thus not Federally enforceable.
+Federal enforceability does not affect the ability of the State to impose requirements pursuant to their legitimate
+State statutory authorities or to enforce those requirements in lawfully-issued orders or permits. 
+<!-- PJG 0012 frnewline -->
+Some portions of Washington's revised program are broader in scope than the Federal program, and thus are not Federally
+enforceable. Due to Washington's statutory mandate to address all releases of hazardous substances, Washington
+has developed corrective action requirements which are, in part, broader in scope than the Federal corrective action
+requirements in RCRA Section 3004(u), in that dangerous waste management facilities in Washington will be required
+to conduct corrective action as necessary to protect human health and the environment for all releases of dangerous
+waste and dangerous constituents at or from the facility, regardless of the source of the release. 
+<!-- PJG 0012 frnewline -->
+Some portions of Washington's revised program are more stringent than the Federal program. The requirement to implement
+corrective action for releases which have migrated beyond the facility boundary is more stringent than the Federal
+requirement, in that it is not limited by the ``best efforts'' language in the Federal requirement. 
+<!-- PJG 0012 frnewline -->
+To clarify, Washington will be authorized for the following provisions as part of this authorization (see State Authorization
+Checklists 17L, 38, 44A, 44B, 121): 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<TABLE>
+
+<!-- PJG tableformat 2,L2,tp0,i1,s100,xs125 -->
+
+<!-- PJG ITAG l=95 g=1 f=1 -->
+&blank;
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0150 intable -->
+1Federal requirement
+<!-- PJG 007 0150 intable -->
+1State authority
+<!-- PJG 007 0152 intable -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=2 -->
+RCRA Corrective Action Program
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 02 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+Corrective Action (50 FR 28702, 7/15/85): 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=03 g=1 f=2 -->
+Applicability: SWMU, 40 CFR &sect;264.90(a) 
+<!-- PJG 007 0104 intable -->
+WAC 173-303-645(1)(a)(ii).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+SWMU, 40 CFR &sect;264.101(a)
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646.
+<!-- PJG 0012 frnewline -->
+Specified in permit, 40 CFR &sect;264.101(b) 
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646(2)(c).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Permits by rule: UIC permits issued after 11//8/84, 40 CFR &sect;270.60(b)(3) 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-802(3).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+NPDES permits issued after 11/8/84, 40 CFR &sect;270.60(c)(3) 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-802(4)(c)(viii).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+Permit Application [52 FR 23447 (6/22/87)]; [52 FR 33936 (9/9/87)]; [52 FR 45788 (12/1/87)]:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=03 g=1 f=2 -->
+Contents of Part B 
+<!-- PJG 0012 frnewline -->
+40 CFR &sect;270.14(c) 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-806(4)(a)(xx).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+40 CFR &sect;270.14(c)(7)
+<!-- PJG 007 0104 intable -->
+WAC 173-303-806(4)(a)(xx)(G).
+<!-- PJG 0012 frnewline -->
+40 CFR &sect;270.14(c)(8)(v)
+<!-- PJG 007 0104 intable -->
+WAC 173-303-806(4)(a)(xx)(H)(iii).
+<!-- PJG 0012 frnewline -->
+40 CFR &sect;270.14(d)
+<!-- PJG 007 0104 intable -->
+WAC 173-303-806(4)(a)(xxiii).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+Corrective action beyond the facility boundary [52 FR 45788 (12/1/87)]: 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=03 g=1 f=2 -->
+40 CFR &sect;264.100(e) 
+<!-- PJG 007 0104 intable -->
+WAC 173-303-645(11)(e).
+<!-- PJG 0012 frnewline -->
+40 CFR &sect;264.101(c)
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646(2)(b).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+Corrective Action Management Units (CAMU) [58 FR 8658 (2/16/93)]:
+<!-- PJG 0012 frnewline -->
+Definitions:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=03 g=1 f=2 -->
+Facility to include all contiguous property, 40 CFR &sect;260.10 
+<!-- PJG 007 0104 intable -->
+WAC 173-303-040.
+<!-- PJG 0012 frnewline -->
+CAMU, 40 CFR &sect;&sect;260.10, 264.101, 270.2 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-040.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Landfill and miscellaneous unit to include CAMU, 40 CFR &sect;260.10
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-040.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Remediation wastes to include all solid and hazardous waste and all media and debris, 40 CFR &sect;260.10
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-040.
+<!-- PJG 0012 frnewline -->
+Land disposal facility, 40 CFR &sect;268.2(c)
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-040.
+<!-- PJG 0012 frnewline -->
+Interim Status standards apply in lieu of 40 CFR 264 standards, 40 CFR &sect;264.3 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-400(2)(a).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Corrective action for SWMU will be specified in permit, including schedules of compliance, 40 CFR &sect;264.101
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646(2)(a) &amp; (c).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+Designation Requirements for CAMU:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=03 g=1 f=2 -->
+Designated for implementing remedies, 40 CFR &sect;264.552
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646(2) &amp; (4)(a).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Designation of regulated unit as CAMU, 40 CFR &sect;264.552
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646(6).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Designation will facilitate implementation, 40 CFR &sect;264.552
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646(5)(a).
+<!-- PJG 0012 frnewline -->
+O/O provides sufficient information, 40 CFR &sect;264.552 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646(5)(e).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Rationale documented and made available to public, 40 CFR &sect;264.552 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646(5)(f).
+<!-- PJG 0012 frnewline -->
+Permit modification requirements must be followed to incorporate CAMU into permit, 40 CFR &sect;264.552 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646(5)(g); WAC 173-303-830.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+Requirements for Temporary Units (TU) [58 FR 8658 (2/16/93)]:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=03 g=1 f=2 -->
+Standards may be replaced by alternative requirements, 40 CFR &sect;264.553 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646(7)(a) &amp; (b).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Factors for establishing standards, 40 CFR &sect;264.553(c)
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646(7)(c).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Length of time TU may operate, 40 CFR &sect;264.553(e)
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646(7)(d) &amp; (e).
+<!-- PJG 0012 frnewline -->
+Incorporation of TU in permit, 40 CFR &sect;264.553
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646(7)(f); WAC 173-303-830
+<!-- PJG 0012 frnewline -->
+Rationale documented and made available to the public, 40 CFR &sect;264.553.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+WAC 173-303-646(7)(g).
+<!-- PJG /ITAG -->
+
+</TABLE>
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /STAG -->
+
+<!-- PJG STAG 4706 -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+In order to approve the State of Washington to use orders issued under MTCA to compel RCRA corrective action, it was
+necessary to identify the essential elements of a RCRA corrective action program and to determine that the State had
+the necessary authorities to meet these substantive RCRA requirements. The following table identifies those substantive
+RCRA corrective action requirements and demonstrates that the corresponding State authorities exist which allow
+the State to meet these requirements. Whereas certain of the state authorities listed are already authorized or are
+being authorized in today's action, this table only serves to demonstrate that orders issued under MTCA can compel
+corrective action which would meet all substantive RCRA corrective action requirements and is provided here for
+information only. As stated above, orders issued by the state are not part of the RCRA authorized program until such
+order is incorporated into a RCRA permit. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00023 </DOCNO>
+<PARENT> FR941104-0-00009 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<TABLE>
+
+<!-- PJG tableformat 2,L2,tp0,i1,s100,r100 -->
+
+<!-- PJG ITAG l=95 g=1 f=2 -->
+&blank;
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0150 intable -->
+1Federal requirement
+<!-- PJG 007 0150 intable -->
+1State authority
+<!-- PJG 007 0152 intable -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+RCRA Corrective Action Using Existing State Cleanup Authority:
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=03 g=1 f=2 -->
+Corrective action at SWMUs for all releases, 40 CFR &sect;264.101
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+RCW 70.105.130(1), (2)(a&hyph;b), (2)(c)(ii&hyph;iii) and (2)(e); RCW 70.105D.030(1)(a,b,d,f); WAC 173&hyph;303&hyph;400(3)(a)(i),
+&hyph;646(2)(a&hyph;b), &hyph;802(3&hyph;4).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Enforcement authorities, 40 CFR &sect;271.16
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+RCW 70.105.080,.085, .095(1&hyph;2), .097, .120; RCW 70.105D.030(2)(c), .050(1),(4),(5)(a).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Permitting requirements: 40 CFR &sect;&sect;270.30, 270.32, 271.14 and 271.16
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+RCW 70.105.130(2)(a), (b), and (c)(ii&hyph;iii); RCW 70.105D.030(1)(a); 
+<!-- PJG 0012 frnewline -->
+WAC 173&hyph;303&hyph;646(2)(a&hyph;c), &hyph;646(3)(a&hyph;c), &hyph;400(3)(a)(i), &hyph;806(4)(a)(xxi)(A)
+&amp; (B).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Permitting requirements, schedules of compliance and assurances of financial responsibility, 40 CFR &sect;&sect;270.33
+and 271.14
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+RCW 70.105.130(2)(a); RCW 70.105D.030(1)(a&hyph;b), (2)(c); WAC 173&hyph;303&hyph;646(2)(c) &amp; (3)(c),
+&hyph;802(3) &amp; (4).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Corrective action beyond the facility boundary, 40 CFR &sect;264.101
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+RCW 70.105.130(2)(c)(iii); RCW 70.105D.030(1)(a) &amp; (b); WAC 173&hyph;303&hyph;646(2)(b) &amp; (3)(a).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Definition of facility, 40 CFR &sect;&sect;260.10 and 264.101
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+RCW 70.105.101(11); RCW 70.105D.020(3); WAC 173&hyph;303&hyph;040.
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Implement and complete corrective action, 40 CFR &sect;264.101
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+RCW 70.105.130(2)(b), (c)(ii&hyph;iii) &amp; (e); RCW 70.105D.030(1)(a), (b), &amp; (f); WAC 173&hyph;303&hyph;646(2)(a)
+&amp; (b). 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Financial responsibility for completing corrective action, 40 CFR &sect;&sect;264.101 and 271.14
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+RCW 70.105.130(1) &amp; (2)(c)(iii); RCW 70.105D.030(1)(d); WAC 173&hyph;303&hyph;646(2)(a&hyph;c).
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Public participation, 40 CFR &sect;&sect;270.42 and 271.16(d)
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 007 0104 intable -->
+RCW 70.105.130(2)(a); RCW 70.105D.030(2)(a); WAC 173&hyph;303&hyph;830. 
+<!-- PJG /ITAG -->
+
+</TABLE>
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+E. Indian Lands 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+Washington is not seeking authorization to operate on Indian lands. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=2 -->
+F. Public Hearing and Comments 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+Although EPA received three requests for a public hearing, EPA did not find that the bases for the requests warranted
+a public hearing, since the issues raised were outside the scope of this authorization action. 
+<!-- PJG 0012 frnewline -->
+EPA received a number of comments during the public comment period. A detailed Response to Comments has been prepared
+and is available upon request. The following is a summary of the comments received and EPA's responses to those comments.
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00024 </DOCNO>
+<PARENT> FR941104-0-00009 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=11 g=1 f=2 -->
+One commenter was concerned about the interaction between regulation of radioactive materials under the Atomic
+Energy Act (AEA) and of hazardous wastes under RCRA, specifically that EPA's authorization of the State of Washington
+for RCRA corrective action under the State's Hazardous Waste Management Act (HWMA) would allow the Washington Department
+of Ecology to ``preempt'' the State Department of Health's regulatory authority (delegated by the Nuclear Regulatory
+Commission) over the operation of their facility. The commenter was also concerned about certain conflicting state
+regulatory and statutory provisions regarding the regulatory authority of the Department of Health. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+In response, the State of Washington has not asked that the statutory provision cited by the commenter [RCW 70.105.240(2)]
+be authorized as part of the federally authorized RCRA program. As such, RCW 70.105.240(2) will not be part of the federally-authorized
+state RCRA corrective action program which will operate in lieu of the federal RCRA corrective action program. This
+will remain a ``state-only'' provision and EPA will not enforce it. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+The State of Washington is today being authorized to implement its corrective action program in lieu of the federal
+RCRA corrective action program. The RCRA corrective action program seeks to address releases of hazardous waste
+and constituents from solid waste management units at a facility. ``Regulated units'' are units such as landfills,
+waste piles, surface impoundments, and land treatment units used to treat, store, or dispose of RCRA-regulated hazardous
+wastes and are subject to full regulation under subtitle C of RCRA. 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+See 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+40 CFR 264.90. ``Solid waste management units,'' or ``SWMUs,'' are any discernable units at which ``solid wastes''
+may have been placed at any time. 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+See 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+55 FR 30798, 30874, July 27, 1990 (proposed RCRA Subpart S Rule). If EPA determines that the presence of solid or hazardous
+waste at either a regulated unit or a solid waste management unit has led to a release or a threatened release of a hazardous
+waste or constituent from such units, EPA can require the owner or operator of a unit to address such releases by taking
+necessary ``corrective action'' at the unit. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+EPA's ability to require corrective action at such units does 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+not 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+mean that SWMUs are ``regulated'' under the RCRA ``base program'' and therefore subjected to RCRA permitting requirements.
+The RCRA ``base program'' consists, in part, of those provisions of RCRA that govern the generation, transport, treatment,
+storage and disposal of hazardous wastes. The RCRA ``base program'' is considered to be those provisions of the RCRA
+program before the passage of the Hazardous and Solid Waste Amendments (``HSWA'') of 1984 to RCRA. HSWA introduced
+the corrective action requirements into the RCRA statute. In contrast and in general, only ``regulated units'' and
+generator accumulation areas are subject to the operational requirements of the RCRA ``base program.'' These operational
+requirements are separate and apart from any corrective action requirements that might be imposed by the State of
+Washington under the authorized state corrective action program. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+Therefore, the commenter's concern that EPA's authorization of the State of Washington for RCRA 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+corrective action 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+will allow the Department of Ecology to ``preempt'' the Department of Health's regulatory authority over the 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+operation
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+ of the commenter's facility is unfounded. If the State of Washington wanted to regulate the daily operations of the
+facility's radioactive waste management activities under RCRA, it would have to do so under the state's dangerous
+waste ``base'' RCRA program. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+One commenter stated that ``Given that EPA has stated that it will interpret Washington's regulatory definition
+of SWMU against its discussion in the proposed corrective action rule, [the commenter] requests that the State of
+Washington through its authorized program will not be allowed to assert jurisdiction over mixed waste activities
+prior to July 3, 1986, as well.'' The commenter cites the State of Washington's recent definition of ``solid waste
+management unit'' which was added to the State's Dangerous Waste regulations, which ``means any discernable location
+at a facility, as defined for the purposes of corrective action, where solid wastes 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+have been placed at any time
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+.&blank;.&blank;.'' (emphasis added). The commenter further states that ``the preamble to EPA's corrective action
+rule did not attempt to retroactively apply EPA's jurisdiction over mixed waste prior to July 3, 1986.'' 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+In response, EPA has consistently interpreted the radioactive mixed waste to be a solid waste under RCRA for the purposes
+of RCRA corrective action (
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+see 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+55 FR 30798 at 30860, July 27, 1990 and 51 FR 24504 Footnote 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=6 f=1 -->
+#
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+1, July 3, 1986). Therefore, it is clear that EPA considers radioactive mixed waste to be a solid waste under RCRA for
+purposes of RCRA corrective action. Corrective actions under RCRA which address releases from solid waste management
+units are not limited to releases of hazardous waste or constituents after any certain date. EPA's proposed definition
+of a ``solid waste management unit'' in EPA's proposed Subpart S rule (
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+see 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+55 FR at 30808-30809) and the State of Washington's promulgated definition of a ``solid waste management unit'' in
+its Dangerous Waste Regulations (
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+see 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+WAC 173-303-646(2)(a)) both define a SWMU to include in part (state regulatory language differences are in brackets):
+
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+ 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+Any discernable unit [location at a facility] .&blank;.&blank;. at which solid wastes have been placed at any time,
+irrespective of whether the unit was intended for the management of solid or hazardous [dangerous] waste. 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+ 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Thus, EPA's determination that the hazardous component of radioactive mixed waste was 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+regulated 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+and subject to permitting requirements of Subtitle C of RCRA in 1986 does not affect EPA's ability (or a state's ability,
+when that state has been authorized for corrective action under RCRA) to require 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+corrective action 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+for the hazardous component of radioactive solid waste at SWMUs where such waste was disposed of before 1986. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00025 </DOCNO>
+<PARENT> FR941104-0-00009 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+EPA, in its authorization of the State of Washington for RCRA corrective action, is not authorizing the State to ```regulate'
+mixed waste disposed of prior to 1986'' as suggested by the commenter. Rather, the authorization will allow the State
+to assert 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+corrective action
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+ (cleanup of past releases) jurisdiction, which is not RCRA 
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=3 -->
+operational
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+ (day-to-day waste handling and management) jurisdiction, over solid waste (which includes the hazardous component
+of radioactive mixed waste) at solid waste management units at facilities seeking permits under RCRA. The State of
+Washington received final authorization for RCRA operational jurisdiction over radioactive mixed waste on November
+23, 1987. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+A commenter pointed out that EPA was not authorizing the State of Washington at this time for the ``omnibus'' authority
+of section 3005(c)(3) of RCRA, yet the State corrective action program and regulations indicate that the State will
+assert authority over releases of hazardous waste and constituents from ``non-SWMU'' units and areas. The commenter
+then asks whether EPA will assert its omnibus authority along with the State authority over corrective action for
+non-SWMU releases, and if so, how will EPA conduct such action. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+In response, EPA cannot disregard its statutory obligations under RCRA to require corrective actions where EPA deems
+such actions to be necessary to protect human health and the environment. However, EPA also does not intend to require
+duplicative efforts under two separate statutory or regulatory schemes at any given facility. EPA is not authorizing
+the state of Washington for RCRA ``omnibus'' authority as part of today's authorization. As such, State regulations
+which allow the State to require corrective action for releases from non-SWMUs are ``broader in scope'' than the corrective
+action program for which the State is currently seeking authorization and, as such, are not federally enforceable.
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+In addition, EPA's statutory obligations under sections 3008(h), 3013, and 7003 of RCRA, 42 U.S.C. 6928(h), 6934,
+and 6973, to ensure protection of human health and the environment, empower EPA to ensure that all releases of hazardous
+waste are addressed. These statutory authorities are independent from EPA's oversight of the authorized state corrective
+action program. Should EPA decide that assertion of EPA statutory authority is necessary, such action will be coordinated
+with any ongoing State action to ensure that duplicative actions are not taken unless necessary to protect human health
+or the environment. However, EPA does not anticipate that it will have to exercise such authority very often, given
+the protectiveness embodied in the State's MTCA statute and the manner in which the State has implemented the MTCA
+program. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+A commenter questioned that once a State-issued order is incorporated by reference into the facility's RCRA permit,
+can that order be amended without a corresponding modification of the RCRA permit. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+In response, at the time the State order is incorporated by reference into a RCRA permit, the order becomes subject
+to all permitting requirements, including public participation requirements required for permit modifications.
+This includes any State-issued orders designating a corrective action management unit (CAMU) or temporary unit
+(TU). Therefore, if at some time after incorporation by reference into a RCRA permit, it is determined that the incorporated
+order must be changed, such a change will require a permit modification as well. The class of permit modification required,
+along with the extent of public participation required by such a modification, will be determined using the State
+regulations. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+A commenter requested clarification of the public participation process to be used by the State under the authorized
+corrective action program. Specifically, the commenter pointed out that MTCA orders have their own public participation
+process. The commenter queried whether there would be a second public participation process at the time such order
+would be incorporated into a RCRA permit. The commenter also queried to what extent the public would be able to comment
+on the previously issued order at the time of permit issuance or modification; and to what extent the existing State
+regulations governing public participation would operate in lieu of the federal regulations codified at 40 CFR 124.11
+through 124.17. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+In response, the commenter is referred to the Program Description contained in this application for authorization,
+wherein Washington's Department of Ecology explains how public participation goals and requirements will be met.
+In brief, the State will follow only the existing MTCA public participation requirements (which are extensive) when
+a MTCA order is issued prior to permit issuance. Since that is not a RCRA permit action, there are no RCRA permit public
+participation requirements which apply. At the time the order is incorporated into a RCRA permit through permit modification,
+or if the order is issued concurrently with the RCRA permit, the permit issuance or modification will be under the State's
+authorized corrective action program. The RCRA public participation requirements would govern the public participation
+process at that time. However, public comment at that time will be limited to whether the incorporated MTCA terms,
+schedules and conditions appropriately fulfill corrective action requirements of the authorized State RCRA program.
+Public comment on the MTCA terms, schedules and conditions will not affect the ability of the state to enforce the MTCA
+order under MTCA authority, independent of the authorized RCRA corrective action program. At the time the MTCA order
+is incorporated into a RCRA permit, and at any time thereafter for the life of the RCRA permit, Ecology will ensure that
+the public participation procedures under RCRA and MTCA are coordinated to eliminate duplication of effort and fulfill
+RCRA requirements. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00026 </DOCNO>
+<PARENT> FR941104-0-00009 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+A commenter questioned how authorization of the State program would be affected by EPA's promulgation of a final federal
+rule regarding corrective action. The commenter also questioned whether EPA intended to use the proposed subpart
+S corrective action rules to measure the State's ``consistency'' with the federal corrective action program; and
+what EPA intended when EPA stated in its Notice of Proposed Rulemaking that EPA's proposed definition of a SWMU ``will
+be the controlling interpretation against which Washington's regulatory definition of a solid waste management
+unit will be measured until EPA codifies a statutory or regulatory definition.'' 
+<!-- PJG 0012 frnewline -->
+In response, should EPA finalize a federal rule regarding corrective action at some point after the State has received
+corrective action authorization, the State will be required to submit an application for a revision of the State corrective
+action program, in accordance with 40 CFR 271.21(e)(1) and 271.25. Until EPA promulgates a final federal corrective
+action rule, EPA intends to use its proposed subpart S rules (55 FR 30798, July 27, 1990) as the measure of consistency
+in order to determine whether the State's authorized corrective action program is at least as stringent as the federal
+corrective action program would be under the proposed Subpart S rule. Since the proposed subpart S rule has not yet
+been finalized, EPA cannot authorize nor enforce the provisions of Subpart S. However, EPA is currently using the
+provisions contained in the proposed Subpart S rule as guidance when conducting federal corrective actions. 
+<!-- PJG 0012 frnewline -->
+Two commenters raised concerns regarding the State of Washington's siting criteria for new hazardous waste facilities.
+In response, the proposed approval and authorization of Washington's hazardous waste program revision is for a corrective
+action program. Since the corrective action program under RCRA is intended to address clean up of releases of hazardous
+waste at existing hazardous waste facilities, the commenters' concerns regarding siting of new facilities are outside
+the scope of this current authorization action. The State's siting criteria are State regulations which have no federal
+counterpart, and as such are not part of the federal RCRA program. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00027 </DOCNO>
+<PARENT> FR941104-0-00009 </PARENT>
+<TEXT>
+ 
+<!-- PJG STAG 4700 -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+A commenter raised concerns regarding Hanford, specifically with respect to the burial of decommissioned reactor
+cores, and regarding incinerator standards. In response, EPA today is approving and authorizing the state for a RCRA
+corrective action program. EPA's authorization today does not directly address cleanup decisions at Hanford, the
+disposal of decommissioned reactor cores, nor EPA's incinerator standards found in the Boiler and Industrial Furnace
+Regulations (40 CFR part 266). Therefore, these concerns are considered to be outside the scope of today's authorization
+action, and would be addressed by the State RCRA base program. 
+<!-- PJG 0012 frnewline -->
+Therefore, it is EPA's determination that there are no changes required to this authorization action as a result of
+the comments received. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+G. Status of Federal Permits 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Upon the effective date of authorization, the State of Washington will begin to administer and enforce corrective
+action requirements. EPA actions which fall under the federal omnibus authority of section 3005(c)(3) of RCRA, 42
+U.S.C. 6925(c)(3), and/or which are federal enforcement authorities, including actions issued pursuant to sections
+3008(h), 3013, or 7003 of RCRA, 42 U.S.C. 6928(h), 6934 or 6973, will continue to be administered by EPA. In addition,
+HSWA amendments for which the State has not been authorized will continue to be administered and enforced by EPA. 
+<!-- PJG 0012 frnewline -->
+Due to recent legal developments in the national RCRA hazardous waste program, the discussion that appeared in the
+proposed rule 
+<!-- PJG 0012 frnewline -->
+(March 30, 1994, 59 FR 14827) concerning permits with automatic transfer provisions has been revised. All permits
+issued by U.S. EPA Region 10 prior to final authorization of the State for corrective action will continue to be administered
+by U.S. EPA Region 10 until the issuance, or reissuance after modification, of the State RCRA permit. Upon the effective
+date of the issuance, or reissuance after modification, of the State RCRA permit to incorporate authorized State
+requirements, those EPA-issued permit provisions for which the State is authorized to administer and enforce will
+expire. HSWA provisions for which the State is not authorized will continue in effect under the EPA-issued permit.
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+H. Decision 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+I conclude that the State of Washington's application for program revision meets all of the statutory and regulatory
+requirements established by RCRA. Accordingly, the State of Washington is granted final authorization to operate
+its hazardous waste program as revised. The State of Washington now has responsibility for permitting treatment,
+storage, and disposal facilities within its borders and carrying out other aspects of the RCRA program described
+in its revised program application, subject to the limitations of the HSWA. The State of Washington also has primary
+enforcement responsibilities, although EPA retains the right to conduct inspections under section 3007 of RCRA,
+42 U.S.C. 6927, and to take enforcement actions under sections 3008, 3013 and 7003 of RCRA, 42 U.S.C. 6928, 6934 and
+6973. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+Compliance With Executive Order 12866 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+The Office of Management and Budget has exempted this rule from the requirements of section 6 of Executive Order 12866.
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+Certification Under the Regulatory Flexibility Act 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Pursuant to the provisions of 4 U.S.C. 605(b), I hereby certify that this authorization will not have a significant
+economic impact on a substantial number of small entities. This authorization effectively suspends the applicability
+of certain Federal regulations in favor of the State of Washington's program, thereby eliminating duplicative requirements
+for handlers of hazardous waste in the State. It does not impose any new burdens on small entities. This rule, therefore,
+does not require a regulatory flexibility analysis. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=84 g=1 f=1 -->
+List of Subjects in 40 CFR Part 272 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=11 g=1 f=1 -->
+Administrative practice and procedure, Confidential business information, Hazardous materials transportation,
+Hazardous waste, Indian lands, Intergovernmental relations, Penalties, Reporting and recordkeeping requirements,
+Water pollution control, Water supply. 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=4 -->
+Authority:
+<!-- PJG /ITAG -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+ This notice is issued under the authority of Sections 2002(a), 3006 and 7004(b) of the Solid Waste Disposal Act, as
+amended, 42 U.S.C. 6912(a), 6926, 6974(b). 
+<!-- PJG /ITAG -->
+
+<!-- PJG QTAG 04 -->
+<!-- PJG /QTAG -->
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG ITAG l=21 g=1 f=1 -->
+Dated: October 17, 1994. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+
+<SIGNER>
+<!-- PJG ITAG l=06 g=1 f=1 -->
+Chuck Clarke, 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNER>
+<SIGNJOB>
+<!-- PJG ITAG l=04 g=1 f=1 -->
+Regional Administrator. 
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</SIGNJOB>
+<FRFILING>
+<!-- PJG ITAG l=40 g=1 f=1 -->
+[FR Doc. 94&hyph;27170 Filed 11&hyph;2&hyph;94; 8:45 am]
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /ITAG -->
+</FRFILING>
+<BILLING>
+<!-- PJG ITAG l=68 g=1 f=1 -->
+BILLING CODE 6560&hyph;50&hyph;P
+<!-- PJG /ITAG -->
+</BILLING>
+
+<!-- PJG 0012 frnewline -->
+
+<!-- PJG /STAG -->
+</TEXT>
+</DOC>
+
+
+
+<DOC>
+<DOCNO> FR941104-0-00028 </DOCNO>
+<PARENT> FR941104-0-00010 </PARENT>
+<TEXT>
+</TEXT>
+</DOC>
+
+
+
