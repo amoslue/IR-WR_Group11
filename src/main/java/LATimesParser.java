@@ -7,7 +7,6 @@ import java.util.List;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
-import org.apache.lucene.document.IntPoint;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -15,9 +14,9 @@ import org.jsoup.select.Elements;
 
 public class LATimesParser {
 
-    public static List<org.apache.lucene.document.Document> loadLaTimesDocs(String pathToLATimesRegister) throws IOException {
+    public static String[][] loadLaTimesDocs(String pathToLATimesRegister) throws IOException {
 
-        List<org.apache.lucene.document.Document> parsedLADocsList = new ArrayList<>();
+        List<String[]> parsedLADocsList = new ArrayList<>();
 
         File folder = new File(pathToLATimesRegister);
         File[] listOfFiles = folder.listFiles();
@@ -33,12 +32,16 @@ public class LATimesParser {
                 docNo = (doc.select("DOCNO").text());
                 docID = (doc.select("DOCID").text());
 
+                String metadata = String.format("\"docNo\":\"%s\", \"docID\":\"%s\"", docNo, docID);
+
                 headline = (doc.select("HEADLINE").select("P").text());
                 text = (doc.select("TEXT").select("P").text());
-                parsedLADocsList.add(createDocument(docNo, docID,headline, text));
+                parsedLADocsList.add(new String[]{metadata,headline, text});
             }
         }
-        return parsedLADocsList;
+        String[][] LATimeDocArray = new String[parsedLADocsList.size()][];
+        LATimeDocArray = parsedLADocsList.toArray(LATimeDocArray);
+        return LATimeDocArray;
     }
 
     private static org.apache.lucene.document.Document createDocument(
