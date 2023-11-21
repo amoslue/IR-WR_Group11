@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df0db328-3d6f-4955-913e-c25335d4affe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FbisParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FbisParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FinTimeDocs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FinTimeDocs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IndexCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IndexCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LATimesParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LATimesParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/QueryParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TopicParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr94Parser.java" beforeDir="false" />
-    </list>
+    <list default="true" id="df0db328-3d6f-4955-913e-c25335d4affe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +38,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -93,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700606066641</updated>
       <workItem from="1700606071607" duration="19000" />
-      <workItem from="1700606113730" duration="2954000" />
+      <workItem from="1700606113730" duration="3346000" />
     </task>
     <servers />
   </component>
