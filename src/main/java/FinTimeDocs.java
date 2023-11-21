@@ -15,7 +15,8 @@ import org.jsoup.select.Elements;
 
 public class FinTimeDocs {
 
-    public static String[][] loadFinTimesDocs(String absPathToFinTimes) throws IOException {
+    public static String[][] loadFinTimesDocs() throws IOException {
+        final String absPathToFinTimes = "./src/main/resources/Assignment Two/ft";
 
         List<String[]> finTimesDocList = new ArrayList<>();
 

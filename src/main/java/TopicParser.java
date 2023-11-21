@@ -7,8 +7,10 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-public class QueryParser {
-    public static String[][] loadQueries(String absQueryPath) throws IOException{
+public class TopicParser {
+    public static String[][] loadQueries() throws IOException{
+        final String absQueryPath = "./src/main/resources/topics";
+
         List<String[]> queryDocList = new ArrayList<>();
 
         File topicFile = new File(absQueryPath);

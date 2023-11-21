@@ -14,7 +14,8 @@ import org.jsoup.select.Elements;
 
 public class LATimesParser {
 
-    public static String[][] loadLaTimesDocs(String pathToLATimesRegister) throws IOException {
+    public static String[][] loadLaTimesDocs() throws IOException {
+        final String pathToLATimesRegister = "./src/main/resources/Assignment Two/latimes/";
 
         List<String[]> parsedLADocsList = new ArrayList<>();
 

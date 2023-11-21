@@ -53,27 +53,42 @@ public class IndexCreator {
         IndexWriter iwriter = new IndexWriter(directory, config);
 
 //        get parsed documents
-//        String[][] parsedDocuments_FBIS = FBIS_Parser.parse();
-//        String[][] parsedDocuments_FR94 = FT94_Parser.parse();
-//        String[][] parsedDocuments_FT = FT_Parser.parse();
-//        String[][] parsedDocuments_LATIMES = LATIMES_Parser.parse();
+        System.out.println("Loading documents from fbis...");
+        String[][] parsedDocuments_FBIS = FbisParser.loadFBISDocs();
+        System.out.println("Loading documents from fr94...");
+        String[][] parsedDocuments_FR94 = FinTimeDocs.loadFinTimesDocs();
+        System.out.println("Loading documents from ft...");
+        String[][] parsedDocuments_FT = Fr94Parser.parseDocuments();
+        System.out.println("Loading documents from latimes...");
+        String[][] parsedDocuments_LATIMES = LATimesParser.loadLaTimesDocs();
 
 //        combine all parsed documents
-//        String[][] parsedDocuments = combineArrays(parsedDocuments_FBIS, parsedDocuments_FR94, parsedDocuments_FT, parsedDocuments_LATIMES);
+        String[][] parsedDocuments = combineArrays(parsedDocuments_FBIS, parsedDocuments_FR94, parsedDocuments_FT, parsedDocuments_LATIMES);
 
 //         add documents to index
-//        for (int i = 0; i < parsedDocuments.length; i++) {
-//            Document luceneDoc = new Document();
-//
-//            luceneDoc.add(new TextField("id", documentFields[i][0], Field.Store.YES));
-//            luceneDoc.add(new TextField("title", documentFields[i][1], Field.Store.YES));
-//            luceneDoc.add(new TextField("author", documentFields[i][2], Field.Store.YES));
-//            luceneDoc.add(new TextField("text", documentFields[i][3], Field.Store.YES));
-//
-//            iwriter.addDocument(luceneDoc);
-//        }
+        System.out.println("Adding documents to index...");
+        for (int i = 0; i < parsedDocuments.length; i++) {
+//            System.out.println("title: " + parsedDocuments[i][0]);
+//            System.out.println("text: " + parsedDocuments[i][1]);
+//            System.out.println("metadata: " + parsedDocuments[i][2]);
+
+            Document luceneDoc = new Document();
+
+            luceneDoc.add(new TextField("title", parsedDocuments[i][0], Field.Store.YES));
+            luceneDoc.add(new TextField("text", parsedDocuments[i][1], Field.Store.YES));
+            luceneDoc.add(new TextField("metadata", parsedDocuments[i][2], Field.Store.YES));
+
+            iwriter.addDocument(luceneDoc);
+        }
 
         iwriter.close();
         directory.close();
+
+        System.out.println("Index created successfully!");
+    }
+
+    public static void main(String[] args) throws IOException {
+        IndexCreator indexCreator = new IndexCreator();
+        indexCreator.creatIndex();
     }
 }

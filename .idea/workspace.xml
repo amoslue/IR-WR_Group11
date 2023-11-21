@@ -4,10 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dd23124-37bf-4c50-b2bb-d562f5ee90c2" name="Changes" comment="Yuanpei Teng add a FinTimeDocs parser to the git and update the dependency in pom.xml file">
+    <list default="true" id="df0db328-3d6f-4955-913e-c25335d4affe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FbisParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FbisParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FinTimeDocs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FinTimeDocs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IndexCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IndexCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LATimesParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LATimesParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/QueryParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TopicParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr94Parser.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +30,12 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="2YBPo16hzC41QYfoXXsDtN7nbZN" />
+  <component name="ProjectId" id="2YVLyuAYpd7P7kSG59QE19o3f8Q" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,58 +45,59 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/InfoRetrieval/IR-WR_Group11/src/main/java",
+    "git-widget-placeholder": "Rebasing main",
+    "last_opened_file_path": "/home/ree/opt/IR-WR_Group11/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\InfoRetrieval\IR-WR_Group11\src\main\java" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="IR-WR_Group11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queryer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queryer" />
+      <module name="IR-WR_Group11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Queryer" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3dd23124-37bf-4c50-b2bb-d562f5ee90c2" name="Changes" comment="" />
-      <created>1699996171213</created>
+      <changelist id="df0db328-3d6f-4955-913e-c25335d4affe" name="Changes" comment="" />
+      <created>1700606066641</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1699996171213</updated>
-      <workItem from="1699996172536" duration="60000" />
-      <workItem from="1700348253784" duration="713000" />
+      <updated>1700606066641</updated>
+      <workItem from="1700606071607" duration="19000" />
+      <workItem from="1700606113730" duration="2954000" />
     </task>
-    <task id="LOCAL-00001" summary="Yuanpei Teng add a FinTimeDocs parser to the git and update the dependency in pom.xml file">
-      <created>1700348968142</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1700348968142</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Yuanpei Teng add a FinTimeDocs parser to the git and update the dependency in pom.xml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Yuanpei Teng add a FinTimeDocs parser to the git and update the dependency in pom.xml file" />
   </component>
 </project>

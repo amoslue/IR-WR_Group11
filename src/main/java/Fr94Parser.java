@@ -6,10 +6,8 @@ import org.jsoup.select.Elements;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
 
-public class fr94_parser {
+public class Fr94Parser {
 
     public static void main(String[] args) {
         try {
@@ -24,8 +22,9 @@ public class fr94_parser {
         }
     }
 
-    private static String[][] parseDocuments() throws IOException {
-        File[] files = new File("fr94/").listFiles();
+    public static String[][] parseDocuments() throws IOException {
+        File[] files = new File("./src/main/resources/Assignment Two/fr94/").listFiles();
+
         if (files == null) {
             throw new IOException("Directory not found or is empty");
         }

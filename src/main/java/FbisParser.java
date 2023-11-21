@@ -9,7 +9,8 @@ import org.jsoup.select.Elements;
 
 public class FbisParser {
     private final static String[] IGNORE_FILES = {"readchg.txt", "readmefb.txt"};
-    public static String[][] loadFBISDocs(String absPathToFBIS) throws IOException {
+    public static String[][] loadFBISDocs() throws IOException {
+        final String absPathToFBIS = "./src/main/resources/Assignment Two/fbis/";
 
         List<String[]> fbisDocList = new ArrayList<>();
 
