@@ -13,7 +13,7 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
 public class IndexCreator {
-    private static final String INDEX_DIR = "target/indexes";
+    private static final String INDEX_DIR = "target/index";
 
 //    input: 4 String arrays, output: 1 String array
     public String[][] combineArrays(String[][] array1, String[][] array2, String[][] array3, String[][] array4) {
@@ -39,7 +39,7 @@ public class IndexCreator {
     }
 
     public void creatIndex() throws IOException {
-        Directory directory = FSDirectory.open(Paths.get(INDEX_DIR + "/index"));
+        Directory directory = FSDirectory.open(Paths.get(INDEX_DIR));
 
 //        will customize our analyzer later
         Analyzer analyzer = new EnglishAnalyzer();
@@ -74,9 +74,10 @@ public class IndexCreator {
 
             Document luceneDoc = new Document();
 
-            luceneDoc.add(new TextField("title", parsedDocuments[i][0], Field.Store.YES));
-            luceneDoc.add(new TextField("text", parsedDocuments[i][1], Field.Store.YES));
-            luceneDoc.add(new TextField("metadata", parsedDocuments[i][2], Field.Store.YES));
+            luceneDoc.add(new TextField("id", parsedDocuments[i][0], Field.Store.YES));
+            luceneDoc.add(new TextField("title", parsedDocuments[i][1], Field.Store.YES));
+            luceneDoc.add(new TextField("text", parsedDocuments[i][2], Field.Store.YES));
+            luceneDoc.add(new TextField("metadata", parsedDocuments[i][3], Field.Store.YES));
 
             iwriter.addDocument(luceneDoc);
         }
