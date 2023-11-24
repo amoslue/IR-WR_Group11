@@ -1,5 +1,6 @@
 import java.io.IOException;
 import java.nio.file.Paths;
+
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -15,7 +16,7 @@ import org.apache.lucene.store.FSDirectory;
 public class IndexCreator {
     private static final String INDEX_DIR = "target/index";
 
-//    input: 4 String arrays, output: 1 String array
+    //    input: 4 String arrays, output: 1 String array
     public String[][] combineArrays(String[][] array1, String[][] array2, String[][] array3, String[][] array4) {
         int totalRows = array1.length + array2.length + array3.length + array4.length;
         int totalCols = 0;
@@ -52,16 +53,24 @@ public class IndexCreator {
         config.setOpenMode(IndexWriterConfig.OpenMode.CREATE);
         IndexWriter iwriter = new IndexWriter(directory, config);
 
+        FbisParser fbisParser = new FbisParser();
+        FinTimeDocs finTimeDocs = new FinTimeDocs();
+        Fr94Parser fr94Parser = new Fr94Parser();
+        LATimesParser laTimesParser = new LATimesParser();
 //        get parsed documents
         System.out.println("Loading documents from fbis...");
-        String[][] parsedDocuments_FBIS = FbisParser.loadFBISDocs();
+        String[][] parsedDocuments_FBIS = fbisParser.loadDocs();
         System.out.println("Loading documents from fr94...");
-        String[][] parsedDocuments_FR94 = FinTimeDocs.loadFinTimesDocs();
+        String[][] parsedDocuments_FR94 = finTimeDocs.loadDocs();
         System.out.println("Loading documents from ft...");
-        String[][] parsedDocuments_FT = Fr94Parser.parseDocuments();
+        String[][] parsedDocuments_FT = fr94Parser.loadDocs();
         System.out.println("Loading documents from latimes...");
-        String[][] parsedDocuments_LATIMES = LATimesParser.loadLaTimesDocs();
+        String[][] parsedDocuments_LATIMES = laTimesParser.loadDocs();
 
+        printEntry(parsedDocuments_FBIS[0]);
+        printEntry(parsedDocuments_FR94[0]);
+        printEntry(parsedDocuments_FT[0]);
+        printEntry(parsedDocuments_LATIMES[0]);
 //        combine all parsed documents
         String[][] parsedDocuments = combineArrays(parsedDocuments_FBIS, parsedDocuments_FR94, parsedDocuments_FT, parsedDocuments_LATIMES);
 
@@ -86,6 +95,13 @@ public class IndexCreator {
         directory.close();
 
         System.out.println("Index created successfully!");
+    }
+
+    public void printEntry(String entry[]) {
+        System.out.println("docno: " + entry[0]);
+        System.out.println("title: " + entry[1]);
+        System.out.println("text: " + entry[2]);
+        System.out.println("metadata: " + entry[3]);
     }
 
     public static void main(String[] args) throws IOException {

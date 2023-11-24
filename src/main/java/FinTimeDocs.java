@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
@@ -13,41 +14,19 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-public class FinTimeDocs {
+public class FinTimeDocs extends Parser {
 
-    public static String[][] loadFinTimesDocs() throws IOException {
-        final String absPathToFinTimes = "./src/main/resources/Assignment Two/ft";
+    private final int uniqueEntries = 3;
+    private final String docTag = "DOC";
+    private final String[] tagsToExtract = {"DOCNO", "HEADLINE", "TEXT", "PROFILE", "BYLINE"};
+    private final String[] tagNames = {"docNo", "title", "content", "profile", "byline"};
+    private final String[] tagsToUnwrap = {};
+    private final String[] IGNORE_FILES = {"readfrcg", "readmeft"};
 
-        List<String[]> finTimesDocList = new ArrayList<>();
+    private final String absFilePath = "./src/main/resources/Assignment Two/ft";
 
-        File[] directories = new File(absPathToFinTimes).listFiles(File::isDirectory);
-
-        for (File directory : directories) {
-            File[] listOfFiles = directory.listFiles();
-            for(File file : listOfFiles){
-                Document finTimesContent = Jsoup.parse(file, null, "");
-
-
-                Elements docs = finTimesContent.select("DOC");
-
-                for(Element doc: docs) {
-                    String docNo, headline, text,profile,byline;
-                    docNo = (doc.select("DOCNO").text());
-                    headline = (doc.select("HEADLINE").text());
-                    profile =(doc.select("PROFILE").text());
-                    byline =(doc.select("BYLINE").text());
-                    text = (doc.select("TEXT").text());
-                    String metadata = String.format("\"docNo\":\"%s\", \"profile\":\"%s\", \"byLine\":\"%s\"", docNo, profile, byline);
-                    finTimesDocList.add(new String[]{headline,text,metadata});
-                }
-            }
-        }
-
-        // Convert the list to a 2D array
-        String[][] finTimesDocArray = new String[finTimesDocList.size()][];
-        finTimesDocArray = finTimesDocList.toArray(finTimesDocArray);
-
-        return finTimesDocArray;
+    FinTimeDocs() {
+        setParserConfiguration(uniqueEntries, docTag, tagsToExtract, tagNames, tagsToUnwrap, IGNORE_FILES, absFilePath);
     }
 
 
