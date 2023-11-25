@@ -76,12 +76,14 @@ public class Queryer {
                 }
 
                 try (BufferedWriter evalWriter = new BufferedWriter(new FileWriter(evalFilePath, true))) {
+                    int i = 0;
                     for(ScoreDoc scoreDoc : results.scoreDocs){
                         Document doc = searcher.storedFields().document(scoreDoc.doc);
                         float score = scoreDoc.score;
                         String docIndex = doc.get("id");
                         resultWriter.write("Doc ID: " + scoreDoc.doc + ", Score: " + score + "\n");
-                        evalWriter.write( qry[0] + " 0 " + docIndex + " 0 " + score + "\n");
+                        evalWriter.write( qry[0] + " 0 " + docIndex + " " +  i + " " + score + " Any\n");
+                        i++;
                     }
                 }
                 resultWriter.write("\n");
