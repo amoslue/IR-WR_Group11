@@ -3,9 +3,9 @@ import java.nio.file.Paths;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
-import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
+import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
@@ -39,7 +39,7 @@ public class IndexCreator {
         return combinedArray;
     }
 
-    public void creatIndex() throws IOException {
+    public void createIndex() throws IOException {
         Directory directory = FSDirectory.open(Paths.get(INDEX_DIR));
 
 //        will customize our analyzer later
@@ -67,10 +67,6 @@ public class IndexCreator {
         System.out.println("Loading documents from latimes...");
         String[][] parsedDocuments_LATIMES = laTimesParser.loadDocs();
 
-        printEntry(parsedDocuments_FBIS[0]);
-        printEntry(parsedDocuments_FR94[0]);
-        printEntry(parsedDocuments_FT[0]);
-        printEntry(parsedDocuments_LATIMES[0]);
 //        combine all parsed documents
         String[][] parsedDocuments = combineArrays(parsedDocuments_FBIS, parsedDocuments_FR94, parsedDocuments_FT, parsedDocuments_LATIMES);
 
@@ -83,7 +79,7 @@ public class IndexCreator {
 
             Document luceneDoc = new Document();
 
-            luceneDoc.add(new TextField("id", parsedDocuments[i][0], Field.Store.YES));
+            luceneDoc.add(new StringField("id", parsedDocuments[i][0], Field.Store.YES));
             luceneDoc.add(new TextField("title", parsedDocuments[i][1], Field.Store.YES));
             luceneDoc.add(new TextField("text", parsedDocuments[i][2], Field.Store.YES));
             luceneDoc.add(new TextField("metadata", parsedDocuments[i][3], Field.Store.YES));
@@ -106,6 +102,6 @@ public class IndexCreator {
 
     public static void main(String[] args) throws IOException {
         IndexCreator indexCreator = new IndexCreator();
-        indexCreator.creatIndex();
+        indexCreator.createIndex();
     }
 }

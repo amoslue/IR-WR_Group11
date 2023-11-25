@@ -3,6 +3,7 @@ import org.apache.lucene.analysis.core.SimpleAnalyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.standard.ClassicAnalyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.queryparser.classic.MultiFieldQueryParser;
@@ -24,7 +25,7 @@ import java.nio.file.Paths;
 
 public class Queryer {
     private static final int MAX_RESULTS = 50;
-    private static final String INDEX_DIR = "target/indexes/index";
+    private static final String INDEX_DIR = "target/index";
     private static final String OUTPUT_DIR = "target/query_results";
     private static final String EVAL_DIR = "target/evaluation";
 
@@ -54,9 +55,7 @@ public class Queryer {
             System.out.println("Gnerating query results and evaluation...");
 
             for (String[] qry : queries) {
-                String q = qry[0] + " " + qry[1] + " " + qry[2];
-
-//                System.out.println(qry[0] + "\n" + qry[1] + "\n" + qry[2] + "\n");
+                String q = qry[1] + " " + qry[2] + " " + qry[3];
 
                 Query query = parser.parse(QueryParser.escape(q));
 
@@ -77,11 +76,12 @@ public class Queryer {
                 }
 
                 try (BufferedWriter evalWriter = new BufferedWriter(new FileWriter(evalFilePath, true))) {
-                    for (int i = 0; i < results.scoreDocs.length; i++) {
-                        resultWriter.write("Doc ID: " + results.scoreDocs[i].doc + ", Score: " + results.scoreDocs[i].score + "\n");
-
-                        // wirte by trec_eval format
-                        evalWriter.write(queryNumber + " Q0 " + results.scoreDocs[i].doc + " " + (i + 1) + " " + results.scoreDocs[i].score + " Group11\n");
+                    for(ScoreDoc scoreDoc : results.scoreDocs){
+                        Document doc = searcher.storedFields().document(scoreDoc.doc);
+                        float score = scoreDoc.score;
+                        String docIndex = doc.get("id");
+                        resultWriter.write("Doc ID: " + scoreDoc.doc + ", Score: " + score + "\n");
+                        evalWriter.write( qry[0] + " 0 " + docIndex + " 0 " + score + "\n");
                     }
                 }
                 resultWriter.write("\n");

@@ -23,17 +23,28 @@ public class TopicParser {
 
         Elements docs = queryContent.select("top");
 
+        // extract fields from that wierd ahh format with no closing DOMs :/
         for(Element doc : docs){
-            String title, desc, narr;
-            title = (doc.select("title").text());
-            desc = (doc.select("desc").text());
-            narr = (doc.select("narr").text());
-            queryDocList.add(new String[]{title, desc, narr});
+            String docText = doc.text();
+            String title = doc.select("title").text().trim();
+            String number = extractContent(docText, "Number:", title);
+            String description = extractContent(docText, "Description:", "Narrative:");
+            String narrative = doc.select("narr").text().replace("Narrative:", "").trim();
+            queryDocList.add(new String[]{number, title, description, narrative});
         }
 
         String[][] queryTopicArray = new String[queryDocList.size()][];
         queryTopicArray = queryDocList.toArray(queryTopicArray);
 
         return queryTopicArray;
+    }
+
+    private static String extractContent(String text, String startTag, String endTag) {
+        int start = text.indexOf(startTag) + startTag.length();
+        int end = text.indexOf(endTag, start);
+        if (start < startTag.length() || end == -1) {
+            return "";
+        }
+        return text.substring(start, end).trim();
     }
 }
