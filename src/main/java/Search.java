@@ -55,6 +55,20 @@ public class Search {
         }
     }
 
+    public void rankSearch(Analyzer[] analyzers, Similarity[] similarities) throws IOException, ParseException{
+        for(Analyzer analyzer : analyzers){
+            for(Similarity similarity : similarities){
+                String analyzerName = analyzer.toString().replace(" ", "").replaceAll("\\(.*?\\)", "");
+                String similarityName = similarity.toString().replace(" ", "").replaceAll("\\(.*?\\)", "");
+                setAnalyzer(analyzer);
+                setSimilarity(similarity);
+                System.out.println("Using " + similarityName + " and " + analyzerName);
+                String evalPath = "./target/" + analyzerName + similarityName;
+                runSearch(evalPath);
+            }
+        }
+    }
+
     private TopDocs getQueryResults(String[] topic) throws IOException, ParseException {
         String topicString = topic[1] + " " + topic[2] + " " + topic[3];
         Query query = parser.parse(QueryParser.escape(topicString));

@@ -1,12 +1,38 @@
-import org.apache.lucene.analysis.en.EnglishAnalyzer;
+import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.queryparser.classic.ParseException;
-import org.apache.lucene.search.similarities.BM25Similarity;
-
+import org.apache.lucene.search.similarities.*;
+import org.apache.lucene.analysis.core.KeywordAnalyzer;
+import org.apache.lucene.analysis.en.EnglishAnalyzer;
+import org.apache.lucene.analysis.core.SimpleAnalyzer;
+import org.apache.lucene.analysis.core.StopAnalyzer;
+import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import java.io.IOException;
 
 public class Main {
     public static boolean REMAKE_INDEX = false;
-    public static String EVAL_DIR = "target/eval";
+    public static String EVAL_DIR = "target/evaluation";
+
+    public static Similarity[] similarityModels = {
+        new ClassicSimilarity(),
+        new BM25Similarity(),
+        new LMDirichletSimilarity(),
+        new LMJelinekMercerSimilarity(0.5f),
+        new BooleanSimilarity(),
+        new AxiomaticF1EXP(),
+        new AxiomaticF1LOG(),
+        new IndriDirichletSimilarity()
+    };
+
+    public static Analyzer[] analyzers = {
+        new StopAnalyzer(EnglishAnalyzer.ENGLISH_STOP_WORDS_SET),
+        new SimpleAnalyzer(),
+        new EnglishAnalyzer(),
+        new KeywordAnalyzer(),
+        new WhitespaceAnalyzer(),
+        new StandardAnalyzer(EnglishAnalyzer.ENGLISH_STOP_WORDS_SET)
+    };
+
     public static void main(String[] args) throws IOException, ParseException {
         if(REMAKE_INDEX){
             System.out.println("Running index creator...");
@@ -17,6 +43,6 @@ public class Main {
         Search search = new Search();
         search.setSimilarity(new BM25Similarity());
         search.setAnalyzer(new EnglishAnalyzer());
-        search.runSearch(EVAL_DIR);
+        search.rankSearch(analyzers, similarityModels);
     }
 }
