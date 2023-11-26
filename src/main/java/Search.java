@@ -13,9 +13,7 @@ import org.apache.lucene.search.similarities.*;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.nio.file.Paths;
 
 public class Search {
@@ -48,10 +46,10 @@ public class Search {
         parser = new MultiFieldQueryParser(fields, analyzer);
     }
 
-    public void runSearch(String evalDir) throws IOException, ParseException {
+    public void runSearch(String evalFileName) throws IOException, ParseException {
         for (String[] topic : topics) {
             TopDocs results = getQueryResults(topic);
-            saveToEval(results.scoreDocs, evalDir, topic[0]);
+            saveToEval(results.scoreDocs, evalFileName, topic[0]);
         }
     }
 
@@ -63,7 +61,7 @@ public class Search {
                 setAnalyzer(analyzer);
                 setSimilarity(similarity);
                 System.out.println("Using " + similarityName + " and " + analyzerName);
-                String evalPath = "./target/" + analyzerName + similarityName;
+                String evalPath = "./target/evaluation/" + analyzerName + similarityName;
                 runSearch(evalPath);
             }
         }
@@ -87,5 +85,4 @@ public class Search {
             }
         }
     }
-
 }
