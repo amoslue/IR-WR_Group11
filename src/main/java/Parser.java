@@ -22,7 +22,7 @@ public abstract class Parser {
 
     public String[][] loadDocs() throws IOException {
         List<String[]> docList = new ArrayList<>();
-        List<File> files = listFiles(absFilePath);
+        List<File> files = Utils.listFiles(absFilePath);
 
         //System.out.println("Found " + files.size() + " files in total");
 
@@ -70,27 +70,6 @@ public abstract class Parser {
             result[i] = (doc.select(tagsToExtract[i]).text());
         }
         return result;
-    }
-
-    private List<File> listFiles(String directory) {
-        List<File> fileList = new ArrayList<>();
-        File dir = new File(directory);
-
-        if (dir.exists() && dir.isDirectory()) {
-            File[] files = dir.listFiles();
-            if (files != null) {
-                for (File file : files) {
-                    if (file.isFile()) {
-                        fileList.add(file);
-                    } else if (file.isDirectory()) {
-                        fileList.addAll(listFiles(file.getAbsolutePath()));
-                    }
-                }
-            }
-        }
-
-        //System.out.println("Found " + fileList.size() + " files in directory " + directory);
-        return fileList;
     }
 
     private boolean isInIgnoreFiles(File file) {

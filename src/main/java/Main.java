@@ -11,7 +11,10 @@ import java.io.IOException;
 
 public class Main {
     public static boolean REMAKE_INDEX = false;
+    public static boolean GENERATE_QRELS = true;
+    public static boolean GENERATE_TREC_EVAL = true;
     public static String EVAL_DIR = "target/evaluation";
+    public static String REPORT_DIR = "target/reports";
 
     public static Similarity[] similarityModels = {
         new ClassicSimilarity(),
@@ -33,16 +36,27 @@ public class Main {
         new StandardAnalyzer(EnglishAnalyzer.ENGLISH_STOP_WORDS_SET)
     };
 
-    public static void main(String[] args) throws IOException, ParseException {
+    public static void main(String[] args) throws Exception {
+        Utils.makeDir(EVAL_DIR);
+        Utils.makeDir(REPORT_DIR);
+        Utils.emptyDirectory(EVAL_DIR);
+        Utils.emptyDirectory(REPORT_DIR);
+
         if(REMAKE_INDEX){
             System.out.println("Running index creator...");
             IndexCreator indexCreator = new IndexCreator();
             indexCreator.createIndex();
             System.out.println("Running queryer...");
         }
-        Search search = new Search();
-        search.setSimilarity(new BM25Similarity());
-        search.setAnalyzer(new EnglishAnalyzer());
-        search.rankSearch(analyzers, similarityModels);
+
+        if(GENERATE_QRELS){
+            Search search = new Search();
+            search.rankSearch(analyzers, similarityModels);
+        }
+
+        if(GENERATE_TREC_EVAL){
+            TrecEvalRunner.runTrecEval();
+            TrecEvalRunner.rankQrels();
+        }
     }
 }
