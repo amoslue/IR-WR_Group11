@@ -1,5 +1,6 @@
 import org.jsoup.nodes.Document;
 
+import java.io.Console;
 import java.io.IOException;
 import java.io.File;
 import java.util.ArrayList;
@@ -22,6 +23,8 @@ public abstract class Parser {
     public String[][] loadDocs() throws IOException {
         List<String[]> docList = new ArrayList<>();
         List<File> files = listFiles(absFilePath);
+
+        //System.out.println("Found " + files.size() + " files in total");
 
         for (File file : files) {
             if (IGNORE_FILES != null) {
@@ -86,6 +89,7 @@ public abstract class Parser {
             }
         }
 
+        //System.out.println("Found " + fileList.size() + " files in directory " + directory);
         return fileList;
     }
 
