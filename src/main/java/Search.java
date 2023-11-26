@@ -19,7 +19,7 @@ import java.io.IOException;
 import java.nio.file.Paths;
 
 public class Search {
-    private static final int MAX_RESULTS = 50;
+    private static final int MAX_RESULTS = 1000;
     private static final String INDEX_DIR = "target/index";
 
     IndexReader indexReader;

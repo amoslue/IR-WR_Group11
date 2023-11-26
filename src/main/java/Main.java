@@ -26,11 +26,11 @@ public class Main {
 
     public static Analyzer[] analyzers = {
         new StopAnalyzer(EnglishAnalyzer.ENGLISH_STOP_WORDS_SET),
-        new SimpleAnalyzer(),
-        new EnglishAnalyzer(),
-        new KeywordAnalyzer(),
-        new WhitespaceAnalyzer(),
-        new StandardAnalyzer(EnglishAnalyzer.ENGLISH_STOP_WORDS_SET)
+//        new SimpleAnalyzer(),
+//        new EnglishAnalyzer(),
+//        new KeywordAnalyzer(),
+//        new WhitespaceAnalyzer(),
+//        new StandardAnalyzer(EnglishAnalyzer.ENGLISH_STOP_WORDS_SET)
     };
 
     public static void main(String[] args) throws IOException, ParseException {
