@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="df0db328-3d6f-4955-913e-c25335d4affe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IndexCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IndexCreator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Searcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TrecEvalRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TrecEvalRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;ddh&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/ree/opt/IR-WR_Group11/src/main/resources&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -61,6 +58,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/Assignment Two" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -123,7 +124,10 @@
       <workItem from="1700606071607" duration="19000" />
       <workItem from="1700606113730" duration="3872000" />
       <workItem from="1700655432921" duration="2216000" />
-      <workItem from="1701004180752" duration="16417000" />
+      <workItem from="1701004180752" duration="17889000" />
+      <workItem from="1701089868895" duration="1573000" />
+      <workItem from="1701093575993" duration="1012000" />
+      <workItem from="1701094641050" duration="2013000" />
     </task>
     <servers />
   </component>
