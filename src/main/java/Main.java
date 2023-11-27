@@ -15,10 +15,11 @@ public class Main {
     private final static String REPORT_DIR = "./target/reports";
 
     public static Similarity[] similarities = {
-        new ClassicSimilarity(),
+//        new ClassicSimilarity(),
         new BM25Similarity(),
+            //new MultiSimilarity()
 //        new LMDirichletSimilarity(),
-//        new LMJelinekMercerSimilarity(0.5f),
+        //new LMJelinekMercerSimilarity(0.5f)
 //        new BooleanSimilarity(),
 //        new AxiomaticF1EXP(),
 //        new AxiomaticF1LOG(),
@@ -26,12 +27,13 @@ public class Main {
     };
 
     public static Analyzer[] analyzers = {
-        new StopAnalyzer(EnglishAnalyzer.ENGLISH_STOP_WORDS_SET),
+            //new StopAnalyzer(EnglishAnalyzer.ENGLISH_STOP_WORDS_SET),
+            new YuanpeiCustomAnalyzer(),
 //        new SimpleAnalyzer(),
-//        new EnglishAnalyzer(),
+        new EnglishAnalyzer(),
 //        new KeywordAnalyzer(),
 //        new WhitespaceAnalyzer(),
-//        new StandardAnalyzer(EnglishAnalyzer.ENGLISH_STOP_WORDS_SET)
+        new StandardAnalyzer()
     };
 
     public static void main(String[] args) throws Exception {
