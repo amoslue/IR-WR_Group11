@@ -10,21 +10,19 @@ import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import java.io.IOException;
 
 public class Main {
-    public static boolean REMAKE_INDEX = false;
-    public static boolean GENERATE_QRELS = true;
-    public static boolean GENERATE_TREC_EVAL = true;
-    public static String EVAL_DIR = "target/evaluation";
-    public static String REPORT_DIR = "target/reports";
+    private final static boolean REMAKE_INDEX = true;
+    private final static String EVAL_DIR = "./target/evaluations";
+    private final static String REPORT_DIR = "./target/reports";
 
-    public static Similarity[] similarityModels = {
+    public static Similarity[] similarities = {
         new ClassicSimilarity(),
         new BM25Similarity(),
-        new LMDirichletSimilarity(),
-        new LMJelinekMercerSimilarity(0.5f),
-        new BooleanSimilarity(),
-        new AxiomaticF1EXP(),
-        new AxiomaticF1LOG(),
-        new IndriDirichletSimilarity()
+//        new LMDirichletSimilarity(),
+//        new LMJelinekMercerSimilarity(0.5f),
+//        new BooleanSimilarity(),
+//        new AxiomaticF1EXP(),
+//        new AxiomaticF1LOG(),
+//        new IndriDirichletSimilarity()
     };
 
     public static Analyzer[] analyzers = {
@@ -37,26 +35,22 @@ public class Main {
     };
 
     public static void main(String[] args) throws Exception {
-        Utils.makeDir(EVAL_DIR);
-        Utils.makeDir(REPORT_DIR);
-        Utils.emptyDirectory(EVAL_DIR);
-        Utils.emptyDirectory(REPORT_DIR);
+//        Utils.emptyDirectory(EVAL_DIR);
+//        Utils.emptyDirectory(REPORT_DIR);
 
-        if(REMAKE_INDEX){
-            System.out.println("Running index creator...");
-            IndexCreator indexCreator = new IndexCreator();
-            indexCreator.createIndex();
-            System.out.println("Running queryer...");
-        }
+        for (Analyzer analyzer : analyzers)
+        {
+            for (Similarity similarity : similarities)
+            {
+                System.out.println("\nAnalyzer: " + analyzer.getClass().getSimpleName() + ", Similarity: " + similarity.getClass().getSimpleName());
 
-        if(GENERATE_QRELS){
-            Search search = new Search();
-            search.rankSearch(analyzers, similarityModels);
-        }
+                if(REMAKE_INDEX)
+                    IndexCreator.createIndex(analyzer, similarity);
 
-        if(GENERATE_TREC_EVAL){
-            TrecEvalRunner.runTrecEval();
-            TrecEvalRunner.rankQrels();
+                Searcher.rankSearch(analyzer, similarity);
+
+                TrecEvalRunner.runTrecEval(analyzer, similarity);
+            }
         }
     }
 }

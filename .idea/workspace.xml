@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df0db328-3d6f-4955-913e-c25335d4affe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IndexCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IndexCreator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Searcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TrecEvalRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TrecEvalRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +67,13 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
+    <configuration name="IndexCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IndexCreator" />
+      <module name="IR-WR_Group11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="IR-WR_Group11" />
@@ -75,6 +83,13 @@
     </configuration>
     <configuration name="Queryer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Queryer" />
+      <module name="IR-WR_Group11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Searcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searcher" />
       <module name="IR-WR_Group11" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,6 +106,8 @@
       <list>
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TrecEvalRunner" />
+        <item itemvalue="Application.Searcher" />
+        <item itemvalue="Application.IndexCreator" />
         <item itemvalue="Application.Queryer" />
       </list>
     </recent_temporary>
@@ -106,7 +123,7 @@
       <workItem from="1700606071607" duration="19000" />
       <workItem from="1700606113730" duration="3872000" />
       <workItem from="1700655432921" duration="2216000" />
-      <workItem from="1701004180752" duration="7063000" />
+      <workItem from="1701004180752" duration="16417000" />
     </task>
     <servers />
   </component>

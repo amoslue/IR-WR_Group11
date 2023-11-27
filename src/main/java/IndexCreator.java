@@ -10,14 +10,15 @@ import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.search.similarities.BM25Similarity;
+import org.apache.lucene.search.similarities.Similarity;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
 public class IndexCreator {
-    private static final String INDEX_DIR = "target/index";
+    private static final String INDEX_DIR = "target/index/";
 
     //    input: 4 String arrays, output: 1 String array
-    public String[][] combineArrays(String[][] array1, String[][] array2, String[][] array3, String[][] array4) {
+    public static String[][] combineArrays(String[][] array1, String[][] array2, String[][] array3, String[][] array4) {
         int totalRows = array1.length + array2.length + array3.length + array4.length;
         int totalCols = 0;
 
@@ -39,16 +40,21 @@ public class IndexCreator {
         return combinedArray;
     }
 
-    public void createIndex() throws IOException {
-        Directory directory = FSDirectory.open(Paths.get(INDEX_DIR));
+    public static void createIndex(Analyzer analyzer, Similarity similarity) throws Exception {
+        String analyzerName = analyzer.getClass().getSimpleName();
+        String similarityName = similarity.getClass().getSimpleName();
+
+        String outputDir = INDEX_DIR + analyzerName + "_" + similarityName;
+        Utils.makeDir(INDEX_DIR);
+        Directory directory = FSDirectory.open(Paths.get(outputDir));
 
 //        will customize our analyzer later
-        Analyzer analyzer = new EnglishAnalyzer();
+//        Analyzer analyzer = new EnglishAnalyzer();
 
         IndexWriterConfig config = new IndexWriterConfig(analyzer);
 
 //        customize similarity
-        config.setSimilarity(new BM25Similarity());
+        config.setSimilarity(similarity);
 
         config.setOpenMode(IndexWriterConfig.OpenMode.CREATE);
         IndexWriter iwriter = new IndexWriter(directory, config);
@@ -100,8 +106,7 @@ public class IndexCreator {
         System.out.println("metadata: " + entry[3]);
     }
 
-    public static void main(String[] args) throws IOException {
-        IndexCreator indexCreator = new IndexCreator();
-        indexCreator.createIndex();
+    public static void main(String[] args) throws Exception {
+        IndexCreator.createIndex(new EnglishAnalyzer(), new BM25Similarity());
     }
 }
