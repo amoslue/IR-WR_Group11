@@ -19,7 +19,7 @@ import java.nio.file.Paths;
 import java.util.Objects;
 
 public class Searcher {
-    private static final int MAX_RESULTS = 50;
+    private static final int MAX_RESULTS = 1000;
 
     private static final String INDEX_DIR = "target/index/";
 
@@ -41,7 +41,9 @@ public class Searcher {
         IndexReader indexReader = DirectoryReader.open(directory);
         IndexSearcher indexSearcher = new IndexSearcher(indexReader);
         indexSearcher.setSimilarity(similarity);
-        String[] fields = {"title", "text", "metadata"};
+        //String[] fields = {"title", "text", "metadata"};
+
+        String[] fields = {"title^4", "text"}; //Modify 1
         MultiFieldQueryParser parser = new MultiFieldQueryParser(fields, analyzer);
         String[][] topics = TopicParser.loadQueries();
 
@@ -50,8 +52,11 @@ public class Searcher {
         for (String[] topic : topics) {
 //            TopDocs results = getQueryResults(topic);
 //            saveToEval(results.scoreDocs, evalFileName, topic[0]);
+            //System.out.println(topic);
+            //String topicString = topic[1] + " " + topic[2] + " " + topic[3];
+            String topicString = topic[1] + " " + topic[2]; // Modify 2
+            //System.out.println(topicString);
 
-            String topicString = topic[1] + " " + topic[2] + " " + topic[3];
             Query query = parser.parse(QueryParser.escape(topicString));
             TopDocs results = indexSearcher.search(query, MAX_RESULTS);
 
@@ -63,10 +68,11 @@ public class Searcher {
                     Document doc = indexSearcher.storedFields().document(scoreDoc.doc);
                     float score = scoreDoc.score;
                     String docIndex = doc.get("id");
-                    evalWriter.write(topic[0] + " 0 " + docIndex + " " + i + " " + score + " Group11\n");
+                    evalWriter.write(topic[0] + " 0 " + docIndex + " " + i + " " + score + " STANDARD\n");
                     i++;
                 }
             }
+
         }
     }
 

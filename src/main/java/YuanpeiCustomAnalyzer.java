@@ -8,8 +8,10 @@ import java.util.*;
 
 import org.apache.lucene.analysis.StopwordAnalyzerBase;
 import org.apache.lucene.analysis.core.FlattenGraphFilter;
+import org.apache.lucene.analysis.en.EnglishMinimalStemFilter;
 import org.apache.lucene.analysis.en.EnglishPossessiveFilter;
 import org.apache.lucene.analysis.en.KStemFilter;
+import org.apache.lucene.analysis.en.PorterStemFilter;
 import org.apache.lucene.analysis.miscellaneous.TrimFilter;
 import org.apache.lucene.analysis.miscellaneous.WordDelimiterGraphFilter;
 import org.apache.lucene.analysis.snowball.SnowballFilter;
@@ -26,14 +28,14 @@ public class YuanpeiCustomAnalyzer extends StopwordAnalyzerBase {
         final StandardTokenizer tokenizer = new StandardTokenizer();
 
         TokenStream tokenStream = tokenizer;
-        tokenStream = new EnglishPossessiveFilter(tokenStream);
-
         tokenStream = new LowerCaseFilter(tokenStream);
+        tokenStream = new EnglishPossessiveFilter(tokenStream);
 
         tokenStream = new TrimFilter(tokenStream);
 
         //tokenStream = new EnglishMinimalStemFilter(tokenStream);
         tokenStream = new KStemFilter(tokenStream);
+        tokenStream = new PorterStemFilter(tokenStream);
 
         tokenStream = new FlattenGraphFilter(new WordDelimiterGraphFilter(tokenStream,
                 WordDelimiterGraphFilter.SPLIT_ON_NUMERICS |
@@ -41,11 +43,13 @@ public class YuanpeiCustomAnalyzer extends StopwordAnalyzerBase {
                         WordDelimiterGraphFilter.GENERATE_NUMBER_PARTS |
                         WordDelimiterGraphFilter.PRESERVE_ORIGINAL , null));
 
-//        tokenStream = new FlattenGraphFilter(new SynonymGraphFilter(tokenStream, createSynonymMap(), true));
+
         tokenStream = new StopFilter(tokenStream, StopFilter.makeStopSet(createStopWordList(),true));
         tokenStream = new SnowballFilter(tokenStream, new EnglishStemmer());
+
         return new TokenStreamComponents(tokenizer, tokenStream);
     }
+
     private SynonymMap createSynonymMap() {
         SynonymMap synMap = new SynonymMap(null, null, 0);
         try {
@@ -55,8 +59,8 @@ public class YuanpeiCustomAnalyzer extends StopwordAnalyzerBase {
             String country = countries.readLine();
 
             while(country != null) {
-                builder.add(new CharsRef("country"), new CharsRef(country), true);
-                builder.add(new CharsRef("countries"), new CharsRef(country), true);
+                builder.add(new CharsRef(country), new CharsRef("country"), true);
+                builder.add(new CharsRef(country), new CharsRef("countries"), true);
                 country = countries.readLine();
             }
 

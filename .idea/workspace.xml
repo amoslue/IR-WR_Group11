@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df0db328-3d6f-4955-913e-c25335d4affe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Searcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Searcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/YuanpeiCustomAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/YuanpeiCustomAnalyzer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +48,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;ddh&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Merging ddh&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/ree/opt/IR-WR_Group11/src/main/resources&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -128,6 +131,8 @@
       <workItem from="1701089868895" duration="1573000" />
       <workItem from="1701093575993" duration="1012000" />
       <workItem from="1701094641050" duration="2013000" />
+      <workItem from="1701117975526" duration="3285000" />
+      <workItem from="1701348212252" duration="1013000" />
     </task>
     <servers />
   </component>

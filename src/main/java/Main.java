@@ -8,6 +8,9 @@ import org.apache.lucene.analysis.core.StopAnalyzer;
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
 public class Main {
     private final static boolean REMAKE_INDEX = true;
@@ -15,43 +18,70 @@ public class Main {
     private final static String REPORT_DIR = "./target/reports";
 
     public static Similarity[] similarities = {
-//        new ClassicSimilarity(),
-        new BM25Similarity(),
-//        new LMDirichletSimilarity(),
-        new LMJelinekMercerSimilarity(0.5f),
-        new BooleanSimilarity(),
-//        new AxiomaticF1EXP(),
-//        new AxiomaticF1LOG(),
-//        new IndriDirichletSimilarity()
+            new BM25Similarity(),
+            new LMDirichletSimilarity(),
+            new LMJelinekMercerSimilarity(0.5f),
+            new AxiomaticF1EXP(),
+            new AxiomaticF1LOG(),
+            new IndriDirichletSimilarity(),
+            new IBSimilarity(new DistributionSPL(), new LambdaDF(), new NormalizationH1()),
+            new DFRSimilarity(new BasicModelIn(), new AfterEffectL(), new NormalizationH2())
     };
 
     public static Analyzer[] analyzers = {
-//        new StopAnalyzer(EnglishAnalyzer.ENGLISH_STOP_WORDS_SET),
-//        new SimpleAnalyzer(),
-//        new EnglishAnalyzer(),
-//        new KeywordAnalyzer(),
-//        new WhitespaceAnalyzer(),
-//        new StandardAnalyzer(EnglishAnalyzer.ENGLISH_STOP_WORDS_SET)
-        new YuanpeiCustomAnalyzer()
+            new StopAnalyzer(EnglishAnalyzer.ENGLISH_STOP_WORDS_SET),
+            new YuanpeiCustomAnalyzer(),
+            new EnglishAnalyzer(),
+            new KeywordAnalyzer(),
+            new StandardAnalyzer()
     };
 
     public static void main(String[] args) throws Exception {
-//        Utils.emptyDirectory(EVAL_DIR);
-//        Utils.emptyDirectory(REPORT_DIR);
+        Scanner scanner = new Scanner(System.in);
 
-        for (Analyzer analyzer : analyzers)
-        {
-            for (Similarity similarity : similarities)
-            {
-                System.out.println("\nAnalyzer: " + analyzer.getClass().getSimpleName() + ", Similarity: " + similarity.getClass().getSimpleName());
+        List<Analyzer> selectedAnalyzers = new ArrayList<>();
+        List<Similarity> selectedSimilarities = new ArrayList<>();
 
-                if(REMAKE_INDEX)
-                    IndexCreator.createIndex(analyzer, similarity);
+        // Allow the user to select multiple analyzers
+        System.out.println("Analyzers:");
+        for (int i = 0; i < analyzers.length; i++) {
+            System.out.println(i + ". " + analyzers[i].getClass().getSimpleName());
+        }
+        System.out.print("Select analyzers (Enter the numbers separated by spaces): ");
+        String analyzerSelection = scanner.nextLine();
+        String[] analyzerIndexes = analyzerSelection.split(" ");
+        for (String index : analyzerIndexes) {
+            int selectedAnalyzerIndex = Integer.parseInt(index);
+            selectedAnalyzers.add(analyzers[selectedAnalyzerIndex]);
+        }
 
-                Searcher.rankSearch(analyzer, similarity);
+        // Allow the user to select multiple similarities
+        System.out.println("Similarities: ");
+        for (int i = 0; i < similarities.length; i++) {
+            System.out.println(i + ". " + similarities[i].getClass().getSimpleName());
+        }
+        System.out.print("Select Similarities (Enter the numbers separated by spaces): ");
+        String similaritySelection = scanner.nextLine();
+        String[] similarityIndices = similaritySelection.split(" ");
+        for (String index : similarityIndices) {
+            int selectedSimilarityIndex = Integer.parseInt(index);
+            selectedSimilarities.add(similarities[selectedSimilarityIndex]);
+        }
 
-                TrecEvalRunner.runTrecEval(analyzer, similarity);
+        for (Analyzer selectedAnalyzer : selectedAnalyzers) {
+            for (Similarity selectedSimilarity : selectedSimilarities) {
+                System.out.println("\nAnalyzer: " + selectedAnalyzer.getClass().getSimpleName() +
+                        ", Similarity: " + selectedSimilarity.getClass().getSimpleName());
+
+                if (REMAKE_INDEX)
+                    IndexCreator.createIndex(selectedAnalyzer, selectedSimilarity);
+
+                Searcher.rankSearch(selectedAnalyzer, selectedSimilarity);
+
+                TrecEvalRunner.runTrecEval(selectedAnalyzer, selectedSimilarity);
             }
         }
+
+        scanner.close();
     }
 }
