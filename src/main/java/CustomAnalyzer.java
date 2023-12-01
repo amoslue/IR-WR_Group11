@@ -20,7 +20,9 @@ import org.apache.lucene.analysis.synonym.SynonymGraphFilter;
 import org.apache.lucene.analysis.synonym.SynonymMap;
 import org.apache.lucene.util.CharsRef;
 import org.tartarus.snowball.ext.EnglishStemmer;
-public class YuanpeiCustomAnalyzer extends StopwordAnalyzerBase {
+
+
+public class CustomAnalyzer extends StopwordAnalyzerBase {
     private final Path currentRelativePath = Paths.get("").toAbsolutePath();
 
     @Override

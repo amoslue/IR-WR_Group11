@@ -30,7 +30,7 @@ public class Main {
 
     public static Analyzer[] analyzers = {
             new StopAnalyzer(EnglishAnalyzer.ENGLISH_STOP_WORDS_SET),
-            new YuanpeiCustomAnalyzer(),
+            new CustomAnalyzer(),
             new EnglishAnalyzer(),
             new KeywordAnalyzer(),
             new StandardAnalyzer()
